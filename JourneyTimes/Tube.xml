@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tube>
+  <station name="Acton Town">
+    <required>true</required>
+    <line></line>
+    <osx>519457</osx>
+    <osy>179639</osy>
+    <latitude>51.5030714769</latitude>
+    <longitude>-0.2802882962</longitude>
+    <zone>3</zone>
+  </station>
+</tube>
