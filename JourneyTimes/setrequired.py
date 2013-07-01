@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Add the line data for each station
+Set value of <required> sub-element for each station.
 """
 import xml.etree.ElementTree as ET
 
