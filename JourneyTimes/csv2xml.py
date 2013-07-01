@@ -5,16 +5,16 @@ Read csv station data and create an xml file from it
 from pylab import csv2rec
 import xml.etree.ElementTree as ET
 
-stationdata = csv2rec("London270.csv", delimiter=',', converterd={5:str})
+stationdata = csv2rec("AllStations.csv", delimiter=',', converterd={5:str})
 
 tree = ET.parse('Tube.xml')
 root = tree.getroot()
 
-for i in range(1, stationdata.size):
+for i in range(0, stationdata.size):
     newstation = ET.Element('station', {'name': stationdata[i][0]})
 
     newrequired = ET.Element('required', {})
-    newrequired.text = "true"
+    #newrequired.text = "true"
     newstation.append(newrequired)
 
     newline = ET.Element('line', {})
@@ -42,4 +42,4 @@ for i in range(1, stationdata.size):
 
     root.append(newstation)
 
-tree.write('test1.xml')
+tree.write('AllStations.xml')
