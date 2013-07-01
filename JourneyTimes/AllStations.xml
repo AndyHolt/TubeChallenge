@@ -1,8 +1,7 @@
-<?xml version="1.0"?>
 <tube>
   <station name="Abbey Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539081</osx>
     <osy>183352</osy>
     <latitude>51.5319519857</latitude>
@@ -10,8 +9,8 @@
     <zone>3</zone>
   </station>
   <station name="Abbey Wood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>547297</osx>
     <osy>179002</osy>
     <latitude>51.4907840804</latitude>
@@ -19,8 +18,8 @@
     <zone>4</zone>
   </station>
   <station name="Acton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>520296</osx>
     <osy>181196</osy>
     <latitude>51.5168869634</latitude>
@@ -28,8 +27,8 @@
     <zone>3</zone>
   </station>
   <station name="Acton Central">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>520613</osx>
     <osy>180299</osy>
     <latitude>51.508757812</latitude>
@@ -37,8 +36,8 @@
     <zone>2</zone>
   </station>
   <station name="Acton Town">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519457</osx>
     <osy>179639</osy>
     <latitude>51.5030714769</latitude>
@@ -46,8 +45,8 @@
     <zone>3</zone>
   </station>
   <station name="Albany Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>547903</osx>
     <osy>172902</osy>
     <latitude>51.4358155902</latitude>
@@ -55,8 +54,8 @@
     <zone>5</zone>
   </station>
   <station name="Aldgate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>533629</osx>
     <osy>181246</osy>
     <latitude>51.5143423875</latitude>
@@ -64,8 +63,8 @@
     <zone>1</zone>
   </station>
   <station name="Aldgate East">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>533809</osx>
     <osy>181333</osy>
     <latitude>51.5150816311</latitude>
@@ -73,8 +72,8 @@
     <zone>1</zone>
   </station>
   <station name="Alexandra Palace">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530300</osx>
     <osy>190498</osy>
     <latitude>51.5982628369</latitude>
@@ -82,8 +81,8 @@
     <zone>3</zone>
   </station>
   <station name="All Saints">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538012</osx>
     <osy>180933</osy>
     <latitude>51.5104769255</latitude>
@@ -91,8 +90,8 @@
     <zone>2</zone>
   </station>
   <station name="Alperton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518025</osx>
     <osy>183849</osy>
     <latitude>51.5412093106</latitude>
@@ -100,8 +99,8 @@
     <zone>4</zone>
   </station>
   <station name="Amersham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>496454</osx>
     <osy>198181</osy>
     <latitude>51.6741293921</latitude>
@@ -109,8 +108,8 @@
     <zone>9</zone>
   </station>
   <station name="Anerley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534656</osx>
     <osy>169942</osy>
     <latitude>51.4125167254</latitude>
@@ -118,8 +117,8 @@
     <zone>4</zone>
   </station>
   <station name="Angel">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531497</osx>
     <osy>183263</osy>
     <latitude>51.5329680281</latitude>
@@ -127,8 +126,8 @@
     <zone>1</zone>
   </station>
   <station name="Angel Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535204</osx>
     <osy>192202</osy>
     <latitude>51.6124203251</latitude>
@@ -136,8 +135,8 @@
     <zone>4</zone>
   </station>
   <station name="Archway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529356</osx>
     <osy>186827</osy>
     <latitude>51.5654905502</latitude>
@@ -145,8 +144,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Arnos Grove">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529271</osx>
     <osy>192471</osy>
     <latitude>51.6162301577</latitude>
@@ -154,8 +153,8 @@
     <zone>4</zone>
   </station>
   <station name="Arsenal">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531429</osx>
     <osy>186107</osy>
     <latitude>51.5585413882</latitude>
@@ -163,8 +162,8 @@
     <zone>2</zone>
   </station>
   <station name="Baker Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527965</osx>
     <osy>182078</osy>
     <latitude>51.5231296392</latitude>
@@ -172,8 +171,8 @@
     <zone>1</zone>
   </station>
   <station name="Balham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528482</osx>
     <osy>173195</osy>
     <latitude>51.4431825802</latitude>
@@ -181,8 +180,8 @@
     <zone>3</zone>
   </station>
   <station name="Bank">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532704</osx>
     <osy>181111</osy>
     <latitude>51.5133470727</latitude>
@@ -190,8 +189,8 @@
     <zone>1</zone>
   </station>
   <station name="Banstead">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524590</osx>
     <osy>160426</osy>
     <latitude>51.3292931485</latitude>
@@ -199,8 +198,8 @@
     <zone>6</zone>
   </station>
   <station name="Barbican">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532079</osx>
     <osy>181859</osy>
     <latitude>51.520215295</latitude>
@@ -208,8 +207,8 @@
     <zone>1</zone>
   </station>
   <station name="Barking">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544405</osx>
     <osy>184343</osy>
     <latitude>51.5395211029</latitude>
@@ -217,8 +216,8 @@
     <zone>4</zone>
   </station>
   <station name="Barkingside">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544788</osx>
     <osy>189510</osy>
     <latitude>51.5858506025</latitude>
@@ -226,8 +225,8 @@
     <zone>4</zone>
   </station>
   <station name="Barnehurst">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>550206</osx>
     <osy>176193</osy>
     <latitude>51.4647802666</latitude>
@@ -235,8 +234,8 @@
     <zone>6</zone>
   </station>
   <station name="Barnes">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522209</osx>
     <osy>175705</osy>
     <latitude>51.4671278019</latitude>
@@ -244,8 +243,8 @@
     <zone>3</zone>
   </station>
   <station name="Barnes Bridge">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>521478</osx>
     <osy>176255</osy>
     <latitude>51.4722280831</latitude>
@@ -253,8 +252,8 @@
     <zone>3</zone>
   </station>
   <station name="Barons Court">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524133</osx>
     <osy>178322</osy>
     <latitude>51.4902287077</latitude>
@@ -262,8 +261,8 @@
     <zone>2</zone>
   </station>
   <station name="Battersea Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528703</osx>
     <osy>176999</osy>
     <latitude>51.4773183408</latitude>
@@ -271,8 +270,8 @@
     <zone>2</zone>
   </station>
   <station name="Bayswater">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525845</osx>
     <osy>180799</osy>
     <latitude>51.5121113109</latitude>
@@ -280,8 +279,8 @@
     <zone>1</zone>
   </station>
   <station name="Beckenham Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538002</osx>
     <osy>171379</osy>
     <latitude>51.4246260595</latitude>
@@ -289,8 +288,8 @@
     <zone>4</zone>
   </station>
   <station name="Beckenham Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537403</osx>
     <osy>169840</osy>
     <latitude>51.410941644</latitude>
@@ -298,8 +297,8 @@
     <zone>4</zone>
   </station>
   <station name="Beckton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543145</osx>
     <osy>181509</osy>
     <latitude>51.5143766215</latitude>
@@ -307,8 +306,8 @@
     <zone>3</zone>
   </station>
   <station name="Beckton Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542697</osx>
     <osy>180887</osy>
     <latitude>51.5089007865</latitude>
@@ -316,8 +315,8 @@
     <zone>3</zone>
   </station>
   <station name="Becontree">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>547598</osx>
     <osy>184442</osy>
     <latitude>51.5395853931</latitude>
@@ -325,8 +324,8 @@
     <zone>5</zone>
   </station>
   <station name="Bellingham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537702</osx>
     <osy>172399</osy>
     <latitude>51.4338648954</latitude>
@@ -334,8 +333,8 @@
     <zone>3</zone>
   </station>
   <station name="Belmont">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525500</osx>
     <osy>162098</osy>
     <latitude>51.3441199485</latitude>
@@ -343,8 +342,8 @@
     <zone>5</zone>
   </station>
   <station name="Belsize Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527399</osx>
     <osy>185075</osy>
     <latitude>51.5501908973</latitude>
@@ -352,8 +351,8 @@
     <zone>2</zone>
   </station>
   <station name="Belvedere">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>549498</osx>
     <osy>179197</osy>
     <latitude>51.4919589839</latitude>
@@ -361,8 +360,8 @@
     <zone>5</zone>
   </station>
   <station name="Bermondsey">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>534461</osx>
     <osy>179445</osy>
     <latitude>51.4979607876</latitude>
@@ -370,8 +369,8 @@
     <zone>2</zone>
   </station>
   <station name="Berrylands">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>519728</osx>
     <osy>168040</osy>
     <latitude>51.3987684399</latitude>
@@ -379,8 +378,8 @@
     <zone>5</zone>
   </station>
   <station name="Bethnal Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>534995</osx>
     <osy>182712</osy>
     <latitude>51.5271917475</latitude>
@@ -388,8 +387,8 @@
     <zone>2</zone>
   </station>
   <station name="Bethnal Green Rail">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534683</osx>
     <osy>182380</osy>
     <latitude>51.5242827462</latitude>
@@ -397,8 +396,8 @@
     <zone>2</zone>
   </station>
   <station name="Bexley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>549399</osx>
     <osy>173502</osy>
     <latitude>51.4408145118</latitude>
@@ -406,8 +405,8 @@
     <zone>6</zone>
   </station>
   <station name="Bexleyheath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>548294</osx>
     <osy>176000</osy>
     <latitude>51.4635499407</latitude>
@@ -415,8 +414,8 @@
     <zone>5</zone>
   </station>
   <station name="Bickley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542304</osx>
     <osy>168799</osy>
     <latitude>51.4003795632</latitude>
@@ -424,8 +423,8 @@
     <zone>5</zone>
   </station>
   <station name="Birkbeck">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535297</osx>
     <osy>168996</osy>
     <latitude>51.4038631007</latitude>
@@ -433,8 +432,8 @@
     <zone>4</zone>
   </station>
   <station name="Blackfriars">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531738</osx>
     <osy>180890</osy>
     <latitude>51.5115869399</latitude>
@@ -442,8 +441,8 @@
     <zone>1</zone>
   </station>
   <station name="Blackheath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539604</osx>
     <osy>175961</osy>
     <latitude>51.4654080094</latitude>
@@ -451,8 +450,8 @@
     <zone>3</zone>
   </station>
   <station name="Blackhorse Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>535914</osx>
     <osy>189256</osy>
     <latitude>51.5857766314</latitude>
@@ -460,8 +459,8 @@
     <zone>3</zone>
   </station>
   <station name="Blackwall">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538394</osx>
     <osy>180649</osy>
     <latitude>51.5078315409</latitude>
@@ -469,8 +468,8 @@
     <zone>2</zone>
   </station>
   <station name="Bond Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528497</osx>
     <osy>181053</osy>
     <latitude>51.5137975426</latitude>
@@ -478,8 +477,8 @@
     <zone>1</zone>
   </station>
   <station name="Borough">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532379</osx>
     <osy>179734</osy>
     <latitude>51.5010488804</latitude>
@@ -487,8 +486,8 @@
     <zone>1</zone>
   </station>
   <station name="Boston Manor">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>516391</osx>
     <osy>178755</osy>
     <latitude>51.4957655746</latitude>
@@ -496,8 +495,8 @@
     <zone>4</zone>
   </station>
   <station name="Bounds Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529996</osx>
     <osy>191466</osy>
     <latitude>51.607031936</latitude>
@@ -505,8 +504,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Bow Church">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>537414</osx>
     <osy>182824</osy>
     <latitude>51.5276152056</latitude>
@@ -514,8 +513,8 @@
     <zone>2</zone>
   </station>
   <station name="Bow Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>537148</osx>
     <osy>182753</osy>
     <latitude>51.5270418092</latitude>
@@ -523,8 +522,8 @@
     <zone>2</zone>
   </station>
   <station name="Bowes Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530299</osx>
     <osy>191498</osy>
     <latitude>51.6072495289</latitude>
@@ -532,8 +531,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Brent Cross">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523905</osx>
     <osy>187927</osy>
     <latitude>51.5765992408</latitude>
@@ -541,8 +540,8 @@
     <zone>3</zone>
   </station>
   <station name="Brentford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>517462</osx>
     <osy>177864</osy>
     <latitude>51.4875363446</latitude>
@@ -550,8 +549,8 @@
     <zone>4</zone>
   </station>
   <station name="Brimsdown">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536297</osx>
     <osy>196997</osy>
     <latitude>51.6552446177</latitude>
@@ -559,8 +558,8 @@
     <zone>5</zone>
   </station>
   <station name="Brixton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531076</osx>
     <osy>175437</osy>
     <latitude>51.4627368156</latitude>
@@ -568,8 +567,8 @@
     <zone>2</zone>
   </station>
   <station name="Brockley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536405</osx>
     <osy>175801</osy>
     <latitude>51.4647496667</latitude>
@@ -577,8 +576,8 @@
     <zone>2</zone>
   </station>
   <station name="Bromley North">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540395</osx>
     <osy>169699</osy>
     <latitude>51.4089423085</latitude>
@@ -586,8 +585,8 @@
     <zone>4</zone>
   </station>
   <station name="Bromley South">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540431</osx>
     <osy>168705</osy>
     <latitude>51.4000012861</latitude>
@@ -595,8 +594,8 @@
     <zone>5</zone>
   </station>
   <station name="Bromley-by-Bow">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>538034</osx>
     <osy>182532</osy>
     <latitude>51.5248402011</latitude>
@@ -604,8 +603,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Brondesbury">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524718</osx>
     <osy>184460</osy>
     <latitude>51.5452623868</latitude>
@@ -613,8 +612,8 @@
     <zone>2</zone>
   </station>
   <station name="Brondesbury Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524202</osx>
     <osy>183898</osy>
     <latitude>51.5403253911</latitude>
@@ -622,8 +621,8 @@
     <zone>2</zone>
   </station>
   <station name="Bruce Grove">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533758</osx>
     <osy>190115</osy>
     <latitude>51.5940112544</latitude>
@@ -631,8 +630,8 @@
     <zone>3</zone>
   </station>
   <station name="Buckhurst Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>541768</osx>
     <osy>193957</osy>
     <latitude>51.6265766547</latitude>
@@ -640,8 +639,8 @@
     <zone>5</zone>
   </station>
   <station name="Burnt Oak">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>520303</osx>
     <osy>190728</osy>
     <latitude>51.6025519438</latitude>
@@ -649,8 +648,8 @@
     <zone>4</zone>
   </station>
   <station name="Bush Hill Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533696</osx>
     <osy>195396</osy>
     <latitude>51.6414819673</latitude>
@@ -658,8 +657,8 @@
     <zone>5</zone>
   </station>
   <station name="Bushey">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>511860</osx>
     <osy>195318</osy>
     <latitude>51.6455442063</latitude>
@@ -667,8 +666,8 @@
     <zone>8</zone>
   </station>
   <station name="Caledonian Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530568</osx>
     <osy>184899</osy>
     <latitude>51.547885455</latitude>
@@ -676,8 +675,8 @@
     <zone>2</zone>
   </station>
   <station name="Caledonian Road and Barnsbury">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530800</osx>
     <osy>184393</osy>
     <latitude>51.543284589</latitude>
@@ -685,8 +684,8 @@
     <zone>2</zone>
   </station>
   <station name="Cambridge Heath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534855</osx>
     <osy>183250</osy>
     <latitude>51.5320597707</latitude>
@@ -694,8 +693,8 @@
     <zone>2</zone>
   </station>
   <station name="Camden Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529140</osx>
     <osy>184191</osy>
     <latitude>51.5418512508</latitude>
@@ -703,8 +702,8 @@
     <zone>2</zone>
   </station>
   <station name="Camden Town">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528920</osx>
     <osy>183976</osy>
     <latitude>51.5399693693</latitude>
@@ -712,8 +711,8 @@
     <zone>2</zone>
   </station>
   <station name="Canada Water">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>535399</osx>
     <osy>179493</osy>
     <latitude>51.4981684176</latitude>
@@ -721,8 +720,8 @@
     <zone>2</zone>
   </station>
   <station name="Canary Wharf">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>537558</osx>
     <osy>180153</osy>
     <latitude>51.5035784062</latitude>
@@ -730,8 +729,8 @@
     <zone>2</zone>
   </station>
   <station name="Canning Town">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>539454</osx>
     <osy>181350</osy>
     <latitude>51.5138702857</latitude>
@@ -739,8 +738,8 @@
     <zone>3</zone>
   </station>
   <station name="Cannon Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532623</osx>
     <osy>180888</osy>
     <latitude>51.5113620995</latitude>
@@ -748,8 +747,8 @@
     <zone>1</zone>
   </station>
   <station name="Canonbury">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532355</osx>
     <osy>184979</osy>
     <latitude>51.548188396</latitude>
@@ -757,8 +756,8 @@
     <zone>2</zone>
   </station>
   <station name="Canons Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518208</osx>
     <osy>191246</osy>
     <latitude>51.6076506052</latitude>
@@ -766,8 +765,8 @@
     <zone>5</zone>
   </station>
   <station name="Carpenders Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>511826</osx>
     <osy>193386</osy>
     <latitude>51.6281867645</latitude>
@@ -775,8 +774,8 @@
     <zone>7</zone>
   </station>
   <station name="Carshalton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527737</osx>
     <osy>164858</osy>
     <latitude>51.3684263856</latitude>
@@ -784,8 +783,8 @@
     <zone>5</zone>
   </station>
   <station name="Carshalton Beeches">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527552</osx>
     <osy>163625</osy>
     <latitude>51.357386861</latitude>
@@ -793,8 +792,8 @@
     <zone>5</zone>
   </station>
   <station name="Castle Bar Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515853</osx>
     <osy>181770</osy>
     <latitude>51.5229737055</latitude>
@@ -802,8 +801,8 @@
     <zone>4</zone>
   </station>
   <station name="Catford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537245</osx>
     <osy>173544</osy>
     <latitude>51.4442649148</latitude>
@@ -811,8 +810,8 @@
     <zone>3</zone>
   </station>
   <station name="Catford Bridge">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537363</osx>
     <osy>173595</osy>
     <latitude>51.4446946276</latitude>
@@ -820,8 +819,8 @@
     <zone>3</zone>
   </station>
   <station name="Chadwell Heath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>547646</osx>
     <osy>187611</osy>
     <latitude>51.5680468619</latitude>
@@ -829,8 +828,8 @@
     <zone>5</zone>
   </station>
   <station name="Chalfont and Latimer">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>499610</osx>
     <osy>197550</osy>
     <latitude>51.6679075477</latitude>
@@ -838,8 +837,8 @@
     <zone>8</zone>
   </station>
   <station name="Chalk Farm">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528126</osx>
     <osy>184421</osy>
     <latitude>51.5441491048</latitude>
@@ -847,8 +846,8 @@
     <zone>2</zone>
   </station>
   <station name="Chancery Lane">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531096</osx>
     <osy>181642</osy>
     <latitude>51.5184940298</latitude>
@@ -856,8 +855,8 @@
     <zone>1</zone>
   </station>
   <station name="Charing Cross">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530234</osx>
     <osy>180492</osy>
     <latitude>51.5083586448</latitude>
@@ -865,8 +864,8 @@
     <zone>1</zone>
   </station>
   <station name="Charlton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>541108</osx>
     <osy>178387</osy>
     <latitude>51.4868349839</latitude>
@@ -874,8 +873,8 @@
     <zone>3</zone>
   </station>
   <station name="Cheam">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524444</osx>
     <osy>163334</osy>
     <latitude>51.3554602687</latitude>
@@ -883,8 +882,8 @@
     <zone>5</zone>
   </station>
   <station name="Chelsfield">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>546944</osx>
     <osy>164021</osy>
     <latitude>51.3562645687</latitude>
@@ -892,8 +891,8 @@
     <zone>6</zone>
   </station>
   <station name="Chesham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>496048</osx>
     <osy>201650</osy>
     <latitude>51.7053800954</latitude>
@@ -901,8 +900,8 @@
     <zone>9</zone>
   </station>
   <station name="Chessington North">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>518415</osx>
     <osy>164168</osy>
     <latitude>51.3642434788</latitude>
@@ -910,8 +909,8 @@
     <zone>6</zone>
   </station>
   <station name="Chessington South">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>517974</osx>
     <osy>163319</osy>
     <latitude>51.3567045677</latitude>
@@ -919,8 +918,8 @@
     <zone>6</zone>
   </station>
   <station name="Chigwell">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>543835</osx>
     <osy>193045</osy>
     <latitude>51.6178578625</latitude>
@@ -928,8 +927,8 @@
     <zone>4</zone>
   </station>
   <station name="Chislehurst">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543205</osx>
     <osy>169405</osy>
     <latitude>51.4055984008</latitude>
@@ -937,8 +936,8 @@
     <zone>5</zone>
   </station>
   <station name="Chiswick">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>520438</osx>
     <osy>177182</osy>
     <latitude>51.4807815268</latitude>
@@ -946,8 +945,8 @@
     <zone>3</zone>
   </station>
   <station name="Chiswick Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>520352</osx>
     <osy>178692</osy>
     <latitude>51.4943707463</latitude>
@@ -955,8 +954,8 @@
     <zone>3</zone>
   </station>
   <station name="Chorleywood">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>502596</osx>
     <osy>196092</osy>
     <latitude>51.6542659897</latitude>
@@ -964,8 +963,8 @@
     <zone>7</zone>
   </station>
   <station name="City Thameslink">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531688</osx>
     <osy>181150</osy>
     <latitude>51.51393508</latitude>
@@ -973,8 +972,8 @@
     <zone>1</zone>
   </station>
   <station name="Clapham Common">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529428</osx>
     <osy>175291</osy>
     <latitude>51.4618036863</latitude>
@@ -982,8 +981,8 @@
     <zone>2</zone>
   </station>
   <station name="Clapham High Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529824</osx>
     <osy>175709</osy>
     <latitude>51.4654695294</latitude>
@@ -991,8 +990,8 @@
     <zone>2</zone>
   </station>
   <station name="Clapham Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527198</osx>
     <osy>175520</osy>
     <latitude>51.4643668047</latitude>
@@ -1000,8 +999,8 @@
     <zone>2</zone>
   </station>
   <station name="Clapham North">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530003</osx>
     <osy>175652</osy>
     <latitude>51.4649162304</latitude>
@@ -1009,8 +1008,8 @@
     <zone>2</zone>
   </station>
   <station name="Clapham South">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528782</osx>
     <osy>174259</osy>
     <latitude>51.4526765067</latitude>
@@ -1018,8 +1017,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Clapton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534748</osx>
     <osy>186531</osy>
     <latitude>51.5615690945</latitude>
@@ -1027,8 +1026,8 @@
     <zone>2</zone>
   </station>
   <station name="Clock House">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536367</osx>
     <osy>169545</osy>
     <latitude>51.4085405655</latitude>
@@ -1036,8 +1035,8 @@
     <zone>4</zone>
   </station>
   <station name="Cobham and Stoke D'Abernon">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>512362</osx>
     <osy>158925</osy>
     <latitude>51.3183472392</latitude>
@@ -1045,8 +1044,8 @@
     <zone>None</zone>
   </station>
   <station name="Cockfosters">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528087</osx>
     <osy>196424</osy>
     <latitude>51.6520244968</latitude>
@@ -1054,8 +1053,8 @@
     <zone>5</zone>
   </station>
   <station name="Colindale">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521295</osx>
     <osy>189937</osy>
     <latitude>51.5952305463</latitude>
@@ -1063,8 +1062,8 @@
     <zone>4</zone>
   </station>
   <station name="Colliers Wood">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526831</osx>
     <osy>170436</osy>
     <latitude>51.418759209</latitude>
@@ -1072,8 +1071,8 @@
     <zone>3</zone>
   </station>
   <station name="Coulsdon South">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529869</osx>
     <osy>159056</osy>
     <latitude>51.3158009605</latitude>
@@ -1081,8 +1080,8 @@
     <zone>6</zone>
   </station>
   <station name="Covent Garden">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530242</osx>
     <osy>180982</osy>
     <latitude>51.5127602496</latitude>
@@ -1090,8 +1089,8 @@
     <zone>1</zone>
   </station>
   <station name="Crayford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>551479</osx>
     <osy>174424</osy>
     <latitude>51.4485467346</latitude>
@@ -1099,8 +1098,8 @@
     <zone>6</zone>
   </station>
   <station name="Crews Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530973</osx>
     <osy>200109</osy>
     <latitude>51.6844746236</latitude>
@@ -1108,8 +1107,8 @@
     <zone>6</zone>
   </station>
   <station name="Crofton Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536517</osx>
     <osy>174739</osy>
     <latitude>51.4551792962</latitude>
@@ -1117,8 +1116,8 @@
     <zone>3</zone>
   </station>
   <station name="Crossharbour and London Arena">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537896</osx>
     <osy>179301</osy>
     <latitude>51.4958399805</latitude>
@@ -1126,8 +1125,8 @@
     <zone>2</zone>
   </station>
   <station name="Crouch Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530586</osx>
     <osy>187508</osy>
     <latitude>51.5713271114</latitude>
@@ -1135,8 +1134,8 @@
     <zone>3</zone>
   </station>
   <station name="Croxley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>507921</osx>
     <osy>195395</osy>
     <latitude>51.6470053339</latitude>
@@ -1144,8 +1143,8 @@
     <zone>7</zone>
   </station>
   <station name="Crystal Palace">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534120</osx>
     <osy>170557</osy>
     <latitude>51.4181703599</latitude>
@@ -1153,8 +1152,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Custom House">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540679</osx>
     <osy>180911</osy>
     <latitude>51.5096220531</latitude>
@@ -1162,8 +1161,8 @@
     <zone>3</zone>
   </station>
   <station name="Cutty Sark for Maritime Greenwich">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538240</osx>
     <osy>177764</osy>
     <latitude>51.4819444687</latitude>
@@ -1171,8 +1170,8 @@
     <zone>2</zone>
   </station>
   <station name="Cyprus">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543324</osx>
     <osy>180863</osy>
     <latitude>51.5085265729</latitude>
@@ -1180,8 +1179,8 @@
     <zone>3</zone>
   </station>
   <station name="Dagenham Dock">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>548900</osx>
     <osy>183000</osy>
     <latitude>51.5262871785</latitude>
@@ -1189,8 +1188,8 @@
     <zone>5</zone>
   </station>
   <station name="Dagenham East">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>550284</osx>
     <osy>185033</osy>
     <latitude>51.5441873181</latitude>
@@ -1198,8 +1197,8 @@
     <zone>5</zone>
   </station>
   <station name="Dagenham Heathway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>549035</osx>
     <osy>184665</osy>
     <latitude>51.5412117723</latitude>
@@ -1207,8 +1206,8 @@
     <zone>5</zone>
   </station>
   <station name="Dalston Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533580</osx>
     <osy>184778</osy>
     <latitude>51.5460937243</latitude>
@@ -1216,8 +1215,8 @@
     <zone>2</zone>
   </station>
   <station name="Dalston Kingsland">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533487</osx>
     <osy>185062</osy>
     <latitude>51.5486678271</latitude>
@@ -1225,8 +1224,8 @@
     <zone>2</zone>
   </station>
   <station name="Dartford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>554233</osx>
     <osy>174379</osy>
     <latitude>51.4473996157</latitude>
@@ -1234,8 +1233,8 @@
     <zone>None</zone>
   </station>
   <station name="Debden">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544275</osx>
     <osy>196133</osy>
     <latitude>51.6454919909</latitude>
@@ -1243,8 +1242,8 @@
     <zone>6</zone>
   </station>
   <station name="Denmark Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532697</osx>
     <osy>176087</osy>
     <latitude>51.46820065</latitude>
@@ -1252,8 +1251,8 @@
     <zone>2</zone>
   </station>
   <station name="Deptford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537165</osx>
     <osy>177395</osy>
     <latitude>51.4788900863</latitude>
@@ -1261,8 +1260,8 @@
     <zone>2</zone>
   </station>
   <station name="Deptford Bridge">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537466</osx>
     <osy>176912</osy>
     <latitude>51.4744767741</latitude>
@@ -1270,8 +1269,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Devons Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537603</osx>
     <osy>182233</osy>
     <latitude>51.5222584693</latitude>
@@ -1279,8 +1278,8 @@
     <zone>2</zone>
   </station>
   <station name="Dollis Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>522207</osx>
     <osy>185132</osy>
     <latitude>51.5518506195</latitude>
@@ -1288,8 +1287,8 @@
     <zone>3</zone>
   </station>
   <station name="Drayton Green">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516002</osx>
     <osy>180998</osy>
     <latitude>51.5160047153</latitude>
@@ -1297,8 +1296,8 @@
     <zone>4</zone>
   </station>
   <station name="Drayton Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531426</osx>
     <osy>185499</osy>
     <latitude>51.5530783194</latitude>
@@ -1306,8 +1305,8 @@
     <zone>2</zone>
   </station>
   <station name="Ealing Broadway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517920</osx>
     <osy>180915</osy>
     <latitude>51.5148620115</latitude>
@@ -1315,8 +1314,8 @@
     <zone>3</zone>
   </station>
   <station name="Ealing Common">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518963</osx>
     <osy>180426</osy>
     <latitude>51.5102486905</latitude>
@@ -1324,8 +1323,8 @@
     <zone>3</zone>
   </station>
   <station name="Earls Court">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525457</osx>
     <osy>178480</osy>
     <latitude>51.4913566953</latitude>
@@ -1333,8 +1332,8 @@
     <zone>1/2</zone>
   </station>
   <station name="Earlsfield">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526081</osx>
     <osy>173030</osy>
     <latitude>51.4422388298</latitude>
@@ -1342,8 +1341,8 @@
     <zone>3</zone>
   </station>
   <station name="East Acton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521656</osx>
     <osy>181159</osy>
     <latitude>51.5162634442</latitude>
@@ -1351,8 +1350,8 @@
     <zone>2</zone>
   </station>
   <station name="East Croydon">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532904</osx>
     <osy>165801</osy>
     <latitude>51.3757161127</latitude>
@@ -1360,8 +1359,8 @@
     <zone>5</zone>
   </station>
   <station name="East Dulwich">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533449</osx>
     <osy>175375</osy>
     <latitude>51.4616255922</latitude>
@@ -1369,8 +1368,8 @@
     <zone>2</zone>
   </station>
   <station name="East Finchley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527242</osx>
     <osy>189204</osy>
     <latitude>51.5873325644</latitude>
@@ -1378,8 +1377,8 @@
     <zone>3</zone>
   </station>
   <station name="East Ham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>542373</osx>
     <osy>184255</osy>
     <latitude>51.539246158</latitude>
@@ -1387,8 +1386,8 @@
     <zone>3/4</zone>
   </station>
   <station name="East India">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538729</osx>
     <osy>180753</osy>
     <latitude>51.5086840061</latitude>
@@ -1396,8 +1395,8 @@
     <zone>2/3</zone>
   </station>
   <station name="East Putney">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524387</osx>
     <osy>174840</osy>
     <latitude>51.4588798089</latitude>
@@ -1405,8 +1404,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Eastcote">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>511191</osx>
     <osy>187627</osy>
     <latitude>51.5765518715</latitude>
@@ -1414,8 +1413,8 @@
     <zone>5</zone>
   </station>
   <station name="Eden Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537396</osx>
     <osy>167598</osy>
     <latitude>51.3907961057</latitude>
@@ -1423,8 +1422,8 @@
     <zone>5</zone>
   </station>
   <station name="Edgware">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519527</osx>
     <osy>192009</osy>
     <latitude>51.6142296555</latitude>
@@ -1432,8 +1431,8 @@
     <zone>5</zone>
   </station>
   <station name="Edgware Road (Bakerloo)">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527026</osx>
     <osy>181778</osy>
     <latitude>51.5206453817</latitude>
@@ -1441,8 +1440,8 @@
     <zone>1</zone>
   </station>
   <station name="Edgware Road (Circle/District/Hammersmith and City)">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527227</osx>
     <osy>181711</osy>
     <latitude>51.5199980632</latitude>
@@ -1450,8 +1449,8 @@
     <zone>1</zone>
   </station>
   <station name="Edmonton Green">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534273</osx>
     <osy>193590</osy>
     <latitude>51.6251157096</latitude>
@@ -1459,8 +1458,8 @@
     <zone>4</zone>
   </station>
   <station name="Elephant and Castle">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531940</osx>
     <osy>179144</osy>
     <latitude>51.4958493943</latitude>
@@ -1468,8 +1467,8 @@
     <zone>1/2</zone>
   </station>
   <station name="Elm Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>552446</osx>
     <osy>185647</osy>
     <latitude>51.5491245594</latitude>
@@ -1477,8 +1476,8 @@
     <zone>6</zone>
   </station>
   <station name="Elmers End">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535788</osx>
     <osy>168389</osy>
     <latitude>51.3982911142</latitude>
@@ -1486,8 +1485,8 @@
     <zone>4</zone>
   </station>
   <station name="Elmstead Woods">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542247</osx>
     <osy>170656</osy>
     <latitude>51.4170806255</latitude>
@@ -1495,8 +1494,8 @@
     <zone>4</zone>
   </station>
   <station name="Elstree and Borehamwood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>519098</osx>
     <osy>196299</osy>
     <latitude>51.65287561</latitude>
@@ -1504,8 +1503,8 @@
     <zone>6</zone>
   </station>
   <station name="Eltham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542690</osx>
     <osy>174962</osy>
     <latitude>51.4556622139</latitude>
@@ -1513,8 +1512,8 @@
     <zone>4</zone>
   </station>
   <station name="Elverson Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537848</osx>
     <osy>176243</osy>
     <latitude>51.4683721915</latitude>
@@ -1522,8 +1521,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Embankment">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530406</osx>
     <osy>180380</osy>
     <latitude>51.5073125093</latitude>
@@ -1531,8 +1530,8 @@
     <zone>1</zone>
   </station>
   <station name="Emerson Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>553971</osx>
     <osy>187918</osy>
     <latitude>51.5691148813</latitude>
@@ -1540,8 +1539,8 @@
     <zone>6</zone>
   </station>
   <station name="Enfield Chase">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532181</osx>
     <osy>196607</osy>
     <latitude>51.6527221218</latitude>
@@ -1549,8 +1548,8 @@
     <zone>5</zone>
   </station>
   <station name="Enfield Lock">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536437</osx>
     <osy>198737</osy>
     <latitude>51.670846125</latitude>
@@ -1558,8 +1557,8 @@
     <zone>6</zone>
   </station>
   <station name="Enfield Town">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532970</osx>
     <osy>196544</osy>
     <latitude>51.6519700815</latitude>
@@ -1567,8 +1566,8 @@
     <zone>5</zone>
   </station>
   <station name="Epping">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>546197</osx>
     <osy>201552</osy>
     <latitude>51.6936861516</latitude>
@@ -1576,8 +1575,8 @@
     <zone>6</zone>
   </station>
   <station name="Epsom Downs">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522805</osx>
     <osy>159756</osy>
     <latitude>51.3236594676</latitude>
@@ -1585,8 +1584,8 @@
     <zone>6</zone>
   </station>
   <station name="Erith">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>551075</osx>
     <osy>178096</osy>
     <latitude>51.4816476531</latitude>
@@ -1594,8 +1593,8 @@
     <zone>6</zone>
   </station>
   <station name="Essex Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532114</osx>
     <osy>184132</osy>
     <latitude>51.5406333222</latitude>
@@ -1603,8 +1602,8 @@
     <zone>2</zone>
   </station>
   <station name="Euston">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529587</osx>
     <osy>182735</osy>
     <latitude>51.5286643464</latitude>
@@ -1612,8 +1611,8 @@
     <zone>1</zone>
   </station>
   <station name="Euston Square">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529587</osx>
     <osy>182735</osy>
     <latitude>51.5286643464</latitude>
@@ -1621,8 +1620,8 @@
     <zone>1</zone>
   </station>
   <station name="Ewell East">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522571</osx>
     <osy>162152</osy>
     <latitude>51.3452439053</latitude>
@@ -1630,8 +1629,8 @@
     <zone>6</zone>
   </station>
   <station name="Ewell West">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>521473</osx>
     <osy>162654</osy>
     <latitude>51.3499911731</latitude>
@@ -1639,8 +1638,8 @@
     <zone>6</zone>
   </station>
   <station name="Fairlop">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544902</osx>
     <osy>190655</osy>
     <latitude>51.5961095315</latitude>
@@ -1648,8 +1647,8 @@
     <zone>4</zone>
   </station>
   <station name="Falconwood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>544498</osx>
     <osy>175394</osy>
     <latitude>51.4590857862</latitude>
@@ -1657,8 +1656,8 @@
     <zone>4</zone>
   </station>
   <station name="Farringdon">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531585</osx>
     <osy>181844</osy>
     <latitude>51.5201957006</latitude>
@@ -1666,8 +1665,8 @@
     <zone>1</zone>
   </station>
   <station name="Feltham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>510601</osx>
     <osy>173298</osy>
     <latitude>51.4478792228</latitude>
@@ -1675,8 +1674,8 @@
     <zone>6</zone>
   </station>
   <station name="Fenchurch Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533434</osx>
     <osy>180932</osy>
     <latitude>51.511566715</latitude>
@@ -1684,8 +1683,8 @@
     <zone>1</zone>
   </station>
   <station name="Finchley Central">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525232</osx>
     <osy>190664</osy>
     <latitude>51.6009032738</latitude>
@@ -1693,8 +1692,8 @@
     <zone>4</zone>
   </station>
   <station name="Finchley Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526293</osx>
     <osy>184703</osy>
     <latitude>51.5470962203</latitude>
@@ -1702,8 +1701,8 @@
     <zone>2</zone>
   </station>
   <station name="Finchley Road and Frognal">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526035</osx>
     <osy>185033</osy>
     <latitude>51.5501195203</latitude>
@@ -1711,8 +1710,8 @@
     <zone>2</zone>
   </station>
   <station name="Finsbury Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531385</osx>
     <osy>186784</osy>
     <latitude>51.5646354581</latitude>
@@ -1720,8 +1719,8 @@
     <zone>2</zone>
   </station>
   <station name="Forest Gate">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540447</osx>
     <osy>185322</osy>
     <latitude>51.5493161153</latitude>
@@ -1729,8 +1728,8 @@
     <zone>3</zone>
   </station>
   <station name="Forest Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535398</osx>
     <osy>172943</osy>
     <latitude>51.4393083184</latitude>
@@ -1738,8 +1737,8 @@
     <zone>3</zone>
   </station>
   <station name="Fulham Broadway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525402</osx>
     <osy>177244</osy>
     <latitude>51.480260927</latitude>
@@ -1747,8 +1746,8 @@
     <zone>2</zone>
   </station>
   <station name="Fulwell">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>514832</osx>
     <osy>171841</osy>
     <latitude>51.4339426077</latitude>
@@ -1756,8 +1755,8 @@
     <zone>6</zone>
   </station>
   <station name="Gallions Reach">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543873</osx>
     <osy>180935</osy>
     <latitude>51.5090341307</latitude>
@@ -1765,8 +1764,8 @@
     <zone>3</zone>
   </station>
   <station name="Gants Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>543266</osx>
     <osy>188432</osy>
     <latitude>51.5765529434</latitude>
@@ -1774,8 +1773,8 @@
     <zone>4</zone>
   </station>
   <station name="Gidea Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>552941</osx>
     <osy>189306</osy>
     <latitude>51.5818657209</latitude>
@@ -1783,8 +1782,8 @@
     <zone>6</zone>
   </station>
   <station name="Gipsy Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533321</osx>
     <osy>171237</osy>
     <latitude>51.4244695325</latitude>
@@ -1792,8 +1791,8 @@
     <zone>3</zone>
   </station>
   <station name="Gloucester Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526196</osx>
     <osy>178848</osy>
     <latitude>51.4944995797</latitude>
@@ -1801,8 +1800,8 @@
     <zone>1</zone>
   </station>
   <station name="Golders Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525199</osx>
     <osy>187471</osy>
     <latitude>51.5722155567</latitude>
@@ -1810,8 +1809,8 @@
     <zone>3</zone>
   </station>
   <station name="Goldhawk Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523131</osx>
     <osy>179616</osy>
     <latitude>51.502076994</latitude>
@@ -1819,8 +1818,8 @@
     <zone>2</zone>
   </station>
   <station name="Goodge Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529505</osx>
     <osy>181837</osy>
     <latitude>51.5206131255</latitude>
@@ -1828,8 +1827,8 @@
     <zone>1</zone>
   </station>
   <station name="Goodmayes">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>546462</osx>
     <osy>187369</osy>
     <latitude>51.5661809681</latitude>
@@ -1837,8 +1836,8 @@
     <zone>4</zone>
   </station>
   <station name="Gordon Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531889</osx>
     <osy>197799</osy>
     <latitude>51.6635022486</latitude>
@@ -1846,8 +1845,8 @@
     <zone>5</zone>
   </station>
   <station name="Gospel Oak">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528263</osx>
     <osy>185677</osy>
     <latitude>51.5554053113</latitude>
@@ -1855,8 +1854,8 @@
     <zone>2</zone>
   </station>
   <station name="Grange Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544963</osx>
     <osy>192590</osy>
     <latitude>51.6134804138</latitude>
@@ -1864,8 +1863,8 @@
     <zone>4</zone>
   </station>
   <station name="Grange Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531753</osx>
     <osy>195472</osy>
     <latitude>51.6426230887</latitude>
@@ -1873,8 +1872,8 @@
     <zone>5</zone>
   </station>
   <station name="Great Portland Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528861</osx>
     <osy>182174</osy>
     <latitude>51.5237888131</latitude>
@@ -1882,8 +1881,8 @@
     <zone>1</zone>
   </station>
   <station name="Green Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529012</osx>
     <osy>180283</osy>
     <latitude>51.5067605015</latitude>
@@ -1891,8 +1890,8 @@
     <zone>1</zone>
   </station>
   <station name="Greenford">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>514808</osx>
     <osy>183861</osy>
     <latitude>51.5419801128</latitude>
@@ -1900,8 +1899,8 @@
     <zone>4</zone>
   </station>
   <station name="Greenwich">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537956</osx>
     <osy>177267</osy>
     <latitude>51.4775476655</latitude>
@@ -1909,8 +1908,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Grove Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540702</osx>
     <osy>172099</osy>
     <latitude>51.4304326404</latitude>
@@ -1918,8 +1917,8 @@
     <zone>4</zone>
   </station>
   <station name="Gunnersbury">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519843</osx>
     <osy>178401</osy>
     <latitude>51.4918634447</latitude>
@@ -1927,8 +1926,8 @@
     <zone>3</zone>
   </station>
   <station name="Hackbridge">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528582</osx>
     <osy>165929</osy>
     <latitude>51.3778609179</latitude>
@@ -1936,8 +1935,8 @@
     <zone>4</zone>
   </station>
   <station name="Hackney Central">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534922</osx>
     <osy>184943</osy>
     <latitude>51.5472574513</latitude>
@@ -1945,8 +1944,8 @@
     <zone>2</zone>
   </station>
   <station name="Hackney Downs">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534598</osx>
     <osy>185137</osy>
     <latitude>51.549078092</latitude>
@@ -1954,8 +1953,8 @@
     <zone>2</zone>
   </station>
   <station name="Hackney Wick">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537036</osx>
     <osy>184588</osy>
     <latitude>51.5435584091</latitude>
@@ -1963,8 +1962,8 @@
     <zone>2</zone>
   </station>
   <station name="Hadley Wood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526197</osx>
     <osy>198199</osy>
     <latitude>51.6684028923</latitude>
@@ -1972,8 +1971,8 @@
     <zone>6</zone>
   </station>
   <station name="Haggerston">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533560</osx>
     <osy>183953</osy>
     <latitude>51.5386847389</latitude>
@@ -1981,8 +1980,8 @@
     <zone>2</zone>
   </station>
   <station name="Hainault">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>545124</osx>
     <osy>191411</osy>
     <latitude>51.6028453149</latitude>
@@ -1990,8 +1989,8 @@
     <zone>4</zone>
   </station>
   <station name="Hammersmith (District)">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523474</osx>
     <osy>178483</osy>
     <latitude>51.4918198029</latitude>
@@ -1999,8 +1998,8 @@
     <zone>2</zone>
   </station>
   <station name="Hammersmith (Met.)">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523346</osx>
     <osy>178665</osy>
     <latitude>51.4934833792</latitude>
@@ -2008,8 +2007,8 @@
     <zone>2</zone>
   </station>
   <station name="Hampstead">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526408</osx>
     <osy>185757</osy>
     <latitude>51.5565426167</latitude>
@@ -2017,8 +2016,8 @@
     <zone>2</zone>
   </station>
   <station name="Hampstead Heath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527344</osx>
     <osy>185631</osy>
     <latitude>51.5551999443</latitude>
@@ -2026,8 +2025,8 @@
     <zone>3</zone>
   </station>
   <station name="Hampton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>513299</osx>
     <osy>169797</osy>
     <latitude>51.4158795976</latitude>
@@ -2035,8 +2034,8 @@
     <zone>6</zone>
   </station>
   <station name="Hampton Court">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515376</osx>
     <osy>168332</osy>
     <latitude>51.4022939189</latitude>
@@ -2044,8 +2043,8 @@
     <zone>6</zone>
   </station>
   <station name="Hampton Wick">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>517407</osx>
     <osy>169752</osy>
     <latitude>51.4146400802</latitude>
@@ -2053,8 +2052,8 @@
     <zone>6</zone>
   </station>
   <station name="Hanger Lane">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518506</osx>
     <osy>182621</osy>
     <latitude>51.5300720691</latitude>
@@ -2062,8 +2061,8 @@
     <zone>3</zone>
   </station>
   <station name="Hanwell">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515426</osx>
     <osy>180560</osy>
     <latitude>51.5121859988</latitude>
@@ -2071,8 +2070,8 @@
     <zone>4</zone>
   </station>
   <station name="Harlesden">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>520952</osx>
     <osy>183367</osy>
     <latitude>51.5362583588</latitude>
@@ -2080,8 +2079,8 @@
     <zone>3</zone>
   </station>
   <station name="Harold Wood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>554858</osx>
     <osy>190626</osy>
     <latitude>51.5932021885</latitude>
@@ -2089,8 +2088,8 @@
     <zone>6</zone>
   </station>
   <station name="Harringay">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531395</osx>
     <osy>188200</osy>
     <latitude>51.5773579218</latitude>
@@ -2098,8 +2097,8 @@
     <zone>3</zone>
   </station>
   <station name="Harringay Green Lanes">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531880</osx>
     <osy>188189</osy>
     <latitude>51.5771459045</latitude>
@@ -2107,8 +2106,8 @@
     <zone>3</zone>
   </station>
   <station name="Harrow and Wealdstone">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>515486</osx>
     <osy>189508</osy>
     <latitude>51.5925946732</latitude>
@@ -2116,8 +2115,8 @@
     <zone>5</zone>
   </station>
   <station name="Harrow-on-the-Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>515329</osx>
     <osy>188035</osy>
     <latitude>51.5793881596</latitude>
@@ -2125,8 +2124,8 @@
     <zone>5</zone>
   </station>
   <station name="Hatch End">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>513024</osx>
     <osy>191370</osy>
     <latitude>51.6098285488</latitude>
@@ -2134,8 +2133,8 @@
     <zone>6</zone>
   </station>
   <station name="Hatton Cross">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>509614</osx>
     <osy>175369</osy>
     <latitude>51.4666853556</latitude>
@@ -2143,8 +2142,8 @@
     <zone>5/6</zone>
   </station>
   <station name="Haydons Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526012</osx>
     <osy>171161</osy>
     <latitude>51.4254573409</latitude>
@@ -2152,8 +2151,8 @@
     <zone>3</zone>
   </station>
   <station name="Hayes">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540003</osx>
     <osy>165993</osy>
     <latitude>51.3757367051</latitude>
@@ -2161,8 +2160,8 @@
     <zone>5</zone>
   </station>
   <station name="Hayes and Harlington">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>509717</osx>
     <osy>179417</osy>
     <latitude>51.5030491256</latitude>
@@ -2170,8 +2169,8 @@
     <zone>5</zone>
   </station>
   <station name="Headstone Lane">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>513892</osx>
     <osy>190574</osy>
     <latitude>51.6024996695</latitude>
@@ -2179,8 +2178,8 @@
     <zone>5</zone>
   </station>
   <station name="Heathrow Terminal 4">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>507939</osx>
     <osy>174565</osy>
     <latitude>51.4597804841</latitude>
@@ -2188,8 +2187,8 @@
     <zone>6</zone>
   </station>
   <station name="Heathrow Terminal 5">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>504934</osx>
     <osy>175642</osy>
     <latitude>51.4700254856</latitude>
@@ -2197,8 +2196,8 @@
     <zone>6</zone>
   </station>
   <station name="Heathrow Terminals 1 2 3">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>507587</osx>
     <osy>175838</osy>
     <latitude>51.4712894557</latitude>
@@ -2206,8 +2205,8 @@
     <zone>6</zone>
   </station>
   <station name="Hendon Central">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>522959</osx>
     <osy>188631</osy>
     <latitude>51.5831330741</latitude>
@@ -2215,8 +2214,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Herne Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531934</osx>
     <osy>174486</osy>
     <latitude>51.4539913818</latitude>
@@ -2224,8 +2223,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Heron Quays">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537386</osx>
     <osy>180127</osy>
     <latitude>51.503386571</latitude>
@@ -2233,8 +2232,8 @@
     <zone>2</zone>
   </station>
   <station name="High Barnet">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525027</osx>
     <osy>196310</osy>
     <latitude>51.6516882767</latitude>
@@ -2242,8 +2241,8 @@
     <zone>5</zone>
   </station>
   <station name="High Street Kensington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525622</osx>
     <osy>179527</osy>
     <latitude>51.5007294684</latitude>
@@ -2251,8 +2250,8 @@
     <zone>1</zone>
   </station>
   <station name="Highams Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538581</osx>
     <osy>191841</osy>
     <latitude>51.608355993</latitude>
@@ -2260,8 +2259,8 @@
     <zone>4</zone>
   </station>
   <station name="Highbury and Islington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531562</osx>
     <osy>184770</osy>
     <latitude>51.5464955189</latitude>
@@ -2269,8 +2268,8 @@
     <zone>2</zone>
   </station>
   <station name="Highgate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528503</osx>
     <osy>188158</osy>
     <latitude>51.5776466348</latitude>
@@ -2278,8 +2277,8 @@
     <zone>3</zone>
   </station>
   <station name="Hillingdon">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>507567</osx>
     <osy>185015</osy>
     <latitude>51.5537775707</latitude>
@@ -2287,8 +2286,8 @@
     <zone>6</zone>
   </station>
   <station name="Hither Green">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538997</osx>
     <osy>174497</osy>
     <latitude>51.4524017218</latitude>
@@ -2296,8 +2295,8 @@
     <zone>3</zone>
   </station>
   <station name="Holborn">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530553</osx>
     <osy>181488</osy>
     <latitude>51.5172357493</latitude>
@@ -2305,8 +2304,8 @@
     <zone>1</zone>
   </station>
   <station name="Holland Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524564</osx>
     <osy>180215</osy>
     <latitude>51.5071465087</latitude>
@@ -2314,8 +2313,8 @@
     <zone>2</zone>
   </station>
   <station name="Holloway Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530930</osx>
     <osy>185457</osy>
     <latitude>51.5528161167</latitude>
@@ -2323,8 +2322,8 @@
     <zone>2</zone>
   </station>
   <station name="Homerton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536108</osx>
     <osy>184901</osy>
     <latitude>51.5465954508</latitude>
@@ -2332,8 +2331,8 @@
     <zone>2</zone>
   </station>
   <station name="Honor Oak Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536002</osx>
     <osy>174221</osy>
     <latitude>51.4506482457</latitude>
@@ -2341,8 +2340,8 @@
     <zone>3</zone>
   </station>
   <station name="Hornchurch">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>553931</osx>
     <osy>186274</osy>
     <latitude>51.5543550822</latitude>
@@ -2350,8 +2349,8 @@
     <zone>6</zone>
   </station>
   <station name="Hornsey">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530911</osx>
     <osy>189202</osy>
     <latitude>51.5864748647</latitude>
@@ -2359,8 +2358,8 @@
     <zone>3</zone>
   </station>
   <station name="Hounslow">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>513902</osx>
     <osy>174998</osy>
     <latitude>51.4625048615</latitude>
@@ -2368,8 +2367,8 @@
     <zone>5</zone>
   </station>
   <station name="Hounslow Central">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>513592</osx>
     <osy>175928</osy>
     <latitude>51.4709258103</latitude>
@@ -2377,8 +2376,8 @@
     <zone>4</zone>
   </station>
   <station name="Hounslow East">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>514327</osx>
     <osy>176254</osy>
     <latitude>51.4737079375</latitude>
@@ -2386,8 +2385,8 @@
     <zone>4</zone>
   </station>
   <station name="Hounslow West">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>512215</osx>
     <osy>176140</osy>
     <latitude>51.4731057626</latitude>
@@ -2395,8 +2394,8 @@
     <zone>5</zone>
   </station>
   <station name="Hoxton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533582</osx>
     <osy>183142</osy>
     <latitude>51.5313916213</latitude>
@@ -2404,8 +2403,8 @@
     <zone>1/2</zone>
   </station>
   <station name="Hyde Park Corner">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528330</osx>
     <osy>179801</osy>
     <latitude>51.5025840309</latitude>
@@ -2413,8 +2412,8 @@
     <zone>1</zone>
   </station>
   <station name="Ickenham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>508127</osx>
     <osy>185811</osy>
     <latitude>51.5608251071</latitude>
@@ -2422,8 +2421,8 @@
     <zone>6</zone>
   </station>
   <station name="Ilford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543501</osx>
     <osy>186501</osy>
     <latitude>51.5591422326</latitude>
@@ -2431,8 +2430,8 @@
     <zone>4</zone>
   </station>
   <station name="Imperial Wharf">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526299</osx>
     <osy>176674</osy>
     <latitude>51.4749389489</latitude>
@@ -2440,8 +2439,8 @@
     <zone>2</zone>
   </station>
   <station name="Island Gardens">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538228</osx>
     <osy>178432</osy>
     <latitude>51.4879500889</latitude>
@@ -2449,8 +2448,8 @@
     <zone>2</zone>
   </station>
   <station name="Isleworth">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515570</osx>
     <osy>176430</osy>
     <latitude>51.4750374645</latitude>
@@ -2458,8 +2457,8 @@
     <zone>4</zone>
   </station>
   <station name="Kenley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532400</osx>
     <osy>160100</osy>
     <latitude>51.3246003243</latitude>
@@ -2467,8 +2466,8 @@
     <zone>6</zone>
   </station>
   <station name="Kennington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531660</osx>
     <osy>178337</osy>
     <latitude>51.4886624707</latitude>
@@ -2476,8 +2475,8 @@
     <zone>2</zone>
   </station>
   <station name="Kensal Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523241</osx>
     <osy>182784</osy>
     <latitude>51.5305242412</latitude>
@@ -2485,8 +2484,8 @@
     <zone>2</zone>
   </station>
   <station name="Kensal Rise">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>523501</osx>
     <osy>183201</osy>
     <latitude>51.5342150912</latitude>
@@ -2494,8 +2493,8 @@
     <zone>2</zone>
   </station>
   <station name="Kensington (Olympia)">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524324</osx>
     <osy>179178</osy>
     <latitude>51.4978797245</latitude>
@@ -2503,8 +2502,8 @@
     <zone>2</zone>
   </station>
   <station name="Kent House">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535999</osx>
     <osy>170000</osy>
     <latitude>51.4127176643</latitude>
@@ -2512,8 +2511,8 @@
     <zone>4</zone>
   </station>
   <station name="Kentish Town">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529029</osx>
     <osy>185096</osy>
     <latitude>51.5500095384</latitude>
@@ -2521,8 +2520,8 @@
     <zone>2</zone>
   </station>
   <station name="Kentish Town West">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528603</osx>
     <osy>184700</osy>
     <latitude>51.546547987</latitude>
@@ -2530,8 +2529,8 @@
     <zone>2</zone>
   </station>
   <station name="Kenton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>516833</osx>
     <osy>188304</osy>
     <latitude>51.581496322</latitude>
@@ -2539,8 +2538,8 @@
     <zone>4</zone>
   </station>
   <station name="Kew Bridge">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>518898</osx>
     <osy>178172</osy>
     <latitude>51.4900046509</latitude>
@@ -2548,8 +2547,8 @@
     <zone>3</zone>
   </station>
   <station name="Kew Gardens">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519173</osx>
     <osy>176708</osy>
     <latitude>51.4767891708</latitude>
@@ -2557,8 +2556,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Kidbrooke">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540999</osx>
     <osy>175697</osy>
     <latitude>51.4626901839</latitude>
@@ -2566,8 +2565,8 @@
     <zone>3</zone>
   </station>
   <station name="Kilburn">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524589</osx>
     <osy>184644</osy>
     <latitude>51.54694446</latitude>
@@ -2575,8 +2574,8 @@
     <zone>2</zone>
   </station>
   <station name="Kilburn High Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525553</osx>
     <osy>183591</osy>
     <latitude>51.5372677641</latitude>
@@ -2584,8 +2583,8 @@
     <zone>2</zone>
   </station>
   <station name="Kilburn Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525361</osx>
     <osy>183349</osy>
     <latitude>51.5351355602</latitude>
@@ -2593,8 +2592,8 @@
     <zone>2</zone>
   </station>
   <station name="King George V">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543231</osx>
     <osy>180135</osy>
     <latitude>51.5020085992</latitude>
@@ -2602,8 +2601,8 @@
     <zone>3</zone>
   </station>
   <station name="King's Cross">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530312</osx>
     <osy>182991</osy>
     <latitude>51.5307982055</latitude>
@@ -2611,8 +2610,8 @@
     <zone>1</zone>
   </station>
   <station name="Kings Cross St. Pancras">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530236</osx>
     <osy>182935</osy>
     <latitude>51.5303124769</latitude>
@@ -2620,8 +2619,8 @@
     <zone>1</zone>
   </station>
   <station name="Kingsbury">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519361</osx>
     <osy>188739</osy>
     <latitude>51.5848765507</latitude>
@@ -2629,8 +2628,8 @@
     <zone>4</zone>
   </station>
   <station name="Kingston">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>518244</osx>
     <osy>169549</osy>
     <latitude>51.4126418007</latitude>
@@ -2638,8 +2637,8 @@
     <zone>6</zone>
   </station>
   <station name="Knightsbridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527765</osx>
     <osy>179650</osy>
     <latitude>51.5013549168</latitude>
@@ -2647,8 +2646,8 @@
     <zone>1</zone>
   </station>
   <station name="Knockholt">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>548499</osx>
     <osy>162896</osy>
     <latitude>51.3457519227</latitude>
@@ -2656,8 +2655,8 @@
     <zone>6</zone>
   </station>
   <station name="Ladbroke Grove">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524284</osx>
     <osy>181328</osy>
     <latitude>51.5172106987</latitude>
@@ -2665,8 +2664,8 @@
     <zone>2</zone>
   </station>
   <station name="Ladywell">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537716</osx>
     <osy>174884</osy>
     <latitude>51.4561921369</latitude>
@@ -2674,8 +2673,8 @@
     <zone>3</zone>
   </station>
   <station name="Lambeth North">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531165</osx>
     <osy>179489</osy>
     <latitude>51.4991299591</latitude>
@@ -2683,8 +2682,8 @@
     <zone>1</zone>
   </station>
   <station name="Lancaster Gate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526711</osx>
     <osy>180796</osy>
     <latitude>51.5118909641</latitude>
@@ -2692,8 +2691,8 @@
     <zone>1</zone>
   </station>
   <station name="Langdon Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537807</osx>
     <osy>181863</osy>
     <latitude>51.5188839397</latitude>
@@ -2701,8 +2700,8 @@
     <zone>2</zone>
   </station>
   <station name="Latimer Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523789</osx>
     <osy>180954</osy>
     <latitude>51.5139581247</latitude>
@@ -2710,8 +2709,8 @@
     <zone>2</zone>
   </station>
   <station name="Lee">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540002</osx>
     <osy>174197</osy>
     <latitude>51.4494585177</latitude>
@@ -2719,8 +2718,8 @@
     <zone>3</zone>
   </station>
   <station name="Leicester Square">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529987</osx>
     <osy>180812</osy>
     <latitude>51.5112911968</latitude>
@@ -2728,8 +2727,8 @@
     <zone>1</zone>
   </station>
   <station name="Lewisham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538163</osx>
     <osy>175863</osy>
     <latitude>51.4648807142</latitude>
@@ -2737,8 +2736,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Leyton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>538295</osx>
     <osy>186244</osy>
     <latitude>51.5581322705</latitude>
@@ -2746,8 +2745,8 @@
     <zone>3</zone>
   </station>
   <station name="Leyton Midland Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538150</osx>
     <osy>187490</osy>
     <latitude>51.5693642398</latitude>
@@ -2755,8 +2754,8 @@
     <zone>3</zone>
   </station>
   <station name="Leytonstone">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>539345</osx>
     <osy>187429</osy>
     <latitude>51.5685222874</latitude>
@@ -2764,8 +2763,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Leytonstone High Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539298</osx>
     <osy>186903</osy>
     <latitude>51.5638073426</latitude>
@@ -2773,8 +2772,8 @@
     <zone>3</zone>
   </station>
   <station name="Limehouse">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536150</osx>
     <osy>181087</osy>
     <latitude>51.5123121678</latitude>
@@ -2782,8 +2781,8 @@
     <zone>2</zone>
   </station>
   <station name="Liverpool Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>533160</osx>
     <osy>181596</osy>
     <latitude>51.5175982739</latitude>
@@ -2791,8 +2790,8 @@
     <zone>1</zone>
   </station>
   <station name="London Bridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532937</osx>
     <osy>180152</osy>
     <latitude>51.5046743576</latitude>
@@ -2800,8 +2799,8 @@
     <zone>1</zone>
   </station>
   <station name="London City Airport">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542231</osx>
     <osy>180294</osy>
     <latitude>51.5036896578</latitude>
@@ -2809,8 +2808,8 @@
     <zone>3</zone>
   </station>
   <station name="London Fields">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534795</osx>
     <osy>184212</osy>
     <latitude>51.5407188477</latitude>
@@ -2818,8 +2817,8 @@
     <zone>2</zone>
   </station>
   <station name="Loughborough Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531902</osx>
     <osy>175897</osy>
     <latitude>51.4666789119</latitude>
@@ -2827,8 +2826,8 @@
     <zone>2</zone>
   </station>
   <station name="Loughton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>542314</osx>
     <osy>195641</osy>
     <latitude>51.6415704704</latitude>
@@ -2836,8 +2835,8 @@
     <zone>6</zone>
   </station>
   <station name="Lower Sydenham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536831</osx>
     <osy>171372</osy>
     <latitude>51.4248468461</latitude>
@@ -2845,8 +2844,8 @@
     <zone>4</zone>
   </station>
   <station name="Maida Vale">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525967</osx>
     <osy>182792</osy>
     <latitude>51.529995079</latitude>
@@ -2854,8 +2853,8 @@
     <zone>2</zone>
   </station>
   <station name="Malden Manor">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>521101</osx>
     <osy>166497</osy>
     <latitude>51.3846095675</latitude>
@@ -2863,8 +2862,8 @@
     <zone>4</zone>
   </station>
   <station name="Manor House">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532074</osx>
     <osy>187482</osy>
     <latitude>51.5707471515</latitude>
@@ -2872,8 +2871,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Manor Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>541929</osx>
     <osy>185757</osy>
     <latitude>51.5528543439</latitude>
@@ -2881,8 +2880,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Mansion House">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532347</osx>
     <osy>180962</osy>
     <latitude>51.5120917612</latitude>
@@ -2890,8 +2889,8 @@
     <zone>1</zone>
   </station>
   <station name="Marble Arch">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527875</osx>
     <osy>181056</osy>
     <latitude>51.5139655107</latitude>
@@ -2899,8 +2898,8 @@
     <zone>1</zone>
   </station>
   <station name="Maryland">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539175</osx>
     <osy>184881</osy>
     <latitude>51.5456682698</latitude>
@@ -2908,8 +2907,8 @@
     <zone>3</zone>
   </station>
   <station name="Marylebone">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527510</osx>
     <osy>181985</osy>
     <latitude>51.522396688</latitude>
@@ -2917,8 +2916,8 @@
     <zone>1</zone>
   </station>
   <station name="Maze Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539194</osx>
     <osy>177909</osy>
     <latitude>51.4830136556</latitude>
@@ -2926,8 +2925,8 @@
     <zone>3</zone>
   </station>
   <station name="Mile End">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>536577</osx>
     <osy>182545</osy>
     <latitude>51.5253109739</latitude>
@@ -2935,8 +2934,8 @@
     <zone>2</zone>
   </station>
   <station name="Mill Hill Broadway">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>521300</osx>
     <osy>191900</osy>
     <latitude>51.612871158</latitude>
@@ -2944,8 +2943,8 @@
     <zone>4</zone>
   </station>
   <station name="Mill Hill East">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524057</osx>
     <osy>191460</osy>
     <latitude>51.6083166699</latitude>
@@ -2953,8 +2952,8 @@
     <zone>4</zone>
   </station>
   <station name="Mitcham Eastfields">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528488</osx>
     <osy>169323</osy>
     <latitude>51.4083839282</latitude>
@@ -2962,8 +2961,8 @@
     <zone>3</zone>
   </station>
   <station name="Mitcham Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528292</osx>
     <osy>167611</osy>
     <latitude>51.3930425867</latitude>
@@ -2971,8 +2970,8 @@
     <zone>4</zone>
   </station>
   <station name="Monument">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532907</osx>
     <osy>180814</osy>
     <latitude>51.510630426</latitude>
@@ -2980,8 +2979,8 @@
     <zone>1</zone>
   </station>
   <station name="Moor Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>508563</osx>
     <osy>193509</osy>
     <latitude>51.6299307181</latitude>
@@ -2989,8 +2988,8 @@
     <zone>6/7</zone>
   </station>
   <station name="Moorgate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532688</osx>
     <osy>181677</osy>
     <latitude>51.5184371494</latitude>
@@ -2998,8 +2997,8 @@
     <zone>1</zone>
   </station>
   <station name="Morden">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525664</osx>
     <osy>168563</osy>
     <latitude>51.402185985</latitude>
@@ -3007,8 +3006,8 @@
     <zone>4</zone>
   </station>
   <station name="Morden South">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525301</osx>
     <osy>167900</osy>
     <latitude>51.3963077216</latitude>
@@ -3016,8 +3015,8 @@
     <zone>4</zone>
   </station>
   <station name="Mornington Crescent">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529193</osx>
     <osy>183359</osy>
     <latitude>51.5343622339</latitude>
@@ -3025,8 +3024,8 @@
     <zone>2</zone>
   </station>
   <station name="Mortlake">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>520458</osx>
     <osy>175779</osy>
     <latitude>51.4681679684</latitude>
@@ -3034,8 +3033,8 @@
     <zone>3</zone>
   </station>
   <station name="Motspur Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522581</osx>
     <osy>167724</osy>
     <latitude>51.3953196554</latitude>
@@ -3043,8 +3042,8 @@
     <zone>4</zone>
   </station>
   <station name="Mottingham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542600</osx>
     <osy>173197</osy>
     <latitude>51.4398249699</latitude>
@@ -3052,8 +3051,8 @@
     <zone>4</zone>
   </station>
   <station name="Mudchute">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537908</osx>
     <osy>178789</osy>
     <latitude>51.4912361866</latitude>
@@ -3061,8 +3060,8 @@
     <zone>2</zone>
   </station>
   <station name="Neasden">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521415</osx>
     <osy>185422</osy>
     <latitude>51.5546277472</latitude>
@@ -3070,8 +3069,8 @@
     <zone>3</zone>
   </station>
   <station name="New Barnet">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526502</osx>
     <osy>195996</osy>
     <latitude>51.6485367906</latitude>
@@ -3079,8 +3078,8 @@
     <zone>5</zone>
   </station>
   <station name="New Beckenham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536718</osx>
     <osy>170463</osy>
     <latitude>51.4167055525</latitude>
@@ -3088,8 +3087,8 @@
     <zone>4</zone>
   </station>
   <station name="New Cross">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536750</osx>
     <osy>177110</osy>
     <latitude>51.4764294186</latitude>
@@ -3097,8 +3096,8 @@
     <zone>2</zone>
   </station>
   <station name="New Cross Gate">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536250</osx>
     <osy>176967</osy>
     <latitude>51.4752649325</latitude>
@@ -3106,8 +3105,8 @@
     <zone>2</zone>
   </station>
   <station name="New Eltham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>544005</osx>
     <osy>172999</osy>
     <latitude>51.437690651</latitude>
@@ -3115,8 +3114,8 @@
     <zone>4</zone>
   </station>
   <station name="New Malden">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>521392</osx>
     <osy>168612</osy>
     <latitude>51.4035559376</latitude>
@@ -3124,8 +3123,8 @@
     <zone>4</zone>
   </station>
   <station name="New Southgate">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528672</osx>
     <osy>192218</osy>
     <latitude>51.6140936836</latitude>
@@ -3133,8 +3132,8 @@
     <zone>4</zone>
   </station>
   <station name="Newbury Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>544947</osx>
     <osy>188378</osy>
     <latitude>51.5756383443</latitude>
@@ -3142,8 +3141,8 @@
     <zone>4</zone>
   </station>
   <station name="Norbiton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>519424</osx>
     <osy>169495</osy>
     <latitude>51.4119093853</latitude>
@@ -3151,8 +3150,8 @@
     <zone>5</zone>
   </station>
   <station name="Norbury">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530650</osx>
     <osy>169690</osy>
     <latitude>51.4111885174</latitude>
@@ -3160,8 +3159,8 @@
     <zone>3</zone>
   </station>
   <station name="North Acton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>520831</osx>
     <osy>181937</osy>
     <latitude>51.5234324588</latitude>
@@ -3169,8 +3168,8 @@
     <zone>2/3</zone>
   </station>
   <station name="North Dulwich">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532950</osx>
     <osy>174567</osy>
     <latitude>51.4544818189</latitude>
@@ -3178,8 +3177,8 @@
     <zone>2/3</zone>
   </station>
   <station name="North Ealing">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518816</osx>
     <osy>181243</osy>
     <latitude>51.5176223238</latitude>
@@ -3187,8 +3186,8 @@
     <zone>3</zone>
   </station>
   <station name="North Greenwich">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>539168</osx>
     <osy>179827</osy>
     <latitude>51.5002551516</latitude>
@@ -3196,8 +3195,8 @@
     <zone>2/3</zone>
   </station>
   <station name="North Harrow">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>513540</osx>
     <osy>188578</osy>
     <latitude>51.584631343</latitude>
@@ -3205,8 +3204,8 @@
     <zone>5</zone>
   </station>
   <station name="North Sheen">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>519132</osx>
     <osy>175442</osy>
     <latitude>51.4654196459</latitude>
@@ -3214,8 +3213,8 @@
     <zone>3</zone>
   </station>
   <station name="North Wembley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517663</osx>
     <osy>186198</osy>
     <latitude>51.5623963284</latitude>
@@ -3223,8 +3222,8 @@
     <zone>4</zone>
   </station>
   <station name="Northfields">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517051</osx>
     <osy>179296</osy>
     <latitude>51.5004917086</latitude>
@@ -3232,8 +3231,8 @@
     <zone>3</zone>
   </station>
   <station name="Northolt">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>513228</osx>
     <osy>184519</osy>
     <latitude>51.5482129457</latitude>
@@ -3241,8 +3240,8 @@
     <zone>5</zone>
   </station>
   <station name="Northolt Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>513829</osx>
     <osy>185579</osy>
     <latitude>51.5576190949</latitude>
@@ -3250,8 +3249,8 @@
     <zone>5</zone>
   </station>
   <station name="Northwick Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>516634</osx>
     <osy>187967</osy>
     <latitude>51.5785087266</latitude>
@@ -3259,8 +3258,8 @@
     <zone>4</zone>
   </station>
   <station name="Northwood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>509236</osx>
     <osy>191441</osy>
     <latitude>51.6112136623</latitude>
@@ -3268,8 +3267,8 @@
     <zone>6</zone>
   </station>
   <station name="Northwood Hills">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>510267</osx>
     <osy>190305</osy>
     <latitude>51.6008026951</latitude>
@@ -3277,8 +3276,8 @@
     <zone>6</zone>
   </station>
   <station name="Norwood Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534001</osx>
     <osy>168193</osy>
     <latitude>51.3969543308</latitude>
@@ -3286,8 +3285,8 @@
     <zone>4</zone>
   </station>
   <station name="Notting Hill Gate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525296</osx>
     <osy>180481</osy>
     <latitude>51.5093753599</latitude>
@@ -3295,8 +3294,8 @@
     <zone>1/2</zone>
   </station>
   <station name="Nunhead">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535293</osx>
     <osy>175975</osy>
     <latitude>51.4665799902</latitude>
@@ -3304,8 +3303,8 @@
     <zone>2</zone>
   </station>
   <station name="Oakleigh Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527001</osx>
     <osy>194800</osy>
     <latitude>51.637676383</latitude>
@@ -3313,8 +3312,8 @@
     <zone>4</zone>
   </station>
   <station name="Oakwood">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529349</osx>
     <osy>195968</osy>
     <latitude>51.6476379762</latitude>
@@ -3322,8 +3321,8 @@
     <zone>5</zone>
   </station>
   <station name="Old Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532764</osx>
     <osy>182474</osy>
     <latitude>51.5255814819</latitude>
@@ -3331,8 +3330,8 @@
     <zone>1</zone>
   </station>
   <station name="Orpington">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>545500</osx>
     <osy>165900</osy>
     <latitude>51.3735200358</latitude>
@@ -3340,8 +3339,8 @@
     <zone>6</zone>
   </station>
   <station name="Osterley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>514529</osx>
     <osy>177094</osy>
     <latitude>51.4812168528</latitude>
@@ -3349,8 +3348,8 @@
     <zone>4</zone>
   </station>
   <station name="Oval">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531108</osx>
     <osy>177516</osy>
     <latitude>51.4814126138</latitude>
@@ -3358,8 +3357,8 @@
     <zone>2</zone>
   </station>
   <station name="Oxford Circus">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529102</osx>
     <osy>181227</osy>
     <latitude>51.5152234192</latitude>
@@ -3367,8 +3366,8 @@
     <zone>1</zone>
   </station>
   <station name="Paddington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526680</osx>
     <osy>181185</osy>
     <latitude>51.5153938065</latitude>
@@ -3376,8 +3375,8 @@
     <zone>1</zone>
   </station>
   <station name="Palmers Green">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530925</osx>
     <osy>192798</osy>
     <latitude>51.618786761</latitude>
@@ -3385,8 +3384,8 @@
     <zone>4</zone>
   </station>
   <station name="Park Royal">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519074</osx>
     <osy>182274</osy>
     <latitude>51.5268340546</latitude>
@@ -3394,8 +3393,8 @@
     <zone>3</zone>
   </station>
   <station name="Parsons Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525029</osx>
     <osy>176645</osy>
     <latitude>51.4749601768</latitude>
@@ -3403,8 +3402,8 @@
     <zone>2</zone>
   </station>
   <station name="Peckham Rye">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534152</osx>
     <osy>176271</osy>
     <latitude>51.4695113728</latitude>
@@ -3412,8 +3411,8 @@
     <zone>2</zone>
   </station>
   <station name="Penge East">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535374</osx>
     <osy>170791</osy>
     <latitude>51.4199753551</latitude>
@@ -3421,8 +3420,8 @@
     <zone>4</zone>
   </station>
   <station name="Penge West">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534952</osx>
     <osy>170567</osy>
     <latitude>51.418062935</latitude>
@@ -3430,8 +3429,8 @@
     <zone>4</zone>
   </station>
   <station name="Perivale">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>516404</osx>
     <osy>183270</osy>
     <latitude>51.5363418604</latitude>
@@ -3439,8 +3438,8 @@
     <zone>4</zone>
   </station>
   <station name="Petts Wood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>544440</osx>
     <osy>167548</osy>
     <latitude>51.3885989812</latitude>
@@ -3448,8 +3447,8 @@
     <zone>5</zone>
   </station>
   <station name="Piccadilly Circus">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529612</osx>
     <osy>180625</osy>
     <latitude>51.5096967645</latitude>
@@ -3457,8 +3456,8 @@
     <zone>1</zone>
   </station>
   <station name="Pimlico">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529711</osx>
     <osy>178386</osy>
     <latitude>51.4895528779</latitude>
@@ -3466,8 +3465,8 @@
     <zone>1</zone>
   </station>
   <station name="Pinner">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>512233</osx>
     <osy>189409</osy>
     <latitude>51.5923617244</latitude>
@@ -3475,8 +3474,8 @@
     <zone>5</zone>
   </station>
   <station name="Plaistow">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>540058</osx>
     <osy>183305</osy>
     <latitude>51.5312883323</latitude>
@@ -3484,8 +3483,8 @@
     <zone>3</zone>
   </station>
   <station name="Plumstead">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>544803</osx>
     <osy>178820</osy>
     <latitude>51.4897924136</latitude>
@@ -3493,8 +3492,8 @@
     <zone>4</zone>
   </station>
   <station name="Ponders End">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536097</osx>
     <osy>195599</osy>
     <latitude>51.642730695</latitude>
@@ -3502,8 +3501,8 @@
     <zone>5</zone>
   </station>
   <station name="Pontoon Dock">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>541226</osx>
     <osy>180102</osy>
     <latitude>51.502216211</latitude>
@@ -3511,8 +3510,8 @@
     <zone>3</zone>
   </station>
   <station name="Poplar">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537698</osx>
     <osy>180603</osy>
     <latitude>51.5075880721</latitude>
@@ -3520,8 +3519,8 @@
     <zone>2</zone>
   </station>
   <station name="Preston Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518260</osx>
     <osy>187292</osy>
     <latitude>51.5721037639</latitude>
@@ -3529,8 +3528,8 @@
     <zone>4</zone>
   </station>
   <station name="Prince Regent">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>541215</osx>
     <osy>180905</osy>
     <latitude>51.5094345451</latitude>
@@ -3538,8 +3537,8 @@
     <zone>3</zone>
   </station>
   <station name="Pudding Mill Lane">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537930</osx>
     <osy>183585</osy>
     <latitude>51.5343278554</latitude>
@@ -3547,8 +3546,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Purley">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531500</osx>
     <osy>161497</osy>
     <latitude>51.3373635675</latitude>
@@ -3556,8 +3555,8 @@
     <zone>6</zone>
   </station>
   <station name="Purley Oaks">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532503</osx>
     <osy>162594</osy>
     <latitude>51.3469893515</latitude>
@@ -3565,8 +3564,8 @@
     <zone>6</zone>
   </station>
   <station name="Putney">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>523992</osx>
     <osy>175061</osy>
     <latitude>51.4609525566</latitude>
@@ -3574,8 +3573,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Putney Bridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524476</osx>
     <osy>175842</osy>
     <latitude>51.4678653627</latitude>
@@ -3583,8 +3582,8 @@
     <zone>2</zone>
   </station>
   <station name="Queens Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524612</osx>
     <osy>183239</osy>
     <latitude>51.5343126752</latitude>
@@ -3592,8 +3591,8 @@
     <zone>2</zone>
   </station>
   <station name="Queens Road Peckham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535015</osx>
     <osy>176825</osy>
     <latitude>51.4742847158</latitude>
@@ -3601,8 +3600,8 @@
     <zone>2</zone>
   </station>
   <station name="Queensbury">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518802</osx>
     <osy>189728</osy>
     <latitude>51.5938830101</latitude>
@@ -3610,8 +3609,8 @@
     <zone>4</zone>
   </station>
   <station name="Queenstown Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528763</osx>
     <osy>176738</osy>
     <latitude>51.4749591447</latitude>
@@ -3619,8 +3618,8 @@
     <zone>2</zone>
   </station>
   <station name="Queensway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525883</osx>
     <osy>180615</osy>
     <latitude>51.5104492554</latitude>
@@ -3628,8 +3627,8 @@
     <zone>1</zone>
   </station>
   <station name="Radlett">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516375</osx>
     <osy>199856</osy>
     <latitude>51.6854133103</latitude>
@@ -3637,8 +3636,8 @@
     <zone>None</zone>
   </station>
   <station name="Rainham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>552097</osx>
     <osy>182099</osy>
     <latitude>51.5173404913</latitude>
@@ -3646,8 +3645,8 @@
     <zone>6</zone>
   </station>
   <station name="Ravensbourne">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538699</osx>
     <osy>170201</osy>
     <latitude>51.413870379</latitude>
@@ -3655,8 +3654,8 @@
     <zone>4</zone>
   </station>
   <station name="Ravenscourt Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>522558</osx>
     <osy>178711</osy>
     <latitude>51.494068009</latitude>
@@ -3664,8 +3663,8 @@
     <zone>2</zone>
   </station>
   <station name="Rayners Lane">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>512979</osx>
     <osy>187538</osy>
     <latitude>51.5753967774</latitude>
@@ -3673,8 +3672,8 @@
     <zone>5</zone>
   </station>
   <station name="Raynes Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>523206</osx>
     <osy>169303</osy>
     <latitude>51.4093753732</latitude>
@@ -3682,8 +3681,8 @@
     <zone>4</zone>
   </station>
   <station name="Rectory Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534001</osx>
     <osy>186199</osy>
     <latitude>51.5587634846</latitude>
@@ -3691,8 +3690,8 @@
     <zone>2</zone>
   </station>
   <station name="Redbridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>541833</osx>
     <osy>188371</osy>
     <latitude>51.5763669113</latitude>
@@ -3700,8 +3699,8 @@
     <zone>4</zone>
   </station>
   <station name="Reedham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530835</osx>
     <osy>160821</osy>
     <latitude>51.3314417277</latitude>
@@ -3709,8 +3708,8 @@
     <zone>6</zone>
   </station>
   <station name="Regents Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528765</osx>
     <osy>182174</osy>
     <latitude>51.5238106905</latitude>
@@ -3718,8 +3717,8 @@
     <zone>1</zone>
   </station>
   <station name="Richmond">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518072</osx>
     <osy>175174</osy>
     <latitude>51.4632329223</latitude>
@@ -3727,8 +3726,8 @@
     <zone>4</zone>
   </station>
   <station name="Rickmansworth">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>505717</osx>
     <osy>194605</osy>
     <latitude>51.6403230722</latitude>
@@ -3736,8 +3735,8 @@
     <zone>7</zone>
   </station>
   <station name="Riddlesdown">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532497</osx>
     <osy>161001</osy>
     <latitude>51.3326748426</latitude>
@@ -3745,8 +3744,8 @@
     <zone>6</zone>
   </station>
   <station name="Roding Valley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>541612</osx>
     <osy>192882</osy>
     <latitude>51.6169564401</latitude>
@@ -3754,8 +3753,8 @@
     <zone>4</zone>
   </station>
   <station name="Romford">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>551377</osx>
     <osy>188455</osy>
     <latitude>51.5746415688</latitude>
@@ -3763,8 +3762,8 @@
     <zone>6</zone>
   </station>
   <station name="Rotherhithe">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535239</osx>
     <osy>179870</osy>
     <latitude>51.5015945108</latitude>
@@ -3772,8 +3771,8 @@
     <zone>2</zone>
   </station>
   <station name="Royal Albert">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542029</osx>
     <osy>180823</osy>
     <latitude>51.5084938636</latitude>
@@ -3781,8 +3780,8 @@
     <zone>3</zone>
   </station>
   <station name="Royal Oak">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525764</osx>
     <osy>181485</osy>
     <latitude>51.5182943753</latitude>
@@ -3790,8 +3789,8 @@
     <zone>2</zone>
   </station>
   <station name="Royal Victoria">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540139</osx>
     <osy>180833</osy>
     <latitude>51.5090552323</latitude>
@@ -3799,8 +3798,8 @@
     <zone>3</zone>
   </station>
   <station name="Ruislip">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>509510</osx>
     <osy>187102</osy>
     <latitude>51.5721619722</latitude>
@@ -3808,8 +3807,8 @@
     <zone>6</zone>
   </station>
   <station name="Ruislip Gardens">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>510367</osx>
     <osy>185763</osy>
     <latitude>51.5599602279</latitude>
@@ -3817,8 +3816,8 @@
     <zone>5</zone>
   </station>
   <station name="Ruislip Manor">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>510088</osx>
     <osy>187258</osy>
     <latitude>51.5734516247</latitude>
@@ -3826,8 +3825,8 @@
     <zone>6</zone>
   </station>
   <station name="Russell Square">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530207</osx>
     <osy>182122</osy>
     <latitude>51.5230130529</latitude>
@@ -3835,8 +3834,8 @@
     <zone>1</zone>
   </station>
   <station name="Sanderstead">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532855</osx>
     <osy>162743</osy>
     <latitude>51.3482462646</latitude>
@@ -3844,8 +3843,8 @@
     <zone>6</zone>
   </station>
   <station name="Selhurst">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532993</osx>
     <osy>167636</osy>
     <latitude>51.3921857804</latitude>
@@ -3853,8 +3852,8 @@
     <zone>4</zone>
   </station>
   <station name="Seven Kings">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>545401</osx>
     <osy>187095</osy>
     <latitude>51.5639933394</latitude>
@@ -3862,8 +3861,8 @@
     <zone>4</zone>
   </station>
   <station name="Seven Sisters">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>533646</osx>
     <osy>188927</osy>
     <latitude>51.5833621684</latitude>
@@ -3871,8 +3870,8 @@
     <zone>3</zone>
   </station>
   <station name="Shadwell">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534936</osx>
     <osy>180942</osy>
     <latitude>51.5113001617</latitude>
@@ -3880,8 +3879,8 @@
     <zone>2</zone>
   </station>
   <station name="Shepherds Bush">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523741</osx>
     <osy>179904</osy>
     <latitude>51.5045321773</latitude>
@@ -3889,8 +3888,8 @@
     <zone>2</zone>
   </station>
   <station name="Shepherds Bush Market">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523121</osx>
     <osy>180039</osy>
     <latitude>51.5058807355</latitude>
@@ -3898,8 +3897,8 @@
     <zone>2</zone>
   </station>
   <station name="Shoreditch High Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533501</osx>
     <osy>182258</osy>
     <latitude>51.5234668279</latitude>
@@ -3907,8 +3906,8 @@
     <zone>1</zone>
   </station>
   <station name="Shortlands">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539399</osx>
     <osy>169300</osy>
     <latitude>51.4056023659</latitude>
@@ -3916,8 +3915,8 @@
     <zone>4</zone>
   </station>
   <station name="Sidcup">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>546300</osx>
     <osy>172698</osy>
     <latitude>51.4343984444</latitude>
@@ -3925,8 +3924,8 @@
     <zone>5</zone>
   </station>
   <station name="Silver Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533544</osx>
     <osy>192472</osy>
     <latitude>51.6152424864</latitude>
@@ -3934,8 +3933,8 @@
     <zone>4</zone>
   </station>
   <station name="Slade Green">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>552250</osx>
     <osy>176584</osy>
     <latitude>51.4677476312</latitude>
@@ -3943,8 +3942,8 @@
     <zone>6</zone>
   </station>
   <station name="Sloane Square">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528080</osx>
     <osy>178657</osy>
     <latitude>51.4923597829</latitude>
@@ -3952,8 +3951,8 @@
     <zone>1</zone>
   </station>
   <station name="Smitham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530098</osx>
     <osy>159802</osy>
     <latitude>51.3224529692</latitude>
@@ -3961,8 +3960,8 @@
     <zone>6</zone>
   </station>
   <station name="Snaresbrook">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>540161</osx>
     <osy>188828</osy>
     <latitude>51.5808912706</latitude>
@@ -3970,8 +3969,8 @@
     <zone>4</zone>
   </station>
   <station name="South Acton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>520166</osx>
     <osy>179279</osy>
     <latitude>51.499685861</latitude>
@@ -3979,8 +3978,8 @@
     <zone>3</zone>
   </station>
   <station name="South Bermondsey">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535156</osx>
     <osy>178319</osy>
     <latitude>51.4876766215</latitude>
@@ -3988,8 +3987,8 @@
     <zone>2</zone>
   </station>
   <station name="South Croydon">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532896</osx>
     <osy>164358</osy>
     <latitude>51.3627502088</latitude>
@@ -3997,8 +3996,8 @@
     <zone>5</zone>
   </station>
   <station name="South Ealing">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517605</osx>
     <osy>179437</osy>
     <latitude>51.5016440579</latitude>
@@ -4006,8 +4005,8 @@
     <zone>3</zone>
   </station>
   <station name="South Hampstead">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526425</osx>
     <osy>184081</osy>
     <latitude>51.541476869</latitude>
@@ -4015,8 +4014,8 @@
     <zone>2</zone>
   </station>
   <station name="South Harrow">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>514334</osx>
     <osy>186376</osy>
     <latitude>51.5646802111</latitude>
@@ -4024,8 +4023,8 @@
     <zone>5</zone>
   </station>
   <station name="South Kensington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526865</osx>
     <osy>178817</osy>
     <latitude>51.4940713864</latitude>
@@ -4033,8 +4032,8 @@
     <zone>1</zone>
   </station>
   <station name="South Kenton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517350</osx>
     <osy>187153</osy>
     <latitude>51.5710444868</latitude>
@@ -4042,8 +4041,8 @@
     <zone>4</zone>
   </station>
   <station name="South Merton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524917</osx>
     <osy>168662</osy>
     <latitude>51.4032405799</latitude>
@@ -4051,8 +4050,8 @@
     <zone>4</zone>
   </station>
   <station name="South Quay">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537636</osx>
     <osy>179853</osy>
     <latitude>51.5008636082</latitude>
@@ -4060,8 +4059,8 @@
     <zone>2</zone>
   </station>
   <station name="South Ruislip">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>511080</osx>
     <osy>185437</osy>
     <latitude>51.556890351</latitude>
@@ -4069,8 +4068,8 @@
     <zone>5</zone>
   </station>
   <station name="South Tottenham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533697</osx>
     <osy>188599</osy>
     <latitude>51.5804025945</latitude>
@@ -4078,8 +4077,8 @@
     <zone>3</zone>
   </station>
   <station name="South Wimbledon">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525828</osx>
     <osy>170033</osy>
     <latitude>51.4153607329</latitude>
@@ -4087,8 +4086,8 @@
     <zone>3/4</zone>
   </station>
   <station name="South Woodford">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>540577</osx>
     <osy>190026</osy>
     <latitude>51.5915526124</latitude>
@@ -4096,8 +4095,8 @@
     <zone>4</zone>
   </station>
   <station name="Southall">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>512620</osx>
     <osy>179804</osy>
     <latitude>51.5059569576</latitude>
@@ -4105,8 +4104,8 @@
     <zone>4</zone>
   </station>
   <station name="Southbury">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534803</osx>
     <osy>196199</osy>
     <latitude>51.6484337313</latitude>
@@ -4114,8 +4113,8 @@
     <zone>5</zone>
   </station>
   <station name="Southfields">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524730</osx>
     <osy>173291</osy>
     <latitude>51.4448833383</latitude>
@@ -4123,8 +4122,8 @@
     <zone>3</zone>
   </station>
   <station name="Southgate">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529675</osx>
     <osy>194278</osy>
     <latitude>51.6323758634</latitude>
@@ -4132,8 +4131,8 @@
     <zone>4</zone>
   </station>
   <station name="Southwark">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531566</osx>
     <osy>180025</osy>
     <latitude>51.5038536329</latitude>
@@ -4141,8 +4140,8 @@
     <zone>1</zone>
   </station>
   <station name="St Helier">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525408</osx>
     <osy>167191</osy>
     <latitude>51.3899121875</latitude>
@@ -4150,8 +4149,8 @@
     <zone>4</zone>
   </station>
   <station name="St James Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>536402</osx>
     <osy>188694</osy>
     <latitude>51.5806086676</latitude>
@@ -4159,8 +4158,8 @@
     <zone>3</zone>
   </station>
   <station name="St Johns">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537400</osx>
     <osy>176298</osy>
     <latitude>51.4689752971</latitude>
@@ -4168,8 +4167,8 @@
     <zone>2</zone>
   </station>
   <station name="St Margarets">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516732</osx>
     <osy>174250</osy>
     <latitude>51.4552060302</latitude>
@@ -4177,8 +4176,8 @@
     <zone>4</zone>
   </station>
   <station name="St Mary Cray">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>546698</osx>
     <osy>168298</osy>
     <latitude>51.3947593942</latitude>
@@ -4186,8 +4185,8 @@
     <zone>6</zone>
   </station>
   <station name="St Pancras">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530122</osx>
     <osy>182959</osy>
     <latitude>51.5305544166</latitude>
@@ -4195,8 +4194,8 @@
     <zone>1</zone>
   </station>
   <station name="St. James's Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529629</osx>
     <osy>179503</osy>
     <latitude>51.4996098103</latitude>
@@ -4204,8 +4203,8 @@
     <zone>1</zone>
   </station>
   <station name="St. Johns Wood">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526742</osx>
     <osy>183352</osy>
     <latitude>51.5348544317</latitude>
@@ -4213,8 +4212,8 @@
     <zone>2</zone>
   </station>
   <station name="St. Pauls">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>532105</osx>
     <osy>181261</osy>
     <latitude>51.5148353074</latitude>
@@ -4222,8 +4221,8 @@
     <zone>1</zone>
   </station>
   <station name="Stamford Brook">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521913</osx>
     <osy>178738</osy>
     <latitude>51.4944499973</latitude>
@@ -4231,8 +4230,8 @@
     <zone>2</zone>
   </station>
   <station name="Stamford Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533381</osx>
     <osy>187928</osy>
     <latitude>51.5744476126</latitude>
@@ -4240,8 +4239,8 @@
     <zone>3</zone>
   </station>
   <station name="Stanmore">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>517574</osx>
     <osy>192569</osy>
     <latitude>51.6196734807</latitude>
@@ -4249,8 +4248,8 @@
     <zone>5</zone>
   </station>
   <station name="Star Lane">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>539148</osx>
     <osy>182091</osy>
     <latitude>51.5206042501</latitude>
@@ -4258,8 +4257,8 @@
     <zone>3</zone>
   </station>
   <station name="Stepney Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>535566</osx>
     <osy>182149</osy>
     <latitude>51.5219958389</latitude>
@@ -4267,8 +4266,8 @@
     <zone>2</zone>
   </station>
   <station name="Stockwell">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530473</osx>
     <osy>176470</osy>
     <latitude>51.4721592703</latitude>
@@ -4276,8 +4275,8 @@
     <zone>2</zone>
   </station>
   <station name="Stoke Newington">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533710</osx>
     <osy>186845</osy>
     <latitude>51.5646376183</latitude>
@@ -4285,8 +4284,8 @@
     <zone>2</zone>
   </station>
   <station name="Stonebridge Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519690</osx>
     <osy>184197</osy>
     <latitude>51.5439865874</latitude>
@@ -4294,8 +4293,8 @@
     <zone>3</zone>
   </station>
   <station name="Stoneleigh">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522021</osx>
     <osy>164155</osy>
     <latitude>51.3633640823</latitude>
@@ -4303,8 +4302,8 @@
     <zone>5</zone>
   </station>
   <station name="Stratford">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>538533</osx>
     <osy>184421</osy>
     <latitude>51.5416925793</latitude>
@@ -4312,8 +4311,8 @@
     <zone>3</zone>
   </station>
   <station name="Stratford High Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538729</osx>
     <osy>184032</osy>
     <latitude>51.5381489512</latitude>
@@ -4321,8 +4320,8 @@
     <zone>3</zone>
   </station>
   <station name="Stratford International">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538175</osx>
     <osy>184758</osy>
     <latitude>51.5448085354</latitude>
@@ -4330,8 +4329,8 @@
     <zone>3</zone>
   </station>
   <station name="Strawberry Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515500</osx>
     <osy>172502</osy>
     <latitude>51.4397478733</latitude>
@@ -4339,8 +4338,8 @@
     <zone>5</zone>
   </station>
   <station name="Streatham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529946</osx>
     <osy>171303</osy>
     <latitude>51.4258458784</latitude>
@@ -4348,8 +4347,8 @@
     <zone>3</zone>
   </station>
   <station name="Streatham Common">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529729</osx>
     <osy>170534</osy>
     <latitude>51.4189846869</latitude>
@@ -4357,8 +4356,8 @@
     <zone>3</zone>
   </station>
   <station name="Streatham Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>530233</osx>
     <osy>172714</osy>
     <latitude>51.4384603805</latitude>
@@ -4366,8 +4365,8 @@
     <zone>3</zone>
   </station>
   <station name="Sudbury and Harrow Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516853</osx>
     <osy>185300</osy>
     <latitude>51.5544938217</latitude>
@@ -4375,8 +4374,8 @@
     <zone>4</zone>
   </station>
   <station name="Sudbury Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>515427</osx>
     <osy>185584</osy>
     <latitude>51.5573396001</latitude>
@@ -4384,8 +4383,8 @@
     <zone>4</zone>
   </station>
   <station name="Sudbury Hill Harrow">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515490</osx>
     <osy>185697</osy>
     <latitude>51.5583423131</latitude>
@@ -4393,8 +4392,8 @@
     <zone>4</zone>
   </station>
   <station name="Sudbury Town">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>516832</osx>
     <osy>184955</osy>
     <latitude>51.5513974809</latitude>
@@ -4402,8 +4401,8 @@
     <zone>4</zone>
   </station>
   <station name="Sundridge Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540599</osx>
     <osy>170200</osy>
     <latitude>51.4133937962</latitude>
@@ -4411,8 +4410,8 @@
     <zone>4</zone>
   </station>
   <station name="Surbiton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>518070</osx>
     <osy>167315</osy>
     <latitude>51.3925995699</latitude>
@@ -4420,8 +4419,8 @@
     <zone>6</zone>
   </station>
   <station name="Surrey Quays">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535641</osx>
     <osy>178954</osy>
     <latitude>51.4932668622</latitude>
@@ -4429,8 +4428,8 @@
     <zone>2</zone>
   </station>
   <station name="Sutton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>526028</osx>
     <osy>163823</osy>
     <latitude>51.3595061581</latitude>
@@ -4438,8 +4437,8 @@
     <zone>5</zone>
   </station>
   <station name="Sutton Common">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525593</osx>
     <osy>165598</osy>
     <latitude>51.3755547185</latitude>
@@ -4447,8 +4446,8 @@
     <zone>4</zone>
   </station>
   <station name="Swiss Cottage">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526611</osx>
     <osy>184259</osy>
     <latitude>51.5430348677</latitude>
@@ -4456,8 +4455,8 @@
     <zone>2</zone>
   </station>
   <station name="Sydenham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535311</osx>
     <osy>171609</osy>
     <latitude>51.427341258</latitude>
@@ -4465,8 +4464,8 @@
     <zone>3</zone>
   </station>
   <station name="Sydenham Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533548</osx>
     <osy>172145</osy>
     <latitude>51.4325758968</latitude>
@@ -4474,8 +4473,8 @@
     <zone>3</zone>
   </station>
   <station name="Syon Lane">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516306</osx>
     <osy>177163</osy>
     <latitude>51.4814747273</latitude>
@@ -4483,8 +4482,8 @@
     <zone>4</zone>
   </station>
   <station name="Teddington">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516019</osx>
     <osy>170817</osy>
     <latitude>51.4244975374</latitude>
@@ -4492,8 +4491,8 @@
     <zone>6</zone>
   </station>
   <station name="Temple">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530995</osx>
     <osy>180810</osy>
     <latitude>51.5110406207</latitude>
@@ -4501,8 +4500,8 @@
     <zone>1</zone>
   </station>
   <station name="Thames Ditton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>515721</osx>
     <osy>166818</osy>
     <latitude>51.388616113</latitude>
@@ -4510,8 +4509,8 @@
     <zone>6</zone>
   </station>
   <station name="Theydon Bois">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>545509</osx>
     <osy>199180</osy>
     <latitude>51.67255207</latitude>
@@ -4519,8 +4518,8 @@
     <zone>6</zone>
   </station>
   <station name="Thornton Heath">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532242</osx>
     <osy>168317</osy>
     <latitude>51.3984810899</latitude>
@@ -4528,8 +4527,8 @@
     <zone>4</zone>
   </station>
   <station name="Tolworth">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>519834</osx>
     <osy>165603</osy>
     <latitude>51.3768433498</latitude>
@@ -4537,8 +4536,8 @@
     <zone>5</zone>
   </station>
   <station name="Tooting">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527969</osx>
     <osy>170591</osy>
     <latitude>51.4198966518</latitude>
@@ -4546,8 +4545,8 @@
     <zone>3</zone>
   </station>
   <station name="Tooting Bec">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528015</osx>
     <osy>172366</osy>
     <latitude>51.4358380832</latitude>
@@ -4555,8 +4554,8 @@
     <zone>3</zone>
   </station>
   <station name="Tooting Broadway">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>527415</osx>
     <osy>171373</osy>
     <latitude>51.427049165</latitude>
@@ -4564,8 +4563,8 @@
     <zone>3</zone>
   </station>
   <station name="Tottenham Court Road">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529774</osx>
     <osy>181354</osy>
     <latitude>51.5162108857</latitude>
@@ -4573,8 +4572,8 @@
     <zone>1</zone>
   </station>
   <station name="Tottenham Hale">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>534483</osx>
     <osy>189465</osy>
     <latitude>51.587997785</latitude>
@@ -4582,8 +4581,8 @@
     <zone>3</zone>
   </station>
   <station name="Totteridge and Whetstone">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526111</osx>
     <osy>193951</osy>
     <latitude>51.6302467412</latitude>
@@ -4591,8 +4590,8 @@
     <zone>4</zone>
   </station>
   <station name="Tower Gateway">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533725</osx>
     <osy>180809</osy>
     <latitude>51.5103926509</latitude>
@@ -4600,8 +4599,8 @@
     <zone>1</zone>
   </station>
   <station name="Tower Hill">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>533566</osx>
     <osy>180805</osy>
     <latitude>51.5103942821</latitude>
@@ -4609,8 +4608,8 @@
     <zone>1</zone>
   </station>
   <station name="Tufnell Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529200</osx>
     <osy>185816</osy>
     <latitude>51.5564408143</latitude>
@@ -4618,8 +4617,8 @@
     <zone>2</zone>
   </station>
   <station name="Tulse Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531797</osx>
     <osy>172903</osy>
     <latitude>51.4397974399</latitude>
@@ -4627,8 +4626,8 @@
     <zone>3</zone>
   </station>
   <station name="Turkey Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535129</osx>
     <osy>198903</osy>
     <latitude>51.6726536662</latitude>
@@ -4636,8 +4635,8 @@
     <zone>6</zone>
   </station>
   <station name="Turnham Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521267</osx>
     <osy>178804</osy>
     <latitude>51.495181972</latitude>
@@ -4645,8 +4644,8 @@
     <zone>2</zone>
   </station>
   <station name="Turnpike Lane">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531524</osx>
     <osy>189650</osy>
     <latitude>51.590358146</latitude>
@@ -4654,8 +4653,8 @@
     <zone>3</zone>
   </station>
   <station name="Twickenham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516221</osx>
     <osy>173687</osy>
     <latitude>51.4502509871</latitude>
@@ -4663,8 +4662,8 @@
     <zone>5</zone>
   </station>
   <station name="Upminster">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>556167</osx>
     <osy>186833</osy>
     <latitude>51.5587633252</latitude>
@@ -4672,8 +4671,8 @@
     <zone>6</zone>
   </station>
   <station name="Upminster Bridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>555002</osx>
     <osy>186681</osy>
     <latitude>51.5577187717</latitude>
@@ -4681,8 +4680,8 @@
     <zone>6</zone>
   </station>
   <station name="Upney">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>545844</osx>
     <osy>184260</osy>
     <latitude>51.5384056347</latitude>
@@ -4690,8 +4689,8 @@
     <zone>4</zone>
   </station>
   <station name="Upper Holloway">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529778</osx>
     <osy>186630</osy>
     <latitude>51.56362332</latitude>
@@ -4699,8 +4698,8 @@
     <zone>2</zone>
   </station>
   <station name="Upper Warlingham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534100</osx>
     <osy>158383</osy>
     <latitude>51.3087722636</latitude>
@@ -4708,8 +4707,8 @@
     <zone>6</zone>
   </station>
   <station name="Upton Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>541204</osx>
     <osy>183931</osy>
     <latitude>51.5366281959</latitude>
@@ -4717,8 +4716,8 @@
     <zone>3</zone>
   </station>
   <station name="Uxbridge">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>505698</osx>
     <osy>184161</osy>
     <latitude>51.5464545647</latitude>
@@ -4726,8 +4725,8 @@
     <zone>6</zone>
   </station>
   <station name="Vauxhall">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530366</osx>
     <osy>177978</osy>
     <latitude>51.4857358164</latitude>
@@ -4735,8 +4734,8 @@
     <zone>1/2</zone>
   </station>
   <station name="Victoria">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>528941</osx>
     <osy>179131</osy>
     <latitude>51.4964239699</latitude>
@@ -4744,8 +4743,8 @@
     <zone>1</zone>
   </station>
   <station name="Waddon">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531151</osx>
     <osy>164828</osy>
     <latitude>51.3673792709</latitude>
@@ -4753,8 +4752,8 @@
     <zone>5</zone>
   </station>
   <station name="Wallington">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528841</osx>
     <osy>163985</osy>
     <latitude>51.3603315623</latitude>
@@ -4762,8 +4761,8 @@
     <zone>5</zone>
   </station>
   <station name="Walthamstow Central">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>537286</osx>
     <osy>188986</osy>
     <latitude>51.5830181153</latitude>
@@ -4771,8 +4770,8 @@
     <zone>3</zone>
   </station>
   <station name="Walthamstow Queens Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537020</osx>
     <osy>188815</osy>
     <latitude>51.5815461939</latitude>
@@ -4780,8 +4779,8 @@
     <zone>3</zone>
   </station>
   <station name="Wandsworth Common">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>527719</osx>
     <osy>173530</osy>
     <latitude>51.4463656239</latitude>
@@ -4789,8 +4788,8 @@
     <zone>3</zone>
   </station>
   <station name="Wandsworth Road">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>529354</osx>
     <osy>176226</osy>
     <latitude>51.4702232188</latitude>
@@ -4798,8 +4797,8 @@
     <zone>2</zone>
   </station>
   <station name="Wandsworth Town">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525985</osx>
     <osy>175119</osy>
     <latitude>51.4610340983</latitude>
@@ -4807,8 +4806,8 @@
     <zone>2</zone>
   </station>
   <station name="Wanstead">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>540685</osx>
     <osy>188176</osy>
     <latitude>51.5749021458</latitude>
@@ -4816,8 +4815,8 @@
     <zone>4</zone>
   </station>
   <station name="Wanstead Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540592</osx>
     <osy>185600</osy>
     <latitude>51.5517780747</latitude>
@@ -4825,8 +4824,8 @@
     <zone>3</zone>
   </station>
   <station name="Wapping">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>535030</osx>
     <osy>180170</osy>
     <latitude>51.5043403227</latitude>
@@ -4834,8 +4833,8 @@
     <zone>2</zone>
   </station>
   <station name="Warren Street">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>529253</osx>
     <osy>182272</osy>
     <latitude>51.5245800051</latitude>
@@ -4843,8 +4842,8 @@
     <zone>1</zone>
   </station>
   <station name="Warwick Avenue">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>526158</osx>
     <osy>182030</osy>
     <latitude>51.5231044571</latitude>
@@ -4852,8 +4851,8 @@
     <zone>2</zone>
   </station>
   <station name="Waterloo">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531050</osx>
     <osy>179933</osy>
     <latitude>51.5031466531</latitude>
@@ -4861,8 +4860,8 @@
     <zone>1</zone>
   </station>
   <station name="Watford">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>509579</osx>
     <osy>196610</osy>
     <latitude>51.6576051469</latitude>
@@ -4870,8 +4869,8 @@
     <zone>7</zone>
   </station>
   <station name="Watford High Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>511360</osx>
     <osy>196098</osy>
     <latitude>51.6526537522</latitude>
@@ -4879,8 +4878,8 @@
     <zone>8</zone>
   </station>
   <station name="Watford Junction">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>511023</osx>
     <osy>197340</osy>
     <latitude>51.6638830615</latitude>
@@ -4888,8 +4887,8 @@
     <zone>None</zone>
   </station>
   <station name="Welling">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>546096</osx>
     <osy>176073</osy>
     <latitude>51.4647770752</latitude>
@@ -4897,8 +4896,8 @@
     <zone>4</zone>
   </station>
   <station name="Wembley Central">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>518214</osx>
     <osy>185039</osy>
     <latitude>51.5518648162</latitude>
@@ -4906,8 +4905,8 @@
     <zone>4</zone>
   </station>
   <station name="Wembley Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519373</osx>
     <osy>186341</osy>
     <latitude>51.5633224919</latitude>
@@ -4915,8 +4914,8 @@
     <zone>4</zone>
   </station>
   <station name="Wembley Stadium">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>518924</osx>
     <osy>185366</osy>
     <latitude>51.5546546052</latitude>
@@ -4924,8 +4923,8 @@
     <zone>4</zone>
   </station>
   <station name="West Acton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>519394</osx>
     <osy>181273</osy>
     <latitude>51.5177701842</latitude>
@@ -4933,8 +4932,8 @@
     <zone>3</zone>
   </station>
   <station name="West Brompton">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525383</osx>
     <osy>178030</osy>
     <latitude>51.4873289382</latitude>
@@ -4942,8 +4941,8 @@
     <zone>2</zone>
   </station>
   <station name="West Croydon">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532188</osx>
     <osy>166098</osy>
     <latitude>51.3785521861</latitude>
@@ -4951,8 +4950,8 @@
     <zone>5</zone>
   </station>
   <station name="West Drayton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>506124</osx>
     <osy>180122</osy>
     <latitude>51.510071276</latitude>
@@ -4960,8 +4959,8 @@
     <zone>6</zone>
   </station>
   <station name="West Dulwich">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>532798</osx>
     <osy>173053</osy>
     <latitude>51.4409118319</latitude>
@@ -4969,8 +4968,8 @@
     <zone>3</zone>
   </station>
   <station name="West Ealing">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>516690</osx>
     <osy>180749</osy>
     <latitude>51.513625244</latitude>
@@ -4978,8 +4977,8 @@
     <zone>3</zone>
   </station>
   <station name="West Finchley">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525507</osx>
     <osy>191601</osy>
     <latitude>51.6092627505</latitude>
@@ -4987,8 +4986,8 @@
     <zone>4</zone>
   </station>
   <station name="West Ham">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>539202</osx>
     <osy>182974</osy>
     <latitude>51.5285255182</latitude>
@@ -4996,8 +4995,8 @@
     <zone>3</zone>
   </station>
   <station name="West Hampstead">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525524</osx>
     <osy>184726</osy>
     <latitude>51.547474356</latitude>
@@ -5005,8 +5004,8 @@
     <zone>2</zone>
   </station>
   <station name="West Hampstead Thameslink">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525423</osx>
     <osy>184852</osy>
     <latitude>51.5486291457</latitude>
@@ -5014,8 +5013,8 @@
     <zone>2</zone>
   </station>
   <station name="West Harrow">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>514163</osx>
     <osy>187957</osy>
     <latitude>51.578924281</latitude>
@@ -5023,8 +5022,8 @@
     <zone>5</zone>
   </station>
   <station name="West India Quay">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537471</osx>
     <osy>180505</osy>
     <latitude>51.5067626597</latitude>
@@ -5032,8 +5031,8 @@
     <zone>2</zone>
   </station>
   <station name="West Kensington">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524635</osx>
     <osy>178321</osy>
     <latitude>51.4901093872</latitude>
@@ -5041,8 +5040,8 @@
     <zone>2</zone>
   </station>
   <station name="West Norwood">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531956</osx>
     <osy>171955</osy>
     <latitude>51.4312411278</latitude>
@@ -5050,8 +5049,8 @@
     <zone>3</zone>
   </station>
   <station name="West Ruislip">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>508364</osx>
     <osy>186791</osy>
     <latitude>51.5695879247</latitude>
@@ -5059,8 +5058,8 @@
     <zone>6</zone>
   </station>
   <station name="West Silvertown">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540455</osx>
     <osy>180155</osy>
     <latitude>51.5028844315</latitude>
@@ -5068,8 +5067,8 @@
     <zone>3</zone>
   </station>
   <station name="West Sutton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>525081</osx>
     <osy>164539</osy>
     <latitude>51.3661501598</latitude>
@@ -5077,8 +5076,8 @@
     <zone>5</zone>
   </station>
   <station name="West Wickham">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538266</osx>
     <osy>166563</osy>
     <latitude>51.3812842025</latitude>
@@ -5086,8 +5085,8 @@
     <zone>5</zone>
   </station>
   <station name="Westbourne Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524920</osx>
     <osy>181764</osy>
     <latitude>51.5209888655</latitude>
@@ -5095,8 +5094,8 @@
     <zone>2</zone>
   </station>
   <station name="Westcombe Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>540199</osx>
     <osy>178103</osy>
     <latitude>51.4845088933</latitude>
@@ -5104,8 +5103,8 @@
     <zone>3</zone>
   </station>
   <station name="Westferry">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>537064</osx>
     <osy>180814</osy>
     <latitude>51.5096381506</latitude>
@@ -5113,8 +5112,8 @@
     <zone>2</zone>
   </station>
   <station name="Westminster">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>530240</osx>
     <osy>179718</osy>
     <latitude>51.5014016062</latitude>
@@ -5122,8 +5121,8 @@
     <zone>1</zone>
   </station>
   <station name="White City">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523296</osx>
     <osy>180750</osy>
     <latitude>51.5122324647</latitude>
@@ -5131,8 +5130,8 @@
     <zone>2</zone>
   </station>
   <station name="White Hart Lane">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533693</osx>
     <osy>191340</osy>
     <latitude>51.6050347791</latitude>
@@ -5140,8 +5139,8 @@
     <zone>3</zone>
   </station>
   <station name="Whitechapel">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>534738</osx>
     <osy>181859</osy>
     <latitude>51.5195877923</latitude>
@@ -5149,8 +5148,8 @@
     <zone>2</zone>
   </station>
   <station name="Whitton">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>514220</osx>
     <osy>173568</osy>
     <latitude>51.4495882341</latitude>
@@ -5158,8 +5157,8 @@
     <zone>5</zone>
   </station>
   <station name="Whyteleafe">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>533842</osx>
     <osy>158505</osy>
     <latitude>51.3099293278</latitude>
@@ -5167,8 +5166,8 @@
     <zone>6</zone>
   </station>
   <station name="Whyteleafe South">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>534169</osx>
     <osy>157797</osy>
     <latitude>51.3034898123</latitude>
@@ -5176,8 +5175,8 @@
     <zone>6</zone>
   </station>
   <station name="Willesden Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523350</osx>
     <osy>184884</osy>
     <latitude>51.5493733132</latitude>
@@ -5185,8 +5184,8 @@
     <zone>2/3</zone>
   </station>
   <station name="Willesden Junction">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>521905</osx>
     <osy>182942</osy>
     <latitude>51.5322339929</latitude>
@@ -5194,8 +5193,8 @@
     <zone>3</zone>
   </station>
   <station name="Wimbledon">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>524791</osx>
     <osy>170647</osy>
     <latitude>51.4211078698</latitude>
@@ -5203,8 +5202,8 @@
     <zone>3</zone>
   </station>
   <station name="Wimbledon Chase">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>524306</osx>
     <osy>169347</osy>
     <latitude>51.409530958</latitude>
@@ -5212,8 +5211,8 @@
     <zone>3</zone>
   </station>
   <station name="Wimbledon Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525274</osx>
     <osy>172158</osy>
     <latitude>51.4345809765</latitude>
@@ -5221,8 +5220,8 @@
     <zone>3</zone>
   </station>
   <station name="Winchmore Hill">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>531529</osx>
     <osy>194494</osy>
     <latitude>51.633886871</latitude>
@@ -5230,8 +5229,8 @@
     <zone>4</zone>
   </station>
   <station name="Wood Green">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>531038</osx>
     <osy>190427</osy>
     <latitude>51.5974537413</latitude>
@@ -5239,8 +5238,8 @@
     <zone>3</zone>
   </station>
   <station name="Wood Lane">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>523314</osx>
     <osy>180464</osy>
     <latitude>51.5096582218</latitude>
@@ -5248,8 +5247,8 @@
     <zone>2</zone>
   </station>
   <station name="Wood Street">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>538521</osx>
     <osy>189426</osy>
     <latitude>51.5866699437</latitude>
@@ -5257,8 +5256,8 @@
     <zone>4</zone>
   </station>
   <station name="Woodford">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>540952</osx>
     <osy>191778</osy>
     <latitude>51.6072018397</latitude>
@@ -5266,8 +5265,8 @@
     <zone>4</zone>
   </station>
   <station name="Woodgrange Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>541861</osx>
     <osy>185332</osy>
     <latitude>51.5490525292</latitude>
@@ -5275,8 +5274,8 @@
     <zone>3/4</zone>
   </station>
   <station name="Woodmansterne">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>528720</osx>
     <osy>159385</osy>
     <latitude>51.3190185978</latitude>
@@ -5284,8 +5283,8 @@
     <zone>6</zone>
   </station>
   <station name="Woodside Park">
-    <required/>
-    <line/>
+    <required>true</required>
+    <line />
     <osx>525725</osx>
     <osy>192564</osy>
     <latitude>51.6178684221</latitude>
@@ -5293,8 +5292,8 @@
     <zone>4</zone>
   </station>
   <station name="Woolwich Arsenal">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>543754</osx>
     <osy>178803</osy>
     <latitude>51.4899071075</latitude>
@@ -5302,8 +5301,8 @@
     <zone>4</zone>
   </station>
   <station name="Woolwich Dockyard">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>542738</osx>
     <osy>178908</osy>
     <latitude>51.4911077876</latitude>
@@ -5311,8 +5310,8 @@
     <zone>3</zone>
   </station>
   <station name="Worcester Park">
-    <required/>
-    <line/>
+    <required />
+    <line />
     <osx>522192</osx>
     <osy>166133</osy>
     <latitude>51.3811045169</latitude>
