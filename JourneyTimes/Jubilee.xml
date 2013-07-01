@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jubilee>
+  <station name="Baker Street"/>
+  <station name="Bermondsey"/>
+  <station name="Bond Street"/>
+  <station name="Canada Water"/>
+  <station name="Canary Wharf"/>
+  <station name="Canning Town"/>
+  <station name="Canons Park"/>
+  <station name="Dollis Hill"/>
+  <station name="Finchley Road"/>
+  <station name="Green Park"/>
+  <station name="Kilburn"/>
+  <station name="Kingsbury"/>
+  <station name="London Bridge"/>
+  <station name="Neasden"/>
+  <station name="North Greenwich"/>
+  <station name="Queensbury"/>
+  <station name="Southwark"/>
+  <station name="St. Johns Wood"/>
+  <station name="Stanmore"/>
+  <station name="Stratford"/>
+  <station name="Swiss Cottage"/>
+  <station name="Waterloo"/>
+  <station name="Wembley Park"/>
+  <station name="West Ham"/>
+  <station name="West Hampstead"/>
+  <station name="Westminster"/>
+  <station name="Willesden Green"/>
+</Jubilee>

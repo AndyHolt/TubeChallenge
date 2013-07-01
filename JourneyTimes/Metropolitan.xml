@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metropolitan>
+  <station name="Aldgate"/>
+  <station name="Amersham"/>
+  <station name="Baker Street"/>
+  <station name="Barbican"/>
+  <station name="Chalfont and Latimer"/>
+  <station name="Chesham"/>
+  <station name="Chorleywood"/>
+  <station name="Croxley"/>
+  <station name="Eastcote"/>
+  <station name="Euston Square"/>
+  <station name="Farringdon"/>
+  <station name="Finchley Road"/>
+  <station name="Great Portland Street"/>
+  <station name="Harrow-on-the-Hill"/>
+  <station name="Hillingdon"/>
+  <station name="Ickenham"/>
+  <station name="Kings Cross St. Pancras"/>
+  <station name="Liverpool Street"/>
+  <station name="Moor Park"/>
+  <station name="Moorgate"/>
+  <station name="North Harrow"/>
+  <station name="Northwick Park"/>
+  <station name="Northwood Hills"/>
+  <station name="Pinner"/>
+  <station name="Preston Road"/>
+  <station name="Rickmansworth"/>
+  <station name="Ruislip"/>
+  <station name="Ruislip Manor"/>
+  <station name="Uxbridge"/>
+  <station name="Watford"/>
+  <station name="Wembley Park"/>
+  <station name="West Harrow"/>
+</Metropolitan>

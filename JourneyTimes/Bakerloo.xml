@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Bakerloo>
+  <station name="Baker Street"/>
+  <station name="Charing Cross"/>
+  <station name="Edgware Road (Bakerloo)"/>
+  <station name="Elephant and Castle"/>
+  <station name="Embankment"/>
+  <station name="Harlesden"/>
+  <station name="Harrow and Wealdstone"/>
+  <station name="Kensal Green"/>
+  <station name="Kenton"/>
+  <station name="Kilburn Park"/>
+  <station name="Lambeth North"/>
+  <station name="Maida Vale"/>
+  <station name="Marylebone"/>
+  <station name="North Wembley"/>
+  <station name="Oxford Circus"/>
+  <station name="Paddington"/>
+  <station name="Piccadilly Circus"/>
+  <station name="Queens Park"/>
+  <station name="Regents Park"/>
+  <station name="South Kenton"/>
+  <station name="Stonebridge Park"/>
+  <station name="Warwick Avenue"/>
+  <station name="Waterloo"/>
+  <station name="Wembley Central"/>
+  <station name="Willesden Junction"/>
+</Bakerloo>
