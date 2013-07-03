@@ -1,2 +1,5 @@
 gephi/
 .dropbox
+*.aux
+*.log
+TubeTimetable/
