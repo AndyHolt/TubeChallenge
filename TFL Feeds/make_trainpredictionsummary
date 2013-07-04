@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./trainpredictionsummary.py
+
+xmllint --format trainpredictionsummary_out.xml > test.xml
+mv test.xml trainpredictionsummary_out.xml
