@@ -17,5 +17,9 @@ output_file.write(station_status.read())
 station_data = ET.parse('stationstatus_out.xml')
 station_data_root = station_data.getroot()
 
-for station_status_id in station_data_root:
-    print(station_status_id[0].get('Name'))
+# setup namespace abbrev for default namespace.
+dftns = '{http://webservices.lul.co.uk/}'
+
+for station_status_id in station_data_root.findall(dftns+'StationStatus'):
+    print(station_status_id.find(dftns+'Station').get('Name'))
+
