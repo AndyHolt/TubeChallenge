@@ -21,5 +21,7 @@ station_data_root = station_data.getroot()
 dftns = '{http://webservices.lul.co.uk/}'
 
 for station_status_id in station_data_root.findall(dftns+'StationStatus'):
-    print(station_status_id.find(dftns+'Station').get('Name'))
-
+    if station_status_id.find(dftns+'Status').get('IsActive') == "true":
+        print(station_status_id.find(dftns+'Station').get('Name'))
+        print("Station ", station_status_id.find(dftns+'Status').get('CssClass'), ":",
+              station_status_id.find(dftns+'Status').get('Description','\n'))
