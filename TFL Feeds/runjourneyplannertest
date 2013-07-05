@@ -5,13 +5,16 @@ onserver=false
 
 for name in "legbiter" "gurthang" "lobera" "sugari" "harpe" "shamshir" "galatine" "balmung"
 do
+    echo `hostname`
+    echo $name
     if [ `hostname` == $name ]
     then
+	echo "match found, setting true"
 	onserver=true
     fi
 done
 
-if [ onserver == false ]
+if [ $onserver == false ]
 then
     echo "not on server"
     exit
