@@ -1,0 +1,20 @@
+#!/bin/bash
+
+onserver=false
+#name=hostname
+
+for name in "legbiter" "gurthang" "lobera" "sugari" "harpe" "shamshir" "galatine" "balmung"
+do
+    if [ `hostname` == $name ]
+    then
+	onserver=true
+    fi
+done
+
+if [ onserver == false ]
+then
+    echo "not on server"
+    exit
+fi
+
+echo "on server"
