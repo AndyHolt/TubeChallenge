@@ -1,23 +1,24 @@
 #!/bin/bash
 
 onserver=false
-#name=hostname
 
 for name in "legbiter" "gurthang" "lobera" "sugari" "harpe" "shamshir" "galatine" "balmung"
 do
-    echo `hostname`
-    echo $name
     if [ `hostname` == $name ]
     then
-	echo "match found, setting true"
 	onserver=true
     fi
 done
 
 if [ $onserver == false ]
 then
-    echo "not on server"
+    echo "Journey planner API only accessible from CUED servers"
+    echo "Please log in to CUED servers and try again."
     exit
 fi
 
-echo "on server"
+./journeyplannertest.py
+
+xmllint --format journeyplannertest.xml > test.xml
+mv test.xml journeyplannertest.xml
+
