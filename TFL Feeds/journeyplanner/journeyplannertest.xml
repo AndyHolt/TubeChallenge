@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itdRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" language="en" sessionID="TLJXML01P1_887750356" client="Python-urllib/1.17" serverID="TLJXML01P1_" clientIP="192.168.11.26" version="9.16.29.4" virtDir="api">
+  <itdTripRequest requestID="1">
+    <itdAddress name="" place="" street=""/>
+    <itdOdv type="stop" usage="origin">
+      <itdOdvPlace state="identified" method="itp">
+        <odvPlaceElem omc="31117000" value="31117000:20060403" placeID="20060403" mainPlace="1" span="0" type="remote">London</odvPlaceElem>
+        <odvPlaceInput>London</odvPlaceInput>
+      </itdOdvPlace>
+      <itdOdvName state="identified" method="itp">
+        <odvNameElem value="1000006:1" stopID="1000006" x="496357" y="801803" mapName="TFLV" isTransferStop="0" matchQuality="999029">Amersham Underground Station</odvNameElem>
+        <infoLink>
+          <paramList>
+            <param edit="0">
+              <type>outputOption</type>
+              <name>appearance</name>
+              <value>3</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>creationTime</name>
+              <value>14/09/12 14:36</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>lastModificationTime</name>
+              <value>14/09/12 14:38</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>priority</name>
+              <value>normal</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>systemName</name>
+              <value>unknown</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>infoType</name>
+              <value>stopInfo</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>concernedStop0</name>
+              <value>1000006</value>
+            </param>
+            <param edit="0">
+              <type>system</type>
+              <name>infoID</name>
+              <value>1141872_TfL</value>
+            </param>
+            <param edit="0">
+              <type>system</type>
+              <name>seqID</name>
+              <value>1</value>
+            </param>
+          </paramList>
+          <infoLinkText>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+          <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141872_TfL&amp;seqID=1</infoLinkURL>
+          <infoLinkImage/>
+          <infoText>
+            <content/>
+            <subtitle>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+            <subject/>
+            <additionalText/>
+            <image/>
+            <outputClientText>
+              <htmlText/>
+              <wmlText/>
+              <smsText/>
+              <speechText/>
+            </outputClientText>
+          </infoText>
+        </infoLink>
+        <odvNameInput>Amersham Undergroud Station</odvNameInput>
+      </itdOdvName>
+    </itdOdv>
+    <itdOdv type="stop" usage="destination">
+      <itdOdvPlace state="identified" method="itp">
+        <odvPlaceElem omc="31117000" value="31117000:20060403" placeID="20060403" mainPlace="1" span="0" type="remote">London</odvPlaceElem>
+        <odvPlaceInput>London</odvPlaceInput>
+      </itdOdvPlace>
+      <itdOdvName state="identified" method="itp">
+        <odvNameElem value="1000042:1" stopID="1000042" x="499637" y="802444" mapName="TFLV" isTransferStop="0" matchQuality="0">Chalfont &amp; Latimer Underground Station</odvNameElem>
+        <infoLink>
+          <paramList>
+            <param edit="0">
+              <type>outputOption</type>
+              <name>appearance</name>
+              <value>3</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>creationTime</name>
+              <value>14/09/12 14:41</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>lastModificationTime</name>
+              <value>14/09/12 14:45</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>priority</name>
+              <value>normal</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>systemName</name>
+              <value>unknown</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>infoType</name>
+              <value>stopInfo</value>
+            </param>
+            <param edit="0">
+              <type>addInfoParam</type>
+              <name>concernedStop0</name>
+              <value>1000042</value>
+            </param>
+            <param edit="0">
+              <type>system</type>
+              <name>infoID</name>
+              <value>1141875_TfL</value>
+            </param>
+            <param edit="0">
+              <type>system</type>
+              <name>seqID</name>
+              <value>1</value>
+            </param>
+          </paramList>
+          <infoLinkText>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+          <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141875_TfL&amp;seqID=1</infoLinkURL>
+          <infoLinkImage/>
+          <infoText>
+            <content/>
+            <subtitle>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+            <subject/>
+            <additionalText/>
+            <image/>
+            <outputClientText>
+              <htmlText/>
+              <wmlText/>
+              <smsText/>
+              <speechText/>
+            </outputClientText>
+          </infoText>
+        </infoLink>
+        <odvNameInput>Chalfont &amp; Latimer Underground Station</odvNameInput>
+      </itdOdvName>
+    </itdOdv>
+    <itdOdv type="unknown" usage="via">
+      <itdOdvPlace state="empty">
+        <odvPlaceElem/>
+      </itdOdvPlace>
+      <itdOdvName state="empty">
+        <odvNameElem/>
+      </itdOdvName>
+    </itdOdv>
+    <itdTripDateTime deparr="dep" ttpFrom="20121201" ttpTo="20131130">
+      <itdDateTime>
+        <itdDate day="11" month="7" year="2013" weekday="5"/>
+        <itdTime hour="8" minute="0"/>
+      </itdDateTime>
+    </itdTripDateTime>
+    <itdTripOptions userDefined="0">
+      <itdPtOptions active="-1" maxChanges="9" changeSpeed="normal" lineRestriction="400" routeType="LEASTTIME" plane="0" bike="0" noSolidStairs="0" noEscalators="0" noElevators="0" lowPlatformVhcl="0" wheelchair="0" SOSAvail="0" noCrowded="0" illumTransfer="0" noInsecurePlaces="0" overgroundTransfer="0" maxTime="360" maxWait="120" noLonelyTransfer="0" useProxFootSearch="0" privateTransport="0">
+        <excludedMeans>
+          <meansElem value="0" selected="0">Zug</meansElem>
+          <meansElem value="1" selected="0">S-Bahn</meansElem>
+          <meansElem value="2" selected="0">U-Bahn</meansElem>
+          <meansElem value="3" selected="0">Stadtbahn</meansElem>
+          <meansElem value="4" selected="0">Straßen-/Trambahn</meansElem>
+          <meansElem value="5" selected="0">Stadtbus</meansElem>
+          <meansElem value="6" selected="0">Regionalbus</meansElem>
+          <meansElem value="7" selected="0">Schnellbus</meansElem>
+          <meansElem value="8" selected="0">Seil-/Zahnradbahn</meansElem>
+          <meansElem value="9" selected="0">Schiff</meansElem>
+          <meansElem value="10" selected="0">AST/Rufbus</meansElem>
+          <meansElem value="11" selected="0">Sonstige</meansElem>
+        </excludedMeans>
+      </itdPtOptions>
+      <itdItOptions>
+        <departureTransport>
+          <individualTransport meansCode="100" value="20" speed="normal" selected="1"/>
+          <individualTransport meansCode="101" value="60" speed="normal" selected="0"/>
+          <individualTransport meansCode="102" value="60" speed="normal" selected="0"/>
+          <individualTransport meansCode="103" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="104" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="105" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="106" value="120" speed="normal" selected="0"/>
+          <individualTransport meansCode="107" value="60" speed="normal" selected="0"/>
+        </departureTransport>
+        <arrivalTransport>
+          <individualTransport meansCode="100" value="20" speed="normal" selected="1"/>
+          <individualTransport meansCode="101" value="60" speed="normal" selected="0"/>
+          <individualTransport meansCode="102" value="60" speed="normal" selected="0"/>
+          <individualTransport meansCode="103" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="104" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="105" value="10" speed="normal" selected="0"/>
+          <individualTransport meansCode="106" value="120" speed="normal" selected="0"/>
+          <individualTransport meansCode="107" value="60" speed="normal" selected="0"/>
+        </arrivalTransport>
+      </itdItOptions>
+    </itdTripOptions>
+    <itdItinerary>
+      <itdRouteList>
+        <itdRoute active="1" delete="0" changes="0" distance="-1" alternative="0" publicDuration="00:04" print="0" routeIndex="1" routeTripIndex="1" cTime="20130710123039534" searchMode="1" vehicleTime="4" method="itp" selected="1">
+          <itdMapItemList>
+            <itdMapItem text="" type="RM">
+              <itdImage src="FILELOAD?Filename=JPXML__51DD45DF0.pdf"/>
+            </itdMapItem>
+          </itdMapItemList>
+          <itdDaysOfService/>
+          <itdPartialRouteList>
+            <itdPartialRoute active="1" timeMinute="4" type="PT" bookingCode="STLJXML01P1_887750356R1T0PR0" hasFrequency="0">
+              <itdPoint stopID="1000006" area="1" usage="departure" name="Amersham Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF1.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="7" minute="55"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdPoint stopID="1000042" area="4" usage="arrival" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF2.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="7" minute="59"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+              </itdMeansOfTransport>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:36</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:38</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000006</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141872_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141872_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:41</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:45</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000042</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141875_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141875_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <itdFrequencyInfo tripIndex="0" minTimeGap="0" maxTimeGap="0" avTimeGap="0" minDuration="4" maxDuration="4" avDuration="3">
+                <itdFreqTripList/>
+                <itdMeansOfTransportList>
+                  <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                    <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+                  </itdMeansOfTransport>
+                </itdMeansOfTransportList>
+              </itdFrequencyInfo>
+              <itdStopSeq>
+                <itdPoint stopID="1000006" area="1" usage="" name="Amersham Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="7" minute="55"/>
+                  </itdDateTime>
+                </itdPoint>
+                <itdPoint stopID="1000042" area="4" usage="" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="7" minute="59"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                </itdPoint>
+              </itdStopSeq>
+              <itdPathCoordinates>
+                <coordEllipsoid>DHDN_RAUENBERG_BESSEL_1841</coordEllipsoid>
+                <coordType>PROJECTION_MDV</coordType>
+                <itdCoordinateBaseElemList>
+                  <itdCoordinateBaseElem>
+                    <x>496387.00000</x>
+                    <y>801842.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496464.00000</x>
+                    <y>801853.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496536.00000</x>
+                    <y>801865.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496690.00000</x>
+                    <y>801892.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496788.00000</x>
+                    <y>801903.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497473.00000</x>
+                    <y>801926.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497955.00000</x>
+                    <y>801959.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498047.00000</x>
+                    <y>801973.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498096.00000</x>
+                    <y>801985.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498369.00000</x>
+                    <y>802060.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498534.00000</x>
+                    <y>802106.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498976.00000</x>
+                    <y>802245.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>499642.00000</x>
+                    <y>802433.00000</y>
+                  </itdCoordinateBaseElem>
+                </itdCoordinateBaseElemList>
+                <itdCoordinateReductionList/>
+              </itdPathCoordinates>
+            </itdPartialRoute>
+          </itdPartialRouteList>
+        </itdRoute>
+        <itdRoute active="1" delete="0" changes="0" distance="-1" alternative="0" publicDuration="00:04" print="0" routeIndex="1" routeTripIndex="2" cTime="20130710123039519" searchMode="0" vehicleTime="4" method="itp" selected="1">
+          <itdMapItemList>
+            <itdMapItem text="" type="RM">
+              <itdImage src="FILELOAD?Filename=JPXML__51DD45DF3.pdf"/>
+            </itdMapItem>
+          </itdMapItemList>
+          <itdDaysOfService/>
+          <itdPartialRouteList>
+            <itdPartialRoute active="1" timeMinute="4" type="PT" bookingCode="STLJXML01P1_887750356R1T1PR0">
+              <itdPoint stopID="1000006" area="6" usage="departure" name="Amersham Rail Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF4.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="4"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdPoint stopID="1000042" area="7" usage="arrival" name="Chalfont &amp; Latimer Rail Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF5.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="8"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdMeansOfTransport name="=CH 20231 Chiltern Railways" type="6" shortname="20231" destination="London Marylebone Rail Station" symbol="114" network="nrc" trainType="=CH" trainName="Chiltern Railways" motType="0">
+                <motDivaParams project="r08" network="nrc" line="90114" supplement=" " direction="R"/>
+                <itdOperator>
+                  <code>RailCH</code>
+                  <name>Chiltern Railways</name>
+                </itdOperator>
+              </itdMeansOfTransport>
+              <itdStopSeq>
+                <itdPoint stopID="1000006" area="6" usage="" name="Amersham Rail Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="4"/>
+                  </itdDateTime>
+                </itdPoint>
+                <itdPoint stopID="1000042" area="7" usage="" name="Chalfont &amp; Latimer Rail Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="8"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                </itdPoint>
+              </itdStopSeq>
+              <itdPathCoordinates>
+                <coordEllipsoid>DHDN_RAUENBERG_BESSEL_1841</coordEllipsoid>
+                <coordType>PROJECTION_MDV</coordType>
+                <itdCoordinateBaseElemList>
+                  <itdCoordinateBaseElem>
+                    <x>496392.00000</x>
+                    <y>801858.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496499.00000</x>
+                    <y>801874.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496683.00000</x>
+                    <y>801906.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496779.00000</x>
+                    <y>801917.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497470.00000</x>
+                    <y>801941.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497953.00000</x>
+                    <y>801975.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498052.00000</x>
+                    <y>801992.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498094.00000</x>
+                    <y>802002.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498363.00000</x>
+                    <y>802076.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498524.00000</x>
+                    <y>802121.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498973.00000</x>
+                    <y>802262.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>499644.00000</x>
+                    <y>802451.00000</y>
+                  </itdCoordinateBaseElem>
+                </itdCoordinateBaseElemList>
+                <itdCoordinateReductionList/>
+              </itdPathCoordinates>
+            </itdPartialRoute>
+          </itdPartialRouteList>
+        </itdRoute>
+        <itdRoute active="1" delete="0" changes="0" distance="-1" alternative="0" publicDuration="00:04" print="0" routeIndex="1" routeTripIndex="3" cTime="20130710123039519" searchMode="0" vehicleTime="4" method="itp" selected="1">
+          <itdMapItemList>
+            <itdMapItem text="" type="RM">
+              <itdImage src="FILELOAD?Filename=JPXML__51DD45DF0.pdf"/>
+            </itdMapItem>
+          </itdMapItemList>
+          <itdDaysOfService/>
+          <itdPartialRouteList>
+            <itdPartialRoute active="1" timeMinute="4" type="PT" bookingCode="STLJXML01P1_887750356R1T2PR0" hasFrequency="0">
+              <itdPoint stopID="1000006" area="1" usage="departure" name="Amersham Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF1.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="15"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdPoint stopID="1000042" area="4" usage="arrival" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF2.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="19"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+              </itdMeansOfTransport>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:36</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:38</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000006</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141872_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141872_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:41</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:45</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000042</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141875_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141875_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <itdFrequencyInfo tripIndex="0" minTimeGap="0" maxTimeGap="0" avTimeGap="0" minDuration="4" maxDuration="4" avDuration="3">
+                <itdFreqTripList/>
+                <itdMeansOfTransportList>
+                  <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                    <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+                  </itdMeansOfTransport>
+                </itdMeansOfTransportList>
+              </itdFrequencyInfo>
+              <itdStopSeq>
+                <itdPoint stopID="1000006" area="1" usage="" name="Amersham Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="15"/>
+                  </itdDateTime>
+                </itdPoint>
+                <itdPoint stopID="1000042" area="4" usage="" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="19"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                </itdPoint>
+              </itdStopSeq>
+              <itdPathCoordinates>
+                <coordEllipsoid>DHDN_RAUENBERG_BESSEL_1841</coordEllipsoid>
+                <coordType>PROJECTION_MDV</coordType>
+                <itdCoordinateBaseElemList>
+                  <itdCoordinateBaseElem>
+                    <x>496387.00000</x>
+                    <y>801842.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496464.00000</x>
+                    <y>801853.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496536.00000</x>
+                    <y>801865.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496690.00000</x>
+                    <y>801892.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496788.00000</x>
+                    <y>801903.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497473.00000</x>
+                    <y>801926.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497955.00000</x>
+                    <y>801959.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498047.00000</x>
+                    <y>801973.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498096.00000</x>
+                    <y>801985.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498369.00000</x>
+                    <y>802060.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498534.00000</x>
+                    <y>802106.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498976.00000</x>
+                    <y>802245.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>499642.00000</x>
+                    <y>802433.00000</y>
+                  </itdCoordinateBaseElem>
+                </itdCoordinateBaseElemList>
+                <itdCoordinateReductionList/>
+              </itdPathCoordinates>
+            </itdPartialRoute>
+          </itdPartialRouteList>
+        </itdRoute>
+        <itdRoute active="1" delete="0" changes="0" distance="-1" alternative="0" publicDuration="00:03" print="0" routeIndex="1" routeTripIndex="4" cTime="20130710123039534" searchMode="0" vehicleTime="3" method="itp" selected="1">
+          <itdMapItemList>
+            <itdMapItem text="" type="RM">
+              <itdImage src="FILELOAD?Filename=JPXML__51DD45DF0.pdf"/>
+            </itdMapItem>
+          </itdMapItemList>
+          <itdDaysOfService/>
+          <itdPartialRouteList>
+            <itdPartialRoute active="1" timeMinute="3" type="PT" bookingCode="STLJXML01P1_887750356R1T3PR0" hasFrequency="0">
+              <itdPoint stopID="1000006" area="1" usage="departure" name="Amersham Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF1.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="27"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdPoint stopID="1000042" area="4" usage="arrival" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                <itdMapItemList>
+                  <itdMapItem text="" type="RM">
+                    <itdImage src="FILELOAD?Filename=JPXML__51DD45DF2.pdf"/>
+                  </itdMapItem>
+                </itdMapItemList>
+                <itdDateTime>
+                  <itdDate day="11" month="7" year="2013" weekday="5"/>
+                  <itdTime hour="8" minute="30"/>
+                </itdDateTime>
+              </itdPoint>
+              <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+              </itdMeansOfTransport>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:36</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:38</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000006</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141872_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141872_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>AMERSHAM STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) and car 5 (first door) for travel to Chalfont &amp; Latimer, Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <infoLink>
+                <paramList>
+                  <param edit="0">
+                    <type>outputOption</type>
+                    <name>appearance</name>
+                    <value>3</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>creationTime</name>
+                    <value>14/09/12 14:41</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>lastModificationTime</name>
+                    <value>14/09/12 14:45</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>priority</name>
+                    <value>normal</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>systemName</name>
+                    <value>unknown</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>infoType</name>
+                    <value>stopInfo</value>
+                  </param>
+                  <param edit="0">
+                    <type>addInfoParam</type>
+                    <name>concernedStop0</name>
+                    <value>1000042</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>infoID</name>
+                    <value>1141875_TfL</value>
+                  </param>
+                  <param edit="0">
+                    <type>system</type>
+                    <name>seqID</name>
+                    <value>1</value>
+                  </param>
+                </paramList>
+                <infoLinkText>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</infoLinkText>
+                <infoLinkURL>http://213.219.31.121:80/ics/XSLT_CM_SHOWADDINFO_REQUEST?infoID=1141875_TfL&amp;seqID=1</infoLinkURL>
+                <infoLinkImage/>
+                <infoText>
+                  <content/>
+                  <subtitle>CHALFONT &amp; LATIMER STATION, METROPOLITAN LINE: If you require level access between train and platform, board the train at the level access boarding point at Car 4 (last door) or car 5 (first door) for travel to Chorleywood, Pinner, Wembley Park, King's Cross St.Pancras and Liverpool Street. A wheelchair sign on the door denotes the wheelchair accessible space.</subtitle>
+                  <subject/>
+                  <additionalText/>
+                  <image/>
+                  <outputClientText>
+                    <htmlText/>
+                    <wmlText/>
+                    <smsText/>
+                    <speechText/>
+                  </outputClientText>
+                </infoText>
+              </infoLink>
+              <itdFrequencyInfo tripIndex="0" minTimeGap="0" maxTimeGap="0" avTimeGap="0" minDuration="3" maxDuration="3" avDuration="3">
+                <itdFreqTripList/>
+                <itdMeansOfTransportList>
+                  <itdMeansOfTransport name="Underground Metropolitan" type="1" shortname="Metropolitan" destination="Aldgate Underground Station" symbol="MET" network="tfl" productName="Underground" motType="2">
+                    <motDivaParams project="y05" network="tfl" line="01MET" supplement=" " direction="H"/>
+                  </itdMeansOfTransport>
+                </itdMeansOfTransportList>
+              </itdFrequencyInfo>
+              <itdStopSeq>
+                <itdPoint stopID="1000006" area="1" usage="" name="Amersham Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="27"/>
+                  </itdDateTime>
+                </itdPoint>
+                <itdPoint stopID="1000042" area="4" usage="" name="Chalfont &amp; Latimer Underground Station" platform="" platformName="">
+                  <itdDateTime>
+                    <itdDate day="11" month="7" year="2013" weekday="5"/>
+                    <itdTime hour="8" minute="30"/>
+                  </itdDateTime>
+                  <itdDateTime>
+                    <itdDate day="-1" month="0" year="0" weekday="-1"/>
+                    <itdTime hour="0" minute="-1"/>
+                  </itdDateTime>
+                </itdPoint>
+              </itdStopSeq>
+              <itdPathCoordinates>
+                <coordEllipsoid>DHDN_RAUENBERG_BESSEL_1841</coordEllipsoid>
+                <coordType>PROJECTION_MDV</coordType>
+                <itdCoordinateBaseElemList>
+                  <itdCoordinateBaseElem>
+                    <x>496387.00000</x>
+                    <y>801842.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496464.00000</x>
+                    <y>801853.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496536.00000</x>
+                    <y>801865.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496690.00000</x>
+                    <y>801892.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>496788.00000</x>
+                    <y>801903.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497473.00000</x>
+                    <y>801926.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>497955.00000</x>
+                    <y>801959.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498047.00000</x>
+                    <y>801973.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498096.00000</x>
+                    <y>801985.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498369.00000</x>
+                    <y>802060.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498534.00000</x>
+                    <y>802106.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>498976.00000</x>
+                    <y>802245.00000</y>
+                  </itdCoordinateBaseElem>
+                  <itdCoordinateBaseElem>
+                    <x>499642.00000</x>
+                    <y>802433.00000</y>
+                  </itdCoordinateBaseElem>
+                </itdCoordinateBaseElemList>
+                <itdCoordinateReductionList/>
+              </itdPathCoordinates>
+            </itdPartialRoute>
+          </itdPartialRouteList>
+        </itdRoute>
+      </itdRouteList>
+    </itdItinerary>
+  </itdTripRequest>
+</itdRequest>
