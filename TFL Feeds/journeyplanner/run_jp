@@ -23,3 +23,5 @@ xmllint --format journeyplannertest.xml > test.xml
 mv test.xml journeyplannertest.xml
 
 ./jp_showroutes.py
+
+./jp_gettime.py
