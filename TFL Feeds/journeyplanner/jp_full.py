@@ -9,7 +9,9 @@ import subprocess
 import xml.etree.ElementTree as ET
 
 class Journey(object):
-    """ Class describing a journey from one station to another """
+    """
+    Class describing a journey from one station to another.
+    """
 
     def __init__(self, origin, destination, journey_date, journey_time):
         """
@@ -148,3 +150,16 @@ class Journey(object):
         self.duration_avg = self.duration_sum / len(self.duration_list)
 
         return self.duration_avg
+
+    def get_times_cross_section(self):
+        """
+        Get a selection of times for the journey.
+        Find time on Mon, Thu and Sat at 0800, 1300 and 1800.
+        """
+        self.times_array = [ [0, 0, 0], [0, 0, 0], [0, 0, 0] ]
+        for day in [ ["Mon", 15], ["Thu", 18], ["Sat", 20] ]:
+            self.set_date("201307" + day[1])
+            for time in [ "0800", "1300", "1800"]:
+                self.set_time("201307" + time)
+                print self.get_date() self.get_time()
+
