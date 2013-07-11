@@ -1,8 +1,7 @@
-#!/usr/bin/python
 # ONLY TO BE RUN ON CUED SERVERS!
-# python2 script
+# python2 class file
 """
-OO and full version of journey planner scripts
+Class definition for Journey between two stations at a particular date and time.
 """
 import urllib
 import subprocess
@@ -17,8 +16,8 @@ class Journey(object):
         """
         Set up required journey attributes.
         """
-        self.origin = origin
-        self.destination = destination
+        self.origin = origin.get_name()
+        self.destination = destination.get_name()
         self.journey_date = str(journey_date)
         self.journey_time = str(journey_time)
         self.xml_file_name = self.origin + "-" + self.destination + \
@@ -28,13 +27,13 @@ class Journey(object):
         """
         Set origin station for journey.
         """
-        self.origin = origin
+        self.origin = origin.get_name()
 
     def set_destination(self, destination):
         """
         Set destination station for journey.
         """
-        self.destination = destination
+        self.destination = destination.get_name()
 
     def set_date(self, journey_date):
         """
@@ -157,9 +156,27 @@ class Journey(object):
         Find time on Mon, Thu and Sat at 0800, 1300 and 1800.
         """
         self.times_array = [ [0, 0, 0], [0, 0, 0], [0, 0, 0] ]
-        for day in [ ["Mon", 15], ["Thu", 18], ["Sat", 20] ]:
-            self.set_date("201307" + day[1])
-            for time in [ "0800", "1300", "1800"]:
-                self.set_time("201307" + time)
-                print self.get_date() self.get_time()
+        for day in [ [0, "Mon", "15"], [1, "Thu", "18"], [2, "Sat", "20"] ]:
+            self.set_date("201307" + day[2])
+            for time in [[0, "0800"], [1, "1300"], [2, "1800"]]:
+                self.set_time(time[1])
+                self.times_array[day[0]][time[0]] = self.get_journey_time()
 
+        self.org_file_name = self.origin + "-" + self.destination \
+            + "_crosssection.org"
+        subprocess.call(['touch', self.org_file_name])
+        self.org_file = open(self.org_file_name, 'r+')
+        self.org_file.write("|---+---+---+---|\n")
+        self.org_file.write("| Day | 0800 | 1300 | 1800 |\n")
+        self.org_file.write("|---+---+---+---|\n")
+        self.org_file.write("| Mon | " + str(self.times_array[0][0]) + " | " \
+                                       + str(self.times_array[0][1]) + " | " \
+                                       + str(self.times_array[0][2]) + " |\n")
+        self.org_file.write("| Thu | " + str(self.times_array[1][0]) + " | " \
+                                       + str(self.times_array[1][1]) + " | " \
+                                       + str(self.times_array[1][2]) + " |\n")
+        self.org_file.write("| Fri | " + str(self.times_array[2][0]) + " | " \
+                                       + str(self.times_array[2][1]) + " | " \
+                                       + str(self.times_array[2][2]) + " |\n")
+        self.org_file.write("|---+---+---+---|\n")
+        self.org_file.close()
