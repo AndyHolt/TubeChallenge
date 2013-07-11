@@ -1,8 +1,7 @@
-#!/usr/bin/python
 # ONLY TO BE RUN ON CUED SERVERS!
-# python2 script
+# python2 class file
 """
-OO and full version of journey planner scripts
+Class definition for Journey between two stations at a particular date and time.
 """
 import urllib
 import subprocess
@@ -17,8 +16,8 @@ class Journey(object):
         """
         Set up required journey attributes.
         """
-        self.origin = origin
-        self.destination = destination
+        self.origin = origin.get_name()
+        self.destination = destination.get_name()
         self.journey_date = str(journey_date)
         self.journey_time = str(journey_time)
         self.xml_file_name = self.origin + "-" + self.destination + \
@@ -28,13 +27,13 @@ class Journey(object):
         """
         Set origin station for journey.
         """
-        self.origin = origin
+        self.origin = origin.get_name()
 
     def set_destination(self, destination):
         """
         Set destination station for journey.
         """
-        self.destination = destination
+        self.destination = destination.get_name()
 
     def set_date(self, journey_date):
         """
