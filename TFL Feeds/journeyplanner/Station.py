@@ -105,7 +105,8 @@ class Station(object):
 
 class StationList(object):
     """
-    Class defining a list of station objects and unique id
+    Class defining a list of station objects, unique id and station
+    name.
     """
     def __init__(self):
         self.station_list = []
@@ -114,20 +115,37 @@ class StationList(object):
         self.id = len(self.station_list)
         self.station_list.append([self.id, station])
 
-    def get_id(self, station):
+    def add_new(self, name, line, zone, os_x, os_y, latitude, longitude):
+        self.my_station = Station(name, line, zone, os_x, os_y,\
+                                      latitude, longitude)
+        self.add(self.my_station)
+
+    def get_id(self, station_name):
         """
         Find the id associated with a station.
         """
         for element in self.station_list:
-            if element[1] == station:
+            if element[1].get_name() == station_name:
                 return element[0]
-        print "station:", station, "not found."
+        print "station:", station_name, "not found."
 
     def get_station(self, idn):
         """
-        Find the station at a given index
+        Find the name of the station at a given index
         """
-        return self.station_list[idn]
+        if -1 <idn < len(self.station_list):
+            return self.station_list[idn][1].get_name()
+        else:
+            print "ID:", idn, "isn't a valid station ID."
+
+    def fetch_station(self, station_name):
+        """
+        Return the object describing a station with a given name
+        """
+        for element in self.station_list:
+            if element[1].get_name() == station_name:
+                return element[1]
+        print "Station:", station_name, "not found."
 
     def get_list(self):
         """
