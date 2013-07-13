@@ -27,16 +27,19 @@ class Station(object):
     def set_line(self, line):
         """
         Validate line and set.
+        Argument "Line" is a list of lines. 
         """
-        self.line_list = ["Bakerloo", "Central", "Circle", "District", \
+        self.lines = []
+        self.line_list_all = ["Bakerloo", "Central", "Circle", "District", \
                               "HammersmithAndCity", "Jubilee", "Metropolitan", \
                               "Northern", "Piccadilly", "Victoria", \
                               "WaterlooAndCity"]
 
-        if line in self.line_list:
-            self.line = line
-        else:
-            print "Line name:", line,  "is invalid."
+        for aline in line:
+            if aline in self.line_list_all:
+                self.lines.append(aline)
+            else:
+                print "Line name:", aline,  "is invalid."
 
     def set_zone(self, zone):
         """
@@ -71,7 +74,7 @@ class Station(object):
         """
         Return line name.
         """
-        return self.line
+        return self.lines
 
     def get_zone(self):
         """
@@ -90,6 +93,15 @@ class Station(object):
         Return list of [latitude, longitude] as strings. 
         """
         return [self.latitude, self.longitude]
+
+    def add_line(self, aline):
+        """
+        Add a single line to the list of lines the station is on.
+        """
+        if aline in self.lines:
+            print "Line:", aline, "is already in list."
+        else:
+            self.lines.append(aline)
 
 class StationList(object):
     """
