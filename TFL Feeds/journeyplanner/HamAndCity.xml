@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamAndCity>
+  <station name="Aldgate East"/>
+  <station name="Baker Street"/>
+  <station name="Barbican"/>
+  <station name="Barking"/>
+  <station name="Bow Road"/>
+  <station name="Bromley-by-Bow"/>
+  <station name="East Ham"/>
+  <station name="Edgware Road (Circle/District/Hammersmith and City)"/>
+  <station name="Euston Square"/>
+  <station name="Farringdon"/>
+  <station name="Goldhawk Road"/>
+  <station name="Great Portland Street"/>
+  <station name="Hammersmith (Met.)"/>
+  <station name="Kings Cross St. Pancras"/>
+  <station name="Ladbroke Grove"/>
+  <station name="Latimer Road"/>
+  <station name="Liverpool Street"/>
+  <station name="Mile End"/>
+  <station name="Moorgate"/>
+  <station name="Paddington"/>
+  <station name="Plaistow"/>
+  <station name="Royal Oak"/>
+  <station name="Shepherds Bush Market"/>
+  <station name="Stepney Green"/>
+  <station name="Upton Park"/>
+  <station name="West Ham"/>
+  <station name="Westbourne Park"/>
+  <station name="Whitechapel"/>
+  <station name="Wood Lane"/>
+</HamAndCity>
