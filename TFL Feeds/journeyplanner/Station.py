@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # ONLY TO BE RUN ON CUED SERVERS!
 # python2 class file
 """
@@ -170,3 +171,67 @@ class StationList(object):
         Return whole list of stations
         """
         return self.station_list
+
+    def load_270(self):
+        """
+        Load the 270 stations to be visited into the station list.
+        """
+        import xml.etree.ElementTree as ET
+        self.London270 = ET.parse('London270.xml')
+        self.London270_root = self.London270.getroot()
+        self.Bakerloo = ET.parse('Bakerloo.xml')
+        self.Bakerloo_root = self.Bakerloo.getroot()
+        self.Central = ET.parse('Central.xml')
+        self.Central_root = self.Central.getroot()
+        self.Circle = ET.parse('Circle.xml')
+        self.Circle_root = self.Circle.getroot()
+        self.District = ET.parse('District.xml')
+        self.District_root = self.District.getroot()
+        self.HamAndCity = ET.parse('HamAndCity.xml')
+        self.HamAndCity_root = self.HamAndCity.getroot()
+        self.Jubilee = ET.parse('Jubilee.xml')
+        self.Jubilee_root = self.Jubilee.getroot()
+        self.Metropolitan = ET.parse('Metropolitan.xml')
+        self.Metropolitan_root = self.Metropolitan.getroot()
+        self.Northern = ET.parse('Northern.xml')
+        self.Northern_root = self.Northern.getroot()
+        self.Piccadilly = ET.parse('Piccadilly.xml')
+        self.Piccadilly_root = self.Piccadilly.getroot()
+        self.Victoria = ET.parse('Victoria.xml')
+        self.Victoria_root = self.Victoria.getroot()
+        self.WaterlooAndCity = ET.parse('WaterlooAndCity.xml')
+        self.WaterlooAndCity_root = self.WaterlooAndCity.getroot()
+        
+        self.line_list = [ ["Bakerloo", self.Bakerloo_root],
+                           ["Central", self.Central_root],
+                           ["Circle", self.Circle_root],
+                           ["District", self.District_root],
+                           ["HammersmithAndCity", self.HamAndCity_root],
+                           ["Jubilee", self.Jubilee_root],
+                           ["Metropolitan", self.Metropolitan_root],
+                           ["Northern", self.Northern_root],
+                           ["Piccadilly", self.Piccadilly_root],
+                           ["Victoria", self.Victoria_root],
+                           ["WaterlooAndCity", self.WaterlooAndCity_root] ]
+
+        for station in self.London270.findall('station'):
+            self.temp_station_name = station.get('name')
+            self.temp_station_osx = station.find('osx').text
+            self.temp_station_osy = station.find('osy').text
+            self.temp_station_latitude = station.find('latitude').text
+            self.temp_station_longitude = station.find('longitude').text
+            self.temp_station_zone = [int(station.find('zone').text.replace("/","")[i]) \
+                                for i in range(len(station.find('zone').text\
+                                                       .replace("/","")))]
+            self.temp_station_lines = []
+            for i in range(len(self.line_list)):
+                for a_station in self.line_list[i][1].findall('station'):
+                    if a_station.get('name') == self.temp_station_name:
+                        self.temp_station_lines.append(self.line_list[i][0])
+            self.add_new(self.temp_station_name,\
+                             self.temp_station_lines, \
+                             self.temp_station_zone, \
+                             self.temp_station_osx, \
+                             self.temp_station_osy, \
+                             self.temp_station_latitude, \
+                             self.temp_station_longitude)
