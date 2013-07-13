@@ -14,6 +14,7 @@ class Station(object):
         """
         self.set_name(name)
         self.set_line(line)
+        self.zone = []
         self.set_zone(zone)
         self.set_os(os_x, os_y)
         self.set_lat_long(latitutde, longitude)
@@ -43,12 +44,29 @@ class Station(object):
 
     def set_zone(self, zone):
         """
-        Validate the zone and set.
+        Validate each zone in list and set.
         """
-        if 0 < zone < 10:
-            self.zone = zone
+        for i in range(len(zone)):
+            if 0 < zone[i] < 10:
+                self.zone.append(zone[i])
+            else:
+                print "Zone value:", zone, "is invalid"
+
+    def add_zone(self, zone):
+        """
+        Validate and add to list of zones.
+        """
+        if (0 < zone < 10) & (zone not in self.zone):
+            self.zone.append(zone)
         else:
-            print "Zone value:", zone, "is invalid"
+            print "Zone value:", zone, "is invalid or already set"
+
+    def remove_zone(self, zone):
+        """
+        Remove zone from \one list, if set.
+        """
+        if zone in self.zone:
+            self.zone.remove(zone)
 
     def set_os(self, os_x, os_y):
         """
