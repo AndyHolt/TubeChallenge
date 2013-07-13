@@ -27,7 +27,7 @@ class Station(object):
     def set_line(self, line):
         """
         Validate line and set.
-        Argument "Line" is a list of lines. 
+        Argument "line" is a list of lines. 
         """
         self.lines = []
         self.line_list_all = ["Bakerloo", "Central", "Circle", "District", \
@@ -72,7 +72,7 @@ class Station(object):
 
     def get_line(self):
         """
-        Return line name.
+        Return list of line names.
         """
         return self.lines
 
