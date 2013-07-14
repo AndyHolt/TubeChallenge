@@ -114,7 +114,7 @@ class Journey(object):
         directory, this method can delete the file once we've got the
         neccessary information
         """
-        subprocess.call(['rm', self.xml_file_name])
+        subprocess.call(['rm', '-f', self.xml_file_name])
 
     def print_routes(self):
         """
