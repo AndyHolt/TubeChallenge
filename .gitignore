@@ -3,3 +3,4 @@ gephi/
 *.aux
 *.log
 TubeTimetable/
+*.pyc
