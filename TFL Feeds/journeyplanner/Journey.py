@@ -78,6 +78,10 @@ class Journey(object):
         Calls api and writes data to xml file.
         xml file name is: origin - destination date time
         """
+        # ElementTree doesn't write to file properly if there is
+        # already data in the file, so cleanup before writing new.
+        self.cleanup_files()
+
         self.url_base = "http://jpapi.tfl.gov.uk/api/XML_TRIP_REQUEST2?language=en&sessionID=0"
         self.url_jstart = "&place_origin=London&type_origin=stop&name_origin="
         self.url_jend ="&place_destination=London&type_destination=stop&name_destination="
@@ -102,6 +106,15 @@ class Journey(object):
         subprocess.call(['xmllint', '--format', self.xml_file_name], stdout=self.f)
         self.f.close()
         subprocess.call(['mv', 'tmp.xml', self.xml_file_name])
+
+    def cleanup_files(self):
+        """
+        read_api method creates an xml file for the journey. Creating
+        many journeys produces LOTS of xml files cluttering up
+        directory, this method can delete the file once we've got the
+        neccessary information
+        """
+        subprocess.call(['rm', self.xml_file_name])
 
     def print_routes(self):
         """

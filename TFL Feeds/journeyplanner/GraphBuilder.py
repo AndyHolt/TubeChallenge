@@ -40,5 +40,6 @@ class GraphBuilder(object):
                     self.this_journey.read_api()
                     self.journey_time_matrix[i].append(\
                         self.this_journey.get_journey_time())
+                    self.this_journey.cleanup_files()
                 else:
                     self.journey_time_matrix[i].append(0)
