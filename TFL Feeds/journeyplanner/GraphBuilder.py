@@ -34,6 +34,11 @@ class GraphBuilder(object):
             self.journey_time_matrix.append([])
             for j in range(len(self.my_station_list.get_list())):
                 if i != j:
+                    print "Journey:",\
+                        self.my_station_list.get_list()[i][1].get_name(), \
+                        "to",\
+                        self.my_station_list.get_list()[j][1].get_name()
+
                     self.this_journey = Journey(self.my_station_list.get_list()[i][1],\
                                                     self.my_station_list.get_list()[j][1],\
                                                     "20130801",\
@@ -41,6 +46,34 @@ class GraphBuilder(object):
                     self.this_journey.read_api()
                     self.journey_time_matrix[i].append(\
                         self.this_journey.get_journey_time())
+                    self.this_journey.cleanup_files()
+                else:
+                    self.journey_time_matrix[i].append(0)
+
+    def build_no_change_graph(self):
+        """
+        For each pair of stations in the supplied list, create a
+        Journey object and save the journey times in a list.
+        Arguments:
+        - `station_list`: the list of stations created by load_stations().
+        """
+        from Journey import Journey
+        for i in range(len(self.my_station_list.get_list())):
+            self.journey_time_matrix.append([])
+            for j in range(len(self.my_station_list.get_list())):
+                if i != j:
+                    print "Journey:",\
+                        self.my_station_list.get_list()[i][1].get_name(), \
+                        "to",\
+                        self.my_station_list.get_list()[j][1].get_name()
+
+                    self.this_journey = Journey(self.my_station_list.get_list()[i][1],\
+                                                    self.my_station_list.get_list()[j][1],\
+                                                    "20130801",\
+                                                    "0800")
+                    self.this_journey.read_api()
+                    self.journey_time_matrix[i].append(\
+                        self.this_journey.get_no_change_journey_time())
                     self.this_journey.cleanup_files()
                 else:
                     self.journey_time_matrix[i].append(0)
@@ -87,7 +120,7 @@ class GraphBuilder(object):
                                                     'label': self.my_station_list.get_station(i)})
             self.my_nodes.append(self.new_node)
             for j in range(len(self.journey_time_matrix)):
-                if i != j:
+                if self.journey_time_matrix[i][j] != 0:
                     self.edge_id = str((i * len(self.journey_time_matrix)) + j)
                     self.new_edge = ET.Element('edge', {'id': self.edge_id,\
                                                             'source': str(i),\

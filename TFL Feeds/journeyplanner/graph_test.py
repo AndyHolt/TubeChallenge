@@ -25,7 +25,7 @@ test_station_list.add(big_station_list.get_list()[4][1])
 test_station_list.add(big_station_list.get_list()[5][1])
 
 my_graph_builder = GraphBuilder(test_station_list)
-my_graph_builder.build_graph()
+my_graph_builder.build_no_change_graph()
 my_graph_builder.export_to_gexf()
 
 print my_graph_builder.journey_time_matrix

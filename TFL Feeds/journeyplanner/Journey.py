@@ -151,6 +151,12 @@ class Journey(object):
 
         for route in self.route_list.findall('itdRoute'):
             self.time_list = route.get('publicDuration').split(':')
+
+            print "time:", ((60 * float(self.time_list[0]))\
+                                + float(self.time_list[1])),\
+                                "changes:",\
+                                route.get('changes')
+
             self.duration_list.append((60*float(self.time_list[0])) \
                                           + float(self.time_list[1]))
 
@@ -162,6 +168,43 @@ class Journey(object):
         self.duration_avg = self.duration_sum / len(self.duration_list)
 
         return self.duration_avg
+
+    def get_no_change_journey_time(self):
+        """
+        Returns int with journey time in minutes if there are no
+        changes, or 0 if there are no zero-change options.
+        """
+        self.journey_data = ET.parse(self.xml_file_name)
+        self.journey_data_root = self.journey_data.getroot()
+
+        self.route_list = self.journey_data_root.find('itdTripRequest')\
+            .find('itdItinerary').find('itdRouteList')
+        
+        self.duration_list = []
+
+        for route in self.route_list.findall('itdRoute'):
+            if route.get('changes') == "0":
+                self.time_list = route.get('publicDuration').split(':')
+
+                print "time:", ((60 * float(self.time_list[0]))\
+                                    + float(self.time_list[1])),\
+                                    "changes:",\
+                                    route.get('changes')
+                
+                self.duration_list.append((60*float(self.time_list[0])) \
+                                              + float(self.time_list[1]))
+
+        self.duration_sum = 0
+
+        if len(self.duration_list) > 0:
+            for element in self.duration_list:
+                self.duration_sum = self.duration_sum + element
+
+            self.duration_avg = self.duration_sum / len(self.duration_list)
+            print "average duration:", self.duration_avg
+            return self.duration_avg
+        else:
+            return int(0)
 
     def get_times_cross_section(self):
         """

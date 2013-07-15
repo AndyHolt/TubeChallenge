@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gexf xmlns="https://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="http://www.gexf.net/1.2draft   \http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-07-15">
+    <creator>Andy Holt</creator>
+    <description>Graph of tube network</description>
+  </meta>
+  <graph defaultedgetype="directed">
+    <nodes>
+      <node id="0" label="Acton Town"/>
+      <node id="1" label="Aldgate"/>
+      <node id="2" label="Aldgate East"/>
+      <node id="3" label="Alperton"/>
+      <node id="4" label="Amersham"/>
+      <node id="5" label="Angel"/>
+    </nodes>
+    <edges>
+      <edge id="2" source="0" target="2" weight="45.5"/>
+      <edge id="3" source="0" target="3" weight="9.0"/>
+      <edge id="8" source="1" target="2" weight="2.6"/>
+      <edge id="10" source="1" target="4" weight="72.0"/>
+      <edge id="12" source="2" target="0" weight="45.0"/>
+      <edge id="13" source="2" target="1" weight="3.4"/>
+      <edge id="16" source="2" target="4" weight="79.0"/>
+      <edge id="18" source="3" target="0" weight="10.0"/>
+      <edge id="25" source="4" target="1" weight="68.3"/>
+      <edge id="26" source="4" target="2" weight="76.0"/>
+    </edges>
+  </graph>
+</gexf>
