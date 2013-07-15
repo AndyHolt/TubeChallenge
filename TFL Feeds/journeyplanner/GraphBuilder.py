@@ -15,13 +15,14 @@ class GraphBuilder(object):
     Build a graph of the tube network to export to GEXF format.
     """
 
-    def __init__(self, ):
+    def __init__(self, station_list):
         """
         Intilise object.
         """
         self.journey_time_matrix = []
+        self.my_station_list = station_list
 
-    def build_graph(self, station_list):
+    def build_graph(self):
         """
         For each pair of stations in the supplied list, create a
         Journey object and save the journey times in a list.
@@ -29,12 +30,12 @@ class GraphBuilder(object):
         - `station_list`: the list of stations created by load_stations().
         """
         from Journey import Journey
-        for i in range(len(station_list.get_list())):
+        for i in range(len(self.my_station_list.get_list())):
             self.journey_time_matrix.append([])
-            for j in range(len(station_list.get_list())):
+            for j in range(len(self.my_station_list.get_list())):
                 if i != j:
-                    self.this_journey = Journey(station_list.get_list()[i][1],\
-                                                    station_list.get_list()[j][1],\
+                    self.this_journey = Journey(self.my_station_list.get_list()[i][1],\
+                                                    self.my_station_list.get_list()[j][1],\
                                                     "20130801",\
                                                     "0800")
                     self.this_journey.read_api()
@@ -43,3 +44,55 @@ class GraphBuilder(object):
                     self.this_journey.cleanup_files()
                 else:
                     self.journey_time_matrix[i].append(0)
+
+    def export_to_gexf(self):
+        """
+        Export the generated graph to GEXF format used by gephi.
+        """
+        import time
+        import subprocess
+        import xml.etree.ElementTree as ET
+
+        subprocess.call(['touch', 'TubeJourneyTimesGraph.gexf'])
+
+        self.my_gexf = ET.Element('gexf',\
+                                      {'xmlns': 'https://www.gexf.net/1.2draft',\
+                                           'xmlns:xsi':\
+                                           'http://www.w3.org/2001/XMLSchema-instance',\
+                                           'xsi:schemaLocation': \
+                                           'http://www.gexf.net/1.2draft \n \http://www.gexf.net/1.2draft/gexf.xsd',\
+                                           'version': '1.2'})
+        self.my_tree = ET.ElementTree(self.my_gexf)
+
+        self.my_meta = ET.Element('meta', {'lastmodifieddate': time.strftime('%Y-%m-%d')})
+        self.my_creator = ET.Element('creator')
+        self.my_creator.text = "Andy Holt"
+        self.my_description = ET.Element('description')
+        self.my_description.text = "Graph of tube network"
+        self.my_meta.append(self.my_creator)
+        self.my_meta.append(self.my_description)
+        self.my_gexf.append(self.my_meta)
+
+        self.my_graph = ET.Element('graph', {'defaultedgetype': 'directed'})
+        self.my_gexf.append(self.my_graph)
+
+        self.my_nodes = ET.Element('nodes')
+        self.my_graph.append(self.my_nodes)
+
+        self.my_edges = ET.Element('edges')
+        self.my_graph.append(self.my_edges)
+
+        for i in range(len(self.journey_time_matrix)):
+            self.new_node = ET.Element('node', {'id': str(i),\
+                                                    'label': self.my_station_list.get_station(i)})
+            self.my_nodes.append(self.new_node)
+            for j in range(len(self.journey_time_matrix)):
+                if i != j:
+                    self.edge_id = str((i * len(self.journey_time_matrix)) + j)
+                    self.new_edge = ET.Element('edge', {'id': self.edge_id,\
+                                                            'source': str(i),\
+                                                            'target': str(j),\
+                                                            'weight': str(round(self.journey_time_matrix[i][j],1))})
+                    self.my_edges.append(self.new_edge)
+
+        self.my_tree.write('TubeJourneyTimesGraph.gexf')
