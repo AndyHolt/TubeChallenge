@@ -152,10 +152,10 @@ class Journey(object):
         for route in self.route_list.findall('itdRoute'):
             self.time_list = route.get('publicDuration').split(':')
 
-            print "time:", ((60 * float(self.time_list[0]))\
-                                + float(self.time_list[1])),\
-                                "changes:",\
-                                route.get('changes')
+            #print "time:", ((60 * float(self.time_list[0]))\
+            #                    + float(self.time_list[1])),\
+            #                    "changes:",\
+            #                    route.get('changes')
 
             self.duration_list.append((60*float(self.time_list[0])) \
                                           + float(self.time_list[1]))
@@ -186,10 +186,10 @@ class Journey(object):
             if route.get('changes') == "0":
                 self.time_list = route.get('publicDuration').split(':')
 
-                print "time:", ((60 * float(self.time_list[0]))\
-                                    + float(self.time_list[1])),\
-                                    "changes:",\
-                                    route.get('changes')
+            #    print "time:", ((60 * float(self.time_list[0]))\
+            #                        + float(self.time_list[1])),\
+            #                        "changes:",\
+            #                        route.get('changes')
                 
                 self.duration_list.append((60*float(self.time_list[0])) \
                                               + float(self.time_list[1]))
@@ -201,7 +201,7 @@ class Journey(object):
                 self.duration_sum = self.duration_sum + element
 
             self.duration_avg = self.duration_sum / len(self.duration_list)
-            print "average duration:", self.duration_avg
+            # print "average duration:", self.duration_avg
             return self.duration_avg
         else:
             return int(0)
