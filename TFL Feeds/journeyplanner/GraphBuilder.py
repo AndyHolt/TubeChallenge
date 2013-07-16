@@ -109,6 +109,15 @@ class GraphBuilder(object):
         self.my_graph = ET.Element('graph', {'defaultedgetype': 'directed'})
         self.my_gexf.append(self.my_graph)
 
+        self.my_attributes = ET.Element('attributes', {'class': 'node'})
+        self.my_lat = ET.Element('attribute',\
+                                     {'id': '0', 'title': 'latitude', 'type':'double'})
+        self.my_long = ET.Element('attribute',\
+                                      {'id': '1', 'title': 'longitude', 'type':'double'}) 
+        self.my_attributes.append(self.my_lat)
+        self.my_attributes.append(self.my_long)
+        self.my_graph.append(self.my_attributes)
+
         self.my_nodes = ET.Element('nodes')
         self.my_graph.append(self.my_nodes)
 
@@ -117,7 +126,14 @@ class GraphBuilder(object):
 
         for i in range(len(self.journey_time_matrix)):
             self.new_node = ET.Element('node', {'id': str(i),\
-                                                    'label': self.my_station_list.get_station(i)})
+                                                    'label':\
+                                                    self.my_station_list.get_station(i),\
+                                                    'latitude':\
+                                                    str(self.my_station_list.fetch_station_id(i)\
+                                                              .get_lat_long()[0]),\
+                                                    'longitude':\
+                                                    str(self.my_station_list.fetch_station_id(i)\
+                                                              .get_lat_long()[1])})
             self.my_nodes.append(self.new_node)
             for j in range(len(self.journey_time_matrix)):
                 if self.journey_time_matrix[i][j] != 0:

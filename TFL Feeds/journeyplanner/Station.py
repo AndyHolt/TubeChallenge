@@ -166,6 +166,15 @@ class StationList(object):
                 return element[1]
         print "Station:", station_name, "not found."
 
+    def fetch_station_id(self, idn):
+        """
+        Return the object describing a station with a given name
+        """
+        if -1 < idn < len(self.station_list):
+            return self.station_list[idn][1]
+        else:
+            print "Station id:", idn, "is invalid."
+
     def get_list(self):
         """
         Return whole list of stations

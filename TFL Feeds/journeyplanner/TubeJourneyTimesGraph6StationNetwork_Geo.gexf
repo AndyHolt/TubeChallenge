@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gexf xmlns="https://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="http://www.gexf.net/1.2draft   \http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-07-16">
+    <creator>Andy Holt</creator>
+    <description>Graph of tube network</description>
+  </meta>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="0" title="latitude" type="double"/>
+      <attribute id="1" title="longitude" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="Acton Town" latitude="51.5030714769" longitude="-0.2802882962"/>
+      <node id="1" label="Aldgate" latitude="51.5143423875" longitude="-0.0756125037"/>
+      <node id="2" label="Aldgate East" latitude="51.5150816311" longitude="-0.0729870535"/>
+      <node id="3" label="Alperton" latitude="51.5412093106" longitude="-0.2995013415"/>
+      <node id="4" label="Amersham" latitude="51.6741293921" longitude="-0.6064993306"/>
+      <node id="5" label="Angel" latitude="51.5329680281" longitude="-0.1055670341"/>
+    </nodes>
+    <edges>
+      <edge id="2" source="0" target="2" weight="45.5"/>
+      <edge id="3" source="0" target="3" weight="9.0"/>
+      <edge id="8" source="1" target="2" weight="2.6"/>
+      <edge id="10" source="1" target="4" weight="72.0"/>
+      <edge id="12" source="2" target="0" weight="45.0"/>
+      <edge id="13" source="2" target="1" weight="3.4"/>
+      <edge id="16" source="2" target="4" weight="79.0"/>
+      <edge id="18" source="3" target="0" weight="10.0"/>
+      <edge id="25" source="4" target="1" weight="68.3"/>
+      <edge id="26" source="4" target="2" weight="76.0"/>
+    </edges>
+  </graph>
+</gexf>
