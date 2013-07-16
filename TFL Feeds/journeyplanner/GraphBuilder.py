@@ -111,7 +111,7 @@ class GraphBuilder(object):
 
         self.my_attributes = ET.Element('attributes', {'class': 'node'})
         self.my_lat = ET.Element('attribute',\
-                                     {'latitutde': '0', 'title': 'latitude', 'type':'double'})
+                                     {'id': 'latitutde', 'title': 'latitude', 'type':'double'})
         self.my_long = ET.Element('attribute',\
                                       {'id': 'longitude', 'title': 'longitude', 'type':'double'}) 
         self.my_attributes.append(self.my_lat)
