@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gexf xmlns="https://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="http://www.gexf.net/1.2draft   \http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-07-16">
+    <creator>Andy Holt</creator>
+    <description>Graph of tube network</description>
+  </meta>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute latitutde="0" title="latitude" type="double"/>
+      <attribute id="longitude" title="longitude" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="Acton Town">
+        <attvalues>
+          <attvalue for="latitude" value="51.5030714769"/>
+          <attvalue for="longitude" value="-0.2802882962"/>
+        </attvalues>
+      </node>
+      <node id="1" label="Aldgate">
+        <attvalues>
+          <attvalue for="latitude" value="51.5143423875"/>
+          <attvalue for="longitude" value="-0.0756125037"/>
+        </attvalues>
+      </node>
+      <node id="2" label="Aldgate East">
+        <attvalues>
+          <attvalue for="latitude" value="51.5150816311"/>
+          <attvalue for="longitude" value="-0.0729870535"/>
+        </attvalues>
+      </node>
+      <node id="3" label="Alperton">
+        <attvalues>
+          <attvalue for="latitude" value="51.5412093106"/>
+          <attvalue for="longitude" value="-0.2995013415"/>
+        </attvalues>
+      </node>
+      <node id="4" label="Amersham">
+        <attvalues>
+          <attvalue for="latitude" value="51.6741293921"/>
+          <attvalue for="longitude" value="-0.6064993306"/>
+        </attvalues>
+      </node>
+      <node id="5" label="Angel">
+        <attvalues>
+          <attvalue for="latitude" value="51.5329680281"/>
+          <attvalue for="longitude" value="-0.1055670341"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2" source="0" target="2" weight="45.5"/>
+      <edge id="3" source="0" target="3" weight="9.0"/>
+      <edge id="8" source="1" target="2" weight="2.6"/>
+      <edge id="10" source="1" target="4" weight="72.0"/>
+      <edge id="12" source="2" target="0" weight="45.0"/>
+      <edge id="13" source="2" target="1" weight="3.4"/>
+      <edge id="16" source="2" target="4" weight="79.0"/>
+      <edge id="18" source="3" target="0" weight="10.0"/>
+      <edge id="25" source="4" target="1" weight="68.3"/>
+      <edge id="26" source="4" target="2" weight="76.0"/>
+    </edges>
+  </graph>
+</gexf>
