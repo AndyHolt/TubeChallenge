@@ -20,7 +20,7 @@ class Journey(object):
         self.destination = destination.get_name()
         self.journey_date = str(journey_date)
         self.journey_time = str(journey_time)
-        self.xml_file_name = self.origin + "-" + self.destination + \
+        self.xml_file_name = self.origin.replace("/","_") + "-" + self.destination.replace("/","_") + \
             self.journey_date + self.journey_time + ".xml"
 
     def set_origin(self, origin):
