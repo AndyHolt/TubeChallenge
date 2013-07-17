@@ -15,8 +15,7 @@ full_station_list = StationList()
 full_station_list.load_270()
 
 my_graph_builder = GraphBuilder(full_station_list)
-my_graph_builder.build_no_change_graph()
-my_graph_builder.export_to_gexf()
+my_graph_builder.build_part_graph()
 
 #print my_graph_builder.journey_time_matrix
 
