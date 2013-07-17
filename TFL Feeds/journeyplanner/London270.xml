@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tube>
-  <station name="Acton Town">
+  <station name="Acton Town Underground Station">
     <required>true</required>
     <line/>
     <osx>519457</osx>
@@ -9,7 +9,7 @@
     <longitude>-0.2802882962</longitude>
     <zone>3</zone>
   </station>
-  <station name="Aldgate">
+  <station name="Aldgate Underground Station">
     <required>true</required>
     <line/>
     <osx>533629</osx>
@@ -18,7 +18,7 @@
     <longitude>-0.0756125037</longitude>
     <zone>1</zone>
   </station>
-  <station name="Aldgate East">
+  <station name="Aldgate East Underground Station">
     <required>true</required>
     <line/>
     <osx>533809</osx>
@@ -27,7 +27,7 @@
     <longitude>-0.0729870535</longitude>
     <zone>1</zone>
   </station>
-  <station name="Alperton">
+  <station name="Alperton Underground Station">
     <required>true</required>
     <line/>
     <osx>518025</osx>
@@ -36,7 +36,7 @@
     <longitude>-0.2995013415</longitude>
     <zone>4</zone>
   </station>
-  <station name="Amersham">
+  <station name="Amersham Underground Station">
     <required>true</required>
     <line/>
     <osx>496454</osx>
@@ -45,7 +45,7 @@
     <longitude>-0.6064993306</longitude>
     <zone>9</zone>
   </station>
-  <station name="Angel">
+  <station name="Angel Underground Station">
     <required>true</required>
     <line/>
     <osx>531497</osx>
@@ -54,7 +54,7 @@
     <longitude>-0.1055670341</longitude>
     <zone>1</zone>
   </station>
-  <station name="Archway">
+  <station name="Archway Underground Station">
     <required>true</required>
     <line/>
     <osx>529356</osx>
@@ -63,7 +63,7 @@
     <longitude>-0.1351071516</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Arnos Grove">
+  <station name="Arnos Grove Underground Station">
     <required>true</required>
     <line/>
     <osx>529271</osx>
@@ -72,7 +72,7 @@
     <longitude>-0.1342557776</longitude>
     <zone>4</zone>
   </station>
-  <station name="Arsenal">
+  <station name="Arsenal Underground Station">
     <required>true</required>
     <line/>
     <osx>531429</osx>
@@ -81,7 +81,7 @@
     <longitude>-0.1054855107</longitude>
     <zone>2</zone>
   </station>
-  <station name="Baker Street">
+  <station name="Baker Street Underground Station">
     <required>true</required>
     <line/>
     <osx>527965</osx>
@@ -90,7 +90,7 @@
     <longitude>-0.1568897827</longitude>
     <zone>1</zone>
   </station>
-  <station name="Balham">
+  <station name="Balham Underground Station">
     <required>true</required>
     <line/>
     <osx>528482</osx>
@@ -99,7 +99,7 @@
     <longitude>-0.1526707768</longitude>
     <zone>3</zone>
   </station>
-  <station name="Bank">
+  <station name="Bank Underground Station">
     <required>true</required>
     <line/>
     <osx>532704</osx>
@@ -108,7 +108,7 @@
     <longitude>-0.0889857153</longitude>
     <zone>1</zone>
   </station>
-  <station name="Barbican">
+  <station name="Barbican Underground Station">
     <required>true</required>
     <line/>
     <osx>532079</osx>
@@ -117,7 +117,7 @@
     <longitude>-0.0977071679</longitude>
     <zone>1</zone>
   </station>
-  <station name="Barking">
+  <station name="Barking Underground Station">
     <required>true</required>
     <line/>
     <osx>544405</osx>
@@ -126,7 +126,7 @@
     <longitude>0.0808460269</longitude>
     <zone>4</zone>
   </station>
-  <station name="Barkingside">
+  <station name="Barkingside Underground Station">
     <required>true</required>
     <line/>
     <osx>544788</osx>
@@ -135,7 +135,7 @@
     <longitude>0.0884910712</longitude>
     <zone>4</zone>
   </station>
-  <station name="Barons Court">
+  <station name="Barons Court Underground Station">
     <required>true</required>
     <line/>
     <osx>524133</osx>
@@ -144,7 +144,7 @@
     <longitude>-0.2134157438</longitude>
     <zone>2</zone>
   </station>
-  <station name="Bayswater">
+  <station name="Bayswater Underground Station">
     <required>true</required>
     <line/>
     <osx>525845</osx>
@@ -153,7 +153,7 @@
     <longitude>-0.1878871657</longitude>
     <zone>1</zone>
   </station>
-  <station name="Becontree">
+  <station name="Becontree Underground Station">
     <required>true</required>
     <line/>
     <osx>547598</osx>
@@ -162,7 +162,7 @@
     <longitude>0.1268947086</longitude>
     <zone>5</zone>
   </station>
-  <station name="Belsize Park">
+  <station name="Belsize Park Underground Station">
     <required>true</required>
     <line/>
     <osx>527399</osx>
@@ -171,7 +171,7 @@
     <longitude>-0.1639600724</longitude>
     <zone>2</zone>
   </station>
-  <station name="Bermondsey">
+  <station name="Bermondsey Underground Station">
     <required>true</required>
     <line/>
     <osx>534461</osx>
@@ -180,7 +180,7 @@
     <longitude>-0.0643156863</longitude>
     <zone>2</zone>
   </station>
-  <station name="Bethnal Green">
+  <station name="Bethnal Green Underground Station">
     <required>true</required>
     <line/>
     <osx>534995</osx>
@@ -189,7 +189,7 @@
     <longitude>-0.0553776986</longitude>
     <zone>2</zone>
   </station>
-  <station name="Blackfriars">
+  <station name="Blackfriars Underground Station">
     <required>true</required>
     <line/>
     <osx>531738</osx>
@@ -198,7 +198,7 @@
     <longitude>-0.1029809772</longitude>
     <zone>1</zone>
   </station>
-  <station name="Blackhorse Road">
+  <station name="Blackhorse Road Underground Station">
     <required>true</required>
     <line/>
     <osx>535914</osx>
@@ -207,7 +207,7 @@
     <longitude>-0.03961128</longitude>
     <zone>3</zone>
   </station>
-  <station name="Bond Street">
+  <station name="Bond Street Underground Station">
     <required>true</required>
     <line/>
     <osx>528497</osx>
@@ -216,7 +216,7 @@
     <longitude>-0.1495992011</longitude>
     <zone>1</zone>
   </station>
-  <station name="Borough">
+  <station name="Borough Underground Station">
     <required>true</required>
     <line/>
     <osx>532379</osx>
@@ -225,7 +225,7 @@
     <longitude>-0.0941829184</longitude>
     <zone>1</zone>
   </station>
-  <station name="Boston Manor">
+  <station name="Boston Manor Underground Station">
     <required>true</required>
     <line/>
     <osx>516391</osx>
@@ -234,7 +234,7 @@
     <longitude>-0.3247327859</longitude>
     <zone>4</zone>
   </station>
-  <station name="Bounds Green">
+  <station name="Bounds Green Underground Station">
     <required>true</required>
     <line/>
     <osx>529996</osx>
@@ -243,7 +243,7 @@
     <longitude>-0.1241626274</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="Bow Church">
+  <station name="Bow Church Station">
     <required>true</required>
     <line/>
     <osx>537414</osx>
@@ -252,7 +252,7 @@
     <longitude>-0.0204854861</longitude>
     <zone>2</zone>
   </station>
-  <station name="Bow Road">
+  <station name="Bow Road Underground Station">
     <required>true</required>
     <line/>
     <osx>537148</osx>
@@ -261,7 +261,7 @@
     <longitude>-0.0243451777</longitude>
     <zone>2</zone>
   </station>
-  <station name="Brent Cross">
+  <station name="Brent Cross Underground Station">
     <required>true</required>
     <line/>
     <osx>523905</osx>
@@ -270,7 +270,7 @@
     <longitude>-0.213321412</longitude>
     <zone>3</zone>
   </station>
-  <station name="Brixton">
+  <station name="Brixton Underground Station">
     <required>true</required>
     <line/>
     <osx>531076</osx>
@@ -279,7 +279,7 @@
     <longitude>-0.1145377049</longitude>
     <zone>2</zone>
   </station>
-  <station name="Bromley-by-Bow">
+  <station name="Bromley-by-Bow Underground Station">
     <required>true</required>
     <line/>
     <osx>538034</osx>
@@ -288,7 +288,7 @@
     <longitude>-0.0116679621</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Buckhurst Hill">
+  <station name="Buckhurst Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>541768</osx>
@@ -297,7 +297,7 @@
     <longitude>0.0467269858</longitude>
     <zone>5</zone>
   </station>
-  <station name="Burnt Oak">
+  <station name="Burnt Oak Underground Station">
     <required>true</required>
     <line/>
     <osx>520303</osx>
@@ -306,7 +306,7 @@
     <longitude>-0.2643162756</longitude>
     <zone>4</zone>
   </station>
-  <station name="Caledonian Road">
+  <station name="Caledonian Road Underground Station">
     <required>true</required>
     <line/>
     <osx>530568</osx>
@@ -315,7 +315,7 @@
     <longitude>-0.1183464424</longitude>
     <zone>2</zone>
   </station>
-  <station name="Camden Town">
+  <station name="Camden Town Underground Station">
     <required>true</required>
     <line/>
     <osx>528920</osx>
@@ -324,7 +324,7 @@
     <longitude>-0.1424379641</longitude>
     <zone>2</zone>
   </station>
-  <station name="Canada Water">
+  <station name="Canada Water Underground Station">
     <required>true</required>
     <line/>
     <osx>535399</osx>
@@ -333,7 +333,7 @@
     <longitude>-0.0507927171</longitude>
     <zone>2</zone>
   </station>
-  <station name="Canary Wharf">
+  <station name="Canary Wharf Underground Station">
     <required>true</required>
     <line/>
     <osx>537558</osx>
@@ -342,7 +342,7 @@
     <longitude>-0.0194524346</longitude>
     <zone>2</zone>
   </station>
-  <station name="Canning Town">
+  <station name="Canning Town Underground Station">
     <required>true</required>
     <line/>
     <osx>539454</osx>
@@ -351,7 +351,7 @@
     <longitude>0.0083200415</longitude>
     <zone>3</zone>
   </station>
-  <station name="Cannon Street">
+  <station name="Cannon Street Underground Station">
     <required>true</required>
     <line/>
     <osx>532623</osx>
@@ -360,7 +360,7 @@
     <longitude>-0.0902361189</longitude>
     <zone>1</zone>
   </station>
-  <station name="Canons Park">
+  <station name="Canons Park Underground Station">
     <required>true</required>
     <line/>
     <osx>518208</osx>
@@ -369,7 +369,7 @@
     <longitude>-0.2943771583</longitude>
     <zone>5</zone>
   </station>
-  <station name="Chalfont and Latimer">
+  <station name="Chalfont and Latimer Underground Station">
     <required>true</required>
     <line/>
     <osx>499610</osx>
@@ -378,7 +378,7 @@
     <longitude>-0.5610533204</longitude>
     <zone>8</zone>
   </station>
-  <station name="Chalk Farm">
+  <station name="Chalk Farm Underground Station">
     <required>true</required>
     <line/>
     <osx>528126</osx>
@@ -387,7 +387,7 @@
     <longitude>-0.1537186526</longitude>
     <zone>2</zone>
   </station>
-  <station name="Chancery Lane">
+  <station name="Chancery Lane Underground Station">
     <required>true</required>
     <line/>
     <osx>531096</osx>
@@ -396,7 +396,7 @@
     <longitude>-0.1119476172</longitude>
     <zone>1</zone>
   </station>
-  <station name="Charing Cross">
+  <station name="Charing Cross Underground Station">
     <required>true</required>
     <line/>
     <osx>530234</osx>
@@ -405,7 +405,7 @@
     <longitude>-0.1247885311</longitude>
     <zone>1</zone>
   </station>
-  <station name="Chesham">
+  <station name="Chesham Underground Station">
     <required>true</required>
     <line/>
     <osx>496048</osx>
@@ -414,7 +414,7 @@
     <longitude>-0.6114151884</longitude>
     <zone>9</zone>
   </station>
-  <station name="Chigwell">
+  <station name="Chigwell Underground Station">
     <required>true</required>
     <line/>
     <osx>543835</osx>
@@ -423,7 +423,7 @@
     <longitude>0.0761936567</longitude>
     <zone>4</zone>
   </station>
-  <station name="Chiswick Park">
+  <station name="Chiswick Park Underground Station">
     <required>true</required>
     <line/>
     <osx>520352</osx>
@@ -432,7 +432,7 @@
     <longitude>-0.2677225197</longitude>
     <zone>3</zone>
   </station>
-  <station name="Chorleywood">
+  <station name="Chorleywood Underground Station">
     <required>true</required>
     <line/>
     <osx>502596</osx>
@@ -441,7 +441,7 @@
     <longitude>-0.5183194739</longitude>
     <zone>7</zone>
   </station>
-  <station name="Clapham Common">
+  <station name="Clapham Common Underground Station">
     <required>true</required>
     <line/>
     <osx>529428</osx>
@@ -450,7 +450,7 @@
     <longitude>-0.1383005101</longitude>
     <zone>2</zone>
   </station>
-  <station name="Clapham North">
+  <station name="Clapham North Underground Station">
     <required>true</required>
     <line/>
     <osx>530003</osx>
@@ -459,7 +459,7 @@
     <longitude>-0.1298956695</longitude>
     <zone>2</zone>
   </station>
-  <station name="Clapham South">
+  <station name="Clapham South Underground Station">
     <required>true</required>
     <line/>
     <osx>528782</osx>
@@ -468,7 +468,7 @@
     <longitude>-0.1479696801</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Cockfosters">
+  <station name="Cockfosters Underground Station">
     <required>true</required>
     <line/>
     <osx>528087</osx>
@@ -477,7 +477,7 @@
     <longitude>-0.1499022586</longitude>
     <zone>5</zone>
   </station>
-  <station name="Colindale">
+  <station name="Colindale Underground Station">
     <required>true</required>
     <line/>
     <osx>521295</osx>
@@ -486,7 +486,7 @@
     <longitude>-0.2502731093</longitude>
     <zone>4</zone>
   </station>
-  <station name="Colliers Wood">
+  <station name="Colliers Wood Underground Station">
     <required>true</required>
     <line/>
     <osx>526831</osx>
@@ -495,7 +495,7 @@
     <longitude>-0.177400721</longitude>
     <zone>3</zone>
   </station>
-  <station name="Covent Garden">
+  <station name="Covent Garden Underground Station">
     <required>true</required>
     <line/>
     <osx>530242</osx>
@@ -504,7 +504,7 @@
     <longitude>-0.1244924862</longitude>
     <zone>1</zone>
   </station>
-  <station name="Croxley">
+  <station name="Croxley Underground Station">
     <required>true</required>
     <line/>
     <osx>507921</osx>
@@ -513,7 +513,7 @@
     <longitude>-0.4415893477</longitude>
     <zone>7</zone>
   </station>
-  <station name="Dagenham East">
+  <station name="Dagenham East Underground Station">
     <required>true</required>
     <line/>
     <osx>550284</osx>
@@ -522,7 +522,7 @@
     <longitude>0.16584785</longitude>
     <zone>5</zone>
   </station>
-  <station name="Dagenham Heathway">
+  <station name="Dagenham Heathway Underground Station">
     <required>true</required>
     <line/>
     <osx>549035</osx>
@@ -531,7 +531,7 @@
     <longitude>0.1476941376</longitude>
     <zone>5</zone>
   </station>
-  <station name="Debden">
+  <station name="Debden Underground Station">
     <required>true</required>
     <line/>
     <osx>544275</osx>
@@ -540,7 +540,7 @@
     <longitude>0.0838159253</longitude>
     <zone>6</zone>
   </station>
-  <station name="Dollis Hill">
+  <station name="Dollis Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>522207</osx>
@@ -549,7 +549,7 @@
     <longitude>-0.238783341</longitude>
     <zone>3</zone>
   </station>
-  <station name="Ealing Broadway">
+  <station name="Ealing Broadway Underground Station">
     <required>true</required>
     <line/>
     <osx>517920</osx>
@@ -558,7 +558,7 @@
     <longitude>-0.3019959725</longitude>
     <zone>3</zone>
   </station>
-  <station name="Ealing Common">
+  <station name="Ealing Common Underground Station">
     <required>true</required>
     <line/>
     <osx>518963</osx>
@@ -567,7 +567,7 @@
     <longitude>-0.2871370104</longitude>
     <zone>3</zone>
   </station>
-  <station name="Earls Court">
+  <station name="Earls Court Underground Station">
     <required>true</required>
     <line/>
     <osx>525457</osx>
@@ -576,7 +576,7 @@
     <longitude>-0.1942994077</longitude>
     <zone>1/2</zone>
   </station>
-  <station name="East Acton">
+  <station name="East Acton Underground Station">
     <required>true</required>
     <line/>
     <osx>521656</osx>
@@ -585,7 +585,7 @@
     <longitude>-0.2480978154</longitude>
     <zone>2</zone>
   </station>
-  <station name="East Finchley">
+  <station name="East Finchley Underground Station">
     <required>true</required>
     <line/>
     <osx>527242</osx>
@@ -594,7 +594,7 @@
     <longitude>-0.1647294541</longitude>
     <zone>3</zone>
   </station>
-  <station name="East Ham">
+  <station name="East Ham Underground Station">
     <required>true</required>
     <line/>
     <osx>542373</osx>
@@ -603,7 +603,7 @@
     <longitude>0.0515307101</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="East Putney">
+  <station name="East Putney Underground Station">
     <required>true</required>
     <line/>
     <osx>524387</osx>
@@ -612,7 +612,7 @@
     <longitude>-0.2109838428</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Eastcote">
+  <station name="Eastcote Underground Station">
     <required>true</required>
     <line/>
     <osx>511191</osx>
@@ -621,7 +621,7 @@
     <longitude>-0.3968088711</longitude>
     <zone>5</zone>
   </station>
-  <station name="Edgware">
+  <station name="Edgware Underground Station">
     <required>true</required>
     <line/>
     <osx>519527</osx>
@@ -630,7 +630,7 @@
     <longitude>-0.2750792261</longitude>
     <zone>5</zone>
   </station>
-  <station name="Edgware Road (Bakerloo)">
+  <station name="Edgware Road (Bakerloo) Underground Station">
     <required>true</required>
     <line/>
     <osx>527026</osx>
@@ -639,7 +639,7 @@
     <longitude>-0.1705251407</longitude>
     <zone>1</zone>
   </station>
-  <station name="Edgware Road (Circle/District/Hammersmith and City)">
+  <station name="Edgware Road (Circle/District/Hammersmith and City) Underground Station">
     <required>true</required>
     <line/>
     <osx>527227</osx>
@@ -648,7 +648,7 @@
     <longitude>-0.1676538436</longitude>
     <zone>1</zone>
   </station>
-  <station name="Elephant and Castle">
+  <station name="Elephant and Castle Underground Station">
     <required>true</required>
     <line/>
     <osx>531940</osx>
@@ -657,7 +657,7 @@
     <longitude>-0.1007243117</longitude>
     <zone>1/2</zone>
   </station>
-  <station name="Elm Park">
+  <station name="Elm Park Underground Station">
     <required>true</required>
     <line/>
     <osx>552446</osx>
@@ -666,7 +666,7 @@
     <longitude>0.1972671018</longitude>
     <zone>6</zone>
   </station>
-  <station name="Embankment">
+  <station name="Embankment Underground Station">
     <required>true</required>
     <line/>
     <osx>530406</osx>
@@ -675,7 +675,7 @@
     <longitude>-0.1223529298</longitude>
     <zone>1</zone>
   </station>
-  <station name="Epping">
+  <station name="Epping Underground Station">
     <required>true</required>
     <line/>
     <osx>546197</osx>
@@ -684,7 +684,7 @@
     <longitude>0.1138400185</longitude>
     <zone>6</zone>
   </station>
-  <station name="Euston">
+  <station name="Euston Underground Station">
     <required>true</required>
     <line/>
     <osx>529587</osx>
@@ -693,7 +693,7 @@
     <longitude>-0.1332820584</longitude>
     <zone>1</zone>
   </station>
-  <station name="Euston Square">
+  <station name="Euston Square Underground Station">
     <required>true</required>
     <line/>
     <osx>529587</osx>
@@ -702,7 +702,7 @@
     <longitude>-0.1332820584</longitude>
     <zone>1</zone>
   </station>
-  <station name="Fairlop">
+  <station name="Fairlop Underground Station">
     <required>true</required>
     <line/>
     <osx>544902</osx>
@@ -711,7 +711,7 @@
     <longitude>0.0906077142</longitude>
     <zone>4</zone>
   </station>
-  <station name="Farringdon">
+  <station name="Farringdon Underground Station">
     <required>true</required>
     <line/>
     <osx>531585</osx>
@@ -720,7 +720,7 @@
     <longitude>-0.1048286512</longitude>
     <zone>1</zone>
   </station>
-  <station name="Finchley Central">
+  <station name="Finchley Central Underground Station">
     <required>true</required>
     <line/>
     <osx>525232</osx>
@@ -729,7 +729,7 @@
     <longitude>-0.1932062006</longitude>
     <zone>4</zone>
   </station>
-  <station name="Finchley Road">
+  <station name="Finchley Road Underground Station">
     <required>true</required>
     <line/>
     <osx>526293</osx>
@@ -738,7 +738,7 @@
     <longitude>-0.1800361413</longitude>
     <zone>2</zone>
   </station>
-  <station name="Finsbury Park">
+  <station name="Finsbury Park Underground Station">
     <required>true</required>
     <line/>
     <osx>531385</osx>
@@ -747,7 +747,7 @@
     <longitude>-0.1058670614</longitude>
     <zone>2</zone>
   </station>
-  <station name="Fulham Broadway">
+  <station name="Fulham Broadway Underground Station">
     <required>true</required>
     <line/>
     <osx>525402</osx>
@@ -756,7 +756,7 @@
     <longitude>-0.1955297656</longitude>
     <zone>2</zone>
   </station>
-  <station name="Gants Hill">
+  <station name="Gants Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>543266</osx>
@@ -765,7 +765,7 @@
     <longitude>0.0660985264</longitude>
     <zone>4</zone>
   </station>
-  <station name="Gloucester Road">
+  <station name="Gloucester Road Underground Station">
     <required>true</required>
     <line/>
     <osx>526196</osx>
@@ -774,7 +774,7 @@
     <longitude>-0.1835291569</longitude>
     <zone>1</zone>
   </station>
-  <station name="Golders Green">
+  <station name="Golders Green Underground Station">
     <required>true</required>
     <line/>
     <osx>525199</osx>
@@ -783,7 +783,7 @@
     <longitude>-0.194820132</longitude>
     <zone>3</zone>
   </station>
-  <station name="Goldhawk Road">
+  <station name="Goldhawk Road Underground Station">
     <required>true</required>
     <line/>
     <osx>523131</osx>
@@ -792,7 +792,7 @@
     <longitude>-0.2273896013</longitude>
     <zone>2</zone>
   </station>
-  <station name="Goodge Street">
+  <station name="Goodge Street Underground Station">
     <required>true</required>
     <line/>
     <osx>529505</osx>
@@ -801,7 +801,7 @@
     <longitude>-0.1347932793</longitude>
     <zone>1</zone>
   </station>
-  <station name="Grange Hill">
+  <station name="Grange Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>544963</osx>
@@ -810,7 +810,7 @@
     <longitude>0.0922869699</longitude>
     <zone>4</zone>
   </station>
-  <station name="Great Portland Street">
+  <station name="Great Portland Street Underground Station">
     <required>true</required>
     <line/>
     <osx>528861</osx>
@@ -819,7 +819,7 @@
     <longitude>-0.1439470134</longitude>
     <zone>1</zone>
   </station>
-  <station name="Green Park">
+  <station name="Green Park Underground Station">
     <required>true</required>
     <line/>
     <osx>529012</osx>
@@ -828,7 +828,7 @@
     <longitude>-0.1424631691</longitude>
     <zone>1</zone>
   </station>
-  <station name="Greenford">
+  <station name="Greenford Underground Station">
     <required>true</required>
     <line/>
     <osx>514808</osx>
@@ -837,7 +837,7 @@
     <longitude>-0.3458643227</longitude>
     <zone>4</zone>
   </station>
-  <station name="Gunnersbury">
+  <station name="Gunnersbury Underground Station">
     <required>true</required>
     <line/>
     <osx>519843</osx>
@@ -846,7 +846,7 @@
     <longitude>-0.2751497341</longitude>
     <zone>3</zone>
   </station>
-  <station name="Hainault">
+  <station name="Hainault Underground Station">
     <required>true</required>
     <line/>
     <osx>545124</osx>
@@ -855,7 +855,7 @@
     <longitude>0.0941229872</longitude>
     <zone>4</zone>
   </station>
-  <station name="Hammersmith (District)">
+  <station name="Hammersmith (District and Piccadilly) Underground Station">
     <required>true</required>
     <line/>
     <osx>523474</osx>
@@ -864,7 +864,7 @@
     <longitude>-0.222846527</longitude>
     <zone>2</zone>
   </station>
-  <station name="Hammersmith (Met.)">
+  <station name="Hammersmith (HC line) Underground Station">
     <required>true</required>
     <line/>
     <osx>523346</osx>
@@ -873,7 +873,7 @@
     <longitude>-0.2246257552</longitude>
     <zone>2</zone>
   </station>
-  <station name="Hampstead">
+  <station name="Hampstead Underground Station">
     <required>true</required>
     <line/>
     <osx>526408</osx>
@@ -882,7 +882,7 @@
     <longitude>-0.1780001377</longitude>
     <zone>2</zone>
   </station>
-  <station name="Hanger Lane">
+  <station name="Hanger Lane Underground Station">
     <required>true</required>
     <line/>
     <osx>518506</osx>
@@ -891,7 +891,7 @@
     <longitude>-0.2929817318</longitude>
     <zone>3</zone>
   </station>
-  <station name="Harlesden">
+  <station name="Harlesden Underground Station">
     <required>true</required>
     <line/>
     <osx>520952</osx>
@@ -900,7 +900,7 @@
     <longitude>-0.2574812585</longitude>
     <zone>3</zone>
   </station>
-  <station name="Harrow and Wealdstone">
+  <station name="Harrow and Wealdstone Underground Station">
     <required>true</required>
     <line/>
     <osx>515486</osx>
@@ -909,7 +909,7 @@
     <longitude>-0.3342382516</longitude>
     <zone>5</zone>
   </station>
-  <station name="Harrow-on-the-Hill">
+  <station name="Harrow-on-the-Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>515329</osx>
@@ -918,7 +918,7 @@
     <longitude>-0.3369870881</longitude>
     <zone>5</zone>
   </station>
-  <station name="Hatton Cross">
+  <station name="Hatton Cross Underground Station">
     <required>true</required>
     <line/>
     <osx>509614</osx>
@@ -927,7 +927,7 @@
     <longitude>-0.4233661699</longitude>
     <zone>5/6</zone>
   </station>
-  <station name="Heathrow Terminal 4">
+  <station name="Heathrow Terminal 4 Underground Station">
     <required>true</required>
     <line/>
     <osx>507939</osx>
@@ -936,7 +936,7 @@
     <longitude>-0.4477151986</longitude>
     <zone>6</zone>
   </station>
-  <station name="Heathrow Terminal 5">
+  <station name="Heathrow Terminal 5 Underground Station">
     <required>true</required>
     <line/>
     <osx>504934</osx>
@@ -945,7 +945,7 @@
     <longitude>-0.4906331087</longitude>
     <zone>6</zone>
   </station>
-  <station name="Heathrow Terminals 1 2 3">
+  <station name="Heathrow Terminals 1 2 3 Underground Station">
     <required>true</required>
     <line/>
     <osx>507587</osx>
@@ -954,7 +954,7 @@
     <longitude>-0.4523928306</longitude>
     <zone>6</zone>
   </station>
-  <station name="Hendon Central">
+  <station name="Hendon Central Underground Station">
     <required>true</required>
     <line/>
     <osx>522959</osx>
@@ -963,7 +963,7 @@
     <longitude>-0.2267197095</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="High Barnet">
+  <station name="High Barnet Underground Station">
     <required>true</required>
     <line/>
     <osx>525027</osx>
@@ -972,7 +972,7 @@
     <longitude>-0.1941509278</longitude>
     <zone>5</zone>
   </station>
-  <station name="High Street Kensington">
+  <station name="High Street Kensington Underground Station">
     <required>true</required>
     <line/>
     <osx>525622</osx>
@@ -981,7 +981,7 @@
     <longitude>-0.191551653</longitude>
     <zone>1</zone>
   </station>
-  <station name="Highbury and Islington">
+  <station name="Highbury and Islington Underground Station">
     <required>true</required>
     <line/>
     <osx>531562</osx>
@@ -990,7 +990,7 @@
     <longitude>-0.1040677208</longitude>
     <zone>2</zone>
   </station>
-  <station name="Highgate">
+  <station name="Highgate Underground Station">
     <required>true</required>
     <line/>
     <osx>528503</osx>
@@ -999,7 +999,7 @@
     <longitude>-0.1469204333</longitude>
     <zone>3</zone>
   </station>
-  <station name="Hillingdon">
+  <station name="Hillingdon Underground Station">
     <required>true</required>
     <line/>
     <osx>507567</osx>
@@ -1008,7 +1008,7 @@
     <longitude>-0.4498835725</longitude>
     <zone>6</zone>
   </station>
-  <station name="Holborn">
+  <station name="Holborn Underground Station">
     <required>true</required>
     <line/>
     <osx>530553</osx>
@@ -1017,7 +1017,7 @@
     <longitude>-0.1198260976</longitude>
     <zone>1</zone>
   </station>
-  <station name="Holland Park">
+  <station name="Holland Park Underground Station">
     <required>true</required>
     <line/>
     <osx>524564</osx>
@@ -1026,7 +1026,7 @@
     <longitude>-0.2065433713</longitude>
     <zone>2</zone>
   </station>
-  <station name="Holloway Road">
+  <station name="Holloway Road Underground Station">
     <required>true</required>
     <line/>
     <osx>530930</osx>
@@ -1035,7 +1035,7 @@
     <longitude>-0.1129212759</longitude>
     <zone>2</zone>
   </station>
-  <station name="Hornchurch">
+  <station name="Hornchurch Underground Station">
     <required>true</required>
     <line/>
     <osx>553931</osx>
@@ -1044,7 +1044,7 @@
     <longitude>0.2189414181</longitude>
     <zone>6</zone>
   </station>
-  <station name="Hounslow Central">
+  <station name="Hounslow Central Underground Station">
     <required>true</required>
     <line/>
     <osx>513592</osx>
@@ -1053,7 +1053,7 @@
     <longitude>-0.3659437342</longitude>
     <zone>4</zone>
   </station>
-  <station name="Hounslow East">
+  <station name="Hounslow East Underground Station">
     <required>true</required>
     <line/>
     <osx>514327</osx>
@@ -1062,7 +1062,7 @@
     <longitude>-0.355260926</longitude>
     <zone>4</zone>
   </station>
-  <station name="Hounslow West">
+  <station name="Hounslow West Underground Station">
     <required>true</required>
     <line/>
     <osx>512215</osx>
@@ -1071,7 +1071,7 @@
     <longitude>-0.385693233</longitude>
     <zone>5</zone>
   </station>
-  <station name="Hyde Park Corner">
+  <station name="Hyde Park Corner Underground Station">
     <required>true</required>
     <line/>
     <osx>528330</osx>
@@ -1080,7 +1080,7 @@
     <longitude>-0.1524597088</longitude>
     <zone>1</zone>
   </station>
-  <station name="Ickenham">
+  <station name="Ickenham Underground Station">
     <required>true</required>
     <line/>
     <osx>508127</osx>
@@ -1089,7 +1089,7 @@
     <longitude>-0.4415650894</longitude>
     <zone>6</zone>
   </station>
-  <station name="Kennington">
+  <station name="Kennington Underground Station">
     <required>true</required>
     <line/>
     <osx>531660</osx>
@@ -1098,7 +1098,7 @@
     <longitude>-0.1050562126</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kensal Green">
+  <station name="Kensal Green Underground Station">
     <required>true</required>
     <line/>
     <osx>523241</osx>
@@ -1107,7 +1107,7 @@
     <longitude>-0.2246989701</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kensington (Olympia)">
+  <station name="Kensington (Olympia) Underground Station">
     <required>true</required>
     <line/>
     <osx>524324</osx>
@@ -1116,7 +1116,7 @@
     <longitude>-0.2103648387</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kentish Town">
+  <station name="Kentish Town Underground Station">
     <required>true</required>
     <line/>
     <osx>529029</osx>
@@ -1125,7 +1125,7 @@
     <longitude>-0.1404568437</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kenton">
+  <station name="Kenton Underground Station">
     <required>true</required>
     <line/>
     <osx>516833</osx>
@@ -1134,7 +1134,7 @@
     <longitude>-0.3152024366</longitude>
     <zone>4</zone>
   </station>
-  <station name="Kew Gardens">
+  <station name="Kew Gardens Underground Station">
     <required>true</required>
     <line/>
     <osx>519173</osx>
@@ -1143,7 +1143,7 @@
     <longitude>-0.2853666145</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="Kilburn">
+  <station name="Kilburn Underground Station">
     <required>true</required>
     <line/>
     <osx>524589</osx>
@@ -1152,7 +1152,7 @@
     <longitude>-0.2046183</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kilburn Park">
+  <station name="Kilburn Park Underground Station">
     <required>true</required>
     <line/>
     <osx>525361</osx>
@@ -1161,7 +1161,7 @@
     <longitude>-0.1939516417</longitude>
     <zone>2</zone>
   </station>
-  <station name="Kings Cross St. Pancras">
+  <station name="Kings Cross St. Pancras Underground Station">
     <required>true</required>
     <line/>
     <osx>530236</osx>
@@ -1170,7 +1170,7 @@
     <longitude>-0.1238577156</longitude>
     <zone>1</zone>
   </station>
-  <station name="Kingsbury">
+  <station name="Kingsbury Underground Station">
     <required>true</required>
     <line/>
     <osx>519361</osx>
@@ -1179,7 +1179,7 @@
     <longitude>-0.2785871772</longitude>
     <zone>4</zone>
   </station>
-  <station name="Knightsbridge">
+  <station name="Knightsbridge Underground Station">
     <required>true</required>
     <line/>
     <osx>527765</osx>
@@ -1188,7 +1188,7 @@
     <longitude>-0.1606500813</longitude>
     <zone>1</zone>
   </station>
-  <station name="Ladbroke Grove">
+  <station name="Ladbroke Grove Underground Station">
     <required>true</required>
     <line/>
     <osx>524284</osx>
@@ -1197,7 +1197,7 @@
     <longitude>-0.2101837627</longitude>
     <zone>2</zone>
   </station>
-  <station name="Lambeth North">
+  <station name="Lambeth North Underground Station">
     <required>true</required>
     <line/>
     <osx>531165</osx>
@@ -1206,7 +1206,7 @@
     <longitude>-0.111753857</longitude>
     <zone>1</zone>
   </station>
-  <station name="Lancaster Gate">
+  <station name="Lancaster Gate Underground Station">
     <required>true</required>
     <line/>
     <osx>526711</osx>
@@ -1215,7 +1215,7 @@
     <longitude>-0.1754155205</longitude>
     <zone>1</zone>
   </station>
-  <station name="Latimer Road">
+  <station name="Latimer Road Underground Station">
     <required>true</required>
     <line/>
     <osx>523789</osx>
@@ -1224,7 +1224,7 @@
     <longitude>-0.2174452573</longitude>
     <zone>2</zone>
   </station>
-  <station name="Leicester Square">
+  <station name="Leicester Square Underground Station">
     <required>true</required>
     <line/>
     <osx>529987</osx>
@@ -1233,7 +1233,7 @@
     <longitude>-0.1282277396</longitude>
     <zone>1</zone>
   </station>
-  <station name="Leyton">
+  <station name="Leyton Underground Station">
     <required>true</required>
     <line/>
     <osx>538295</osx>
@@ -1242,7 +1242,7 @@
     <longitude>-0.0064509088</longitude>
     <zone>3</zone>
   </station>
-  <station name="Leytonstone">
+  <station name="Leytonstone Underground Station">
     <required>true</required>
     <line/>
     <osx>539345</osx>
@@ -1251,7 +1251,7 @@
     <longitude>0.009154878</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="Liverpool Street">
+  <station name="Liverpool Street Underground Station">
     <required>true</required>
     <line/>
     <osx>533160</osx>
@@ -1260,7 +1260,7 @@
     <longitude>-0.0822352123</longitude>
     <zone>1</zone>
   </station>
-  <station name="London Bridge">
+  <station name="London Bridge Underground Station">
     <required>true</required>
     <line/>
     <osx>532937</osx>
@@ -1269,7 +1269,7 @@
     <longitude>-0.0859911923</longitude>
     <zone>1</zone>
   </station>
-  <station name="Loughton">
+  <station name="Loughton Underground Station">
     <required>true</required>
     <line/>
     <osx>542314</osx>
@@ -1278,7 +1278,7 @@
     <longitude>0.0552935283</longitude>
     <zone>6</zone>
   </station>
-  <station name="Maida Vale">
+  <station name="Maida Vale Underground Station">
     <required>true</required>
     <line/>
     <osx>525967</osx>
@@ -1287,7 +1287,7 @@
     <longitude>-0.1854182331</longitude>
     <zone>2</zone>
   </station>
-  <station name="Manor House">
+  <station name="Manor House Underground Station">
     <required>true</required>
     <line/>
     <osx>532074</osx>
@@ -1296,7 +1296,7 @@
     <longitude>-0.0956705495</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Mansion House">
+  <station name="Mansion House Underground Station">
     <required>true</required>
     <line/>
     <osx>532347</osx>
@@ -1305,7 +1305,7 @@
     <longitude>-0.0941832495</longitude>
     <zone>1</zone>
   </station>
-  <station name="Marble Arch">
+  <station name="Marble Arch Underground Station">
     <required>true</required>
     <line/>
     <osx>527875</osx>
@@ -1314,7 +1314,7 @@
     <longitude>-0.1585568075</longitude>
     <zone>1</zone>
   </station>
-  <station name="Marylebone">
+  <station name="Marylebone Underground Station">
     <required>true</required>
     <line/>
     <osx>527510</osx>
@@ -1323,7 +1323,7 @@
     <longitude>-0.1634781524</longitude>
     <zone>1</zone>
   </station>
-  <station name="Mile End">
+  <station name="Mile End Underground Station">
     <required>true</required>
     <line/>
     <osx>536577</osx>
@@ -1332,7 +1332,7 @@
     <longitude>-0.0326516719</longitude>
     <zone>2</zone>
   </station>
-  <station name="Mill Hill East">
+  <station name="Mill Hill East Underground Station">
     <required>true</required>
     <line/>
     <osx>524057</osx>
@@ -1341,7 +1341,7 @@
     <longitude>-0.2098812743</longitude>
     <zone>4</zone>
   </station>
-  <station name="Monument">
+  <station name="Monument Underground Station">
     <required>true</required>
     <line/>
     <osx>532907</osx>
@@ -1350,7 +1350,7 @@
     <longitude>-0.0861739059</longitude>
     <zone>1</zone>
   </station>
-  <station name="Moor Park">
+  <station name="Moor Park Underground Station">
     <required>true</required>
     <line/>
     <osx>508563</osx>
@@ -1359,7 +1359,7 @@
     <longitude>-0.4328985823</longitude>
     <zone>6/7</zone>
   </station>
-  <station name="Moorgate">
+  <station name="Moorgate Underground Station">
     <required>true</required>
     <line/>
     <osx>532688</osx>
@@ -1368,7 +1368,7 @@
     <longitude>-0.0890032776</longitude>
     <zone>1</zone>
   </station>
-  <station name="Morden">
+  <station name="Morden Underground Station">
     <required>true</required>
     <line/>
     <osx>525664</osx>
@@ -1377,7 +1377,7 @@
     <longitude>-0.1948376081</longitude>
     <zone>4</zone>
   </station>
-  <station name="Mornington Crescent">
+  <station name="Mornington Crescent Underground Station">
     <required>true</required>
     <line/>
     <osx>529193</osx>
@@ -1386,7 +1386,7 @@
     <longitude>-0.1387299346</longitude>
     <zone>2</zone>
   </station>
-  <station name="Neasden">
+  <station name="Neasden Underground Station">
     <required>true</required>
     <line/>
     <osx>521415</osx>
@@ -1395,7 +1395,7 @@
     <longitude>-0.2501006238</longitude>
     <zone>3</zone>
   </station>
-  <station name="Newbury Park">
+  <station name="Newbury Park Underground Station">
     <required>true</required>
     <line/>
     <osx>544947</osx>
@@ -1404,7 +1404,7 @@
     <longitude>0.090317586</longitude>
     <zone>4</zone>
   </station>
-  <station name="North Acton">
+  <station name="North Acton Underground Station">
     <required>true</required>
     <line/>
     <osx>520831</osx>
@@ -1413,7 +1413,7 @@
     <longitude>-0.2597151162</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="North Ealing">
+  <station name="North Ealing Underground Station">
     <required>true</required>
     <line/>
     <osx>518816</osx>
@@ -1422,7 +1422,7 @@
     <longitude>-0.2889791428</longitude>
     <zone>3</zone>
   </station>
-  <station name="North Greenwich">
+  <station name="North Greenwich Underground Station">
     <required>true</required>
     <line/>
     <osx>539168</osx>
@@ -1431,7 +1431,7 @@
     <longitude>0.0036006636</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="North Harrow">
+  <station name="North Harrow Underground Station">
     <required>true</required>
     <line/>
     <osx>513540</osx>
@@ -1440,7 +1440,7 @@
     <longitude>-0.3626185624</longitude>
     <zone>5</zone>
   </station>
-  <station name="North Wembley">
+  <station name="North Wembley Underground Station">
     <required>true</required>
     <line/>
     <osx>517663</osx>
@@ -1449,7 +1449,7 @@
     <longitude>-0.3039337954</longitude>
     <zone>4</zone>
   </station>
-  <station name="Northfields">
+  <station name="Northfields Underground Station">
     <required>true</required>
     <line/>
     <osx>517051</osx>
@@ -1458,7 +1458,7 @@
     <longitude>-0.3150504144</longitude>
     <zone>3</zone>
   </station>
-  <station name="Northolt">
+  <station name="Northolt Underground Station">
     <required>true</required>
     <line/>
     <osx>513228</osx>
@@ -1467,7 +1467,7 @@
     <longitude>-0.3684261762</longitude>
     <zone>5</zone>
   </station>
-  <station name="Northwick Park">
+  <station name="Northwick Park Underground Station">
     <required>true</required>
     <line/>
     <osx>516634</osx>
@@ -1476,7 +1476,7 @@
     <longitude>-0.3181849629</longitude>
     <zone>4</zone>
   </station>
-  <station name="Northwood Hills">
+  <station name="Northwood Hills Underground Station">
     <required>true</required>
     <line/>
     <osx>510267</osx>
@@ -1485,7 +1485,7 @@
     <longitude>-0.4092969219</longitude>
     <zone>6</zone>
   </station>
-  <station name="Notting Hill Gate">
+  <station name="Notting Hill Gate Underground Station">
     <required>true</required>
     <line/>
     <osx>525296</osx>
@@ -1494,7 +1494,7 @@
     <longitude>-0.1959072111</longitude>
     <zone>1/2</zone>
   </station>
-  <station name="Oakwood">
+  <station name="Oakwood Underground Station">
     <required>true</required>
     <line/>
     <osx>529349</osx>
@@ -1503,7 +1503,7 @@
     <longitude>-0.1318390887</longitude>
     <zone>5</zone>
   </station>
-  <station name="Old Street">
+  <station name="Old Street Underground Station">
     <required>true</required>
     <line/>
     <osx>532764</osx>
@@ -1512,7 +1512,7 @@
     <longitude>-0.0876085453</longitude>
     <zone>1</zone>
   </station>
-  <station name="Osterley">
+  <station name="Osterley Underground Station">
     <required>true</required>
     <line/>
     <osx>514529</osx>
@@ -1521,7 +1521,7 @@
     <longitude>-0.3520816978</longitude>
     <zone>4</zone>
   </station>
-  <station name="Oval">
+  <station name="Oval Underground Station">
     <required>true</required>
     <line/>
     <osx>531108</osx>
@@ -1530,7 +1530,7 @@
     <longitude>-0.1133066773</longitude>
     <zone>2</zone>
   </station>
-  <station name="Oxford Circus">
+  <station name="Oxford Circus Underground Station">
     <required>true</required>
     <line/>
     <osx>529102</osx>
@@ -1539,7 +1539,7 @@
     <longitude>-0.1408217621</longitude>
     <zone>1</zone>
   </station>
-  <station name="Paddington">
+  <station name="Paddington Underground Station">
     <required>true</required>
     <line/>
     <osx>526680</osx>
@@ -1548,7 +1548,7 @@
     <longitude>-0.1757223428</longitude>
     <zone>1</zone>
   </station>
-  <station name="Paddington">
+  <station name="Paddington Underground Station">
     <required>true</required>
     <line/>
     <osx>526680</osx>
@@ -1557,7 +1557,7 @@
     <longitude>-0.1757223428</longitude>
     <zone>1</zone>
   </station>
-  <station name="Park Royal">
+  <station name="Park Royal Underground Station">
     <required>true</required>
     <line/>
     <osx>519074</osx>
@@ -1566,7 +1566,7 @@
     <longitude>-0.284914505</longitude>
     <zone>3</zone>
   </station>
-  <station name="Parsons Green">
+  <station name="Parsons Green Underground Station">
     <required>true</required>
     <line/>
     <osx>525029</osx>
@@ -1575,7 +1575,7 @@
     <longitude>-0.2011100959</longitude>
     <zone>2</zone>
   </station>
-  <station name="Perivale">
+  <station name="Perivale Underground Station">
     <required>true</required>
     <line/>
     <osx>516404</osx>
@@ -1584,7 +1584,7 @@
     <longitude>-0.3230560063</longitude>
     <zone>4</zone>
   </station>
-  <station name="Piccadilly Circus">
+  <station name="Piccadilly Circus Underground Station">
     <required>true</required>
     <line/>
     <osx>529612</osx>
@@ -1593,7 +1593,7 @@
     <longitude>-0.1336971897</longitude>
     <zone>1</zone>
   </station>
-  <station name="Pimlico">
+  <station name="Pimlico Underground Station">
     <required>true</required>
     <line/>
     <osx>529711</osx>
@@ -1602,7 +1602,7 @@
     <longitude>-0.1330938573</longitude>
     <zone>1</zone>
   </station>
-  <station name="Pinner">
+  <station name="Pinner Underground Station">
     <required>true</required>
     <line/>
     <osx>512233</osx>
@@ -1611,7 +1611,7 @@
     <longitude>-0.3812093569</longitude>
     <zone>5</zone>
   </station>
-  <station name="Plaistow">
+  <station name="Plaistow Underground Station">
     <required>true</required>
     <line/>
     <osx>540058</osx>
@@ -1620,7 +1620,7 @@
     <longitude>0.0177950563</longitude>
     <zone>3</zone>
   </station>
-  <station name="Preston Road">
+  <station name="Preston Road Underground Station">
     <required>true</required>
     <line/>
     <osx>518260</osx>
@@ -1629,7 +1629,7 @@
     <longitude>-0.2949575855</longitude>
     <zone>4</zone>
   </station>
-  <station name="Putney Bridge">
+  <station name="Putney Bridge Underground Station">
     <required>true</required>
     <line/>
     <osx>524476</osx>
@@ -1638,7 +1638,7 @@
     <longitude>-0.2093510226</longitude>
     <zone>2</zone>
   </station>
-  <station name="Queens Park">
+  <station name="Queens Park Underground Station">
     <required>true</required>
     <line/>
     <osx>524612</osx>
@@ -1647,7 +1647,7 @@
     <longitude>-0.2047837342</longitude>
     <zone>2</zone>
   </station>
-  <station name="Queensbury">
+  <station name="Queensbury Underground Station">
     <required>true</required>
     <line/>
     <osx>518802</osx>
@@ -1656,7 +1656,7 @@
     <longitude>-0.2863171635</longitude>
     <zone>4</zone>
   </station>
-  <station name="Queensway">
+  <station name="Queensway Underground Station">
     <required>true</required>
     <line/>
     <osx>525883</osx>
@@ -1665,7 +1665,7 @@
     <longitude>-0.1874054954</longitude>
     <zone>1</zone>
   </station>
-  <station name="Ravenscourt Park">
+  <station name="Ravenscourt Park Underground Station">
     <required>true</required>
     <line/>
     <osx>522558</osx>
@@ -1674,7 +1674,7 @@
     <longitude>-0.2359548307</longitude>
     <zone>2</zone>
   </station>
-  <station name="Rayners Lane">
+  <station name="Rayners Lane Underground Station">
     <required>true</required>
     <line/>
     <osx>512979</osx>
@@ -1683,7 +1683,7 @@
     <longitude>-0.3710463858</longitude>
     <zone>5</zone>
   </station>
-  <station name="Redbridge">
+  <station name="Redbridge Underground Station">
     <required>true</required>
     <line/>
     <osx>541833</osx>
@@ -1692,7 +1692,7 @@
     <longitude>0.0454084725</longitude>
     <zone>4</zone>
   </station>
-  <station name="Regents Park">
+  <station name="Regents Park Underground Station">
     <required>true</required>
     <line/>
     <osx>528765</osx>
@@ -1701,7 +1701,7 @@
     <longitude>-0.145329999</longitude>
     <zone>1</zone>
   </station>
-  <station name="Richmond">
+  <station name="Richmond Underground Station">
     <required>true</required>
     <line/>
     <osx>518072</osx>
@@ -1710,7 +1710,7 @@
     <longitude>-0.3017247413</longitude>
     <zone>4</zone>
   </station>
-  <station name="Rickmansworth">
+  <station name="Rickmansworth Underground Station">
     <required>true</required>
     <line/>
     <osx>505717</osx>
@@ -1719,7 +1719,7 @@
     <longitude>-0.4736701358</longitude>
     <zone>7</zone>
   </station>
-  <station name="Roding Valley">
+  <station name="Roding Valley Underground Station">
     <required>true</required>
     <line/>
     <osx>541612</osx>
@@ -1728,7 +1728,7 @@
     <longitude>0.0440406484</longitude>
     <zone>4</zone>
   </station>
-  <station name="Royal Oak">
+  <station name="Royal Oak Underground Station">
     <required>true</required>
     <line/>
     <osx>525764</osx>
@@ -1737,7 +1737,7 @@
     <longitude>-0.1888092635</longitude>
     <zone>2</zone>
   </station>
-  <station name="Ruislip">
+  <station name="Ruislip Underground Station">
     <required>true</required>
     <line/>
     <osx>509510</osx>
@@ -1746,7 +1746,7 @@
     <longitude>-0.4212204991</longitude>
     <zone>6</zone>
   </station>
-  <station name="Ruislip Gardens">
+  <station name="Ruislip Gardens Underground Station">
     <required>true</required>
     <line/>
     <osx>510367</osx>
@@ -1755,7 +1755,7 @@
     <longitude>-0.4092796881</longitude>
     <zone>5</zone>
   </station>
-  <station name="Ruislip Manor">
+  <station name="Ruislip Manor Underground Station">
     <required>true</required>
     <line/>
     <osx>510088</osx>
@@ -1764,7 +1764,7 @@
     <longitude>-0.4128349271</longitude>
     <zone>6</zone>
   </station>
-  <station name="Russell Square">
+  <station name="Russell Square Underground Station">
     <required>true</required>
     <line/>
     <osx>530207</osx>
@@ -1773,7 +1773,7 @@
     <longitude>-0.1245757861</longitude>
     <zone>1</zone>
   </station>
-  <station name="Seven Sisters">
+  <station name="Seven Sisters Underground Station">
     <required>true</required>
     <line/>
     <osx>533646</osx>
@@ -1782,7 +1782,7 @@
     <longitude>-0.0724523921</longitude>
     <zone>3</zone>
   </station>
-  <station name="Shepherds Bush">
+  <station name="Shepherds Bush Underground Station">
     <required>true</required>
     <line/>
     <osx>523741</osx>
@@ -1791,7 +1791,7 @@
     <longitude>-0.2185047537</longitude>
     <zone>2</zone>
   </station>
-  <station name="Shepherds Bush Market">
+  <station name="Shepherds Bush Market Underground Station">
     <required>true</required>
     <line/>
     <osx>523121</osx>
@@ -1800,7 +1800,7 @@
     <longitude>-0.2273860872</longitude>
     <zone>2</zone>
   </station>
-  <station name="Sloane Square">
+  <station name="Sloane Square Underground Station">
     <required>true</required>
     <line/>
     <osx>528080</osx>
@@ -1809,7 +1809,7 @@
     <longitude>-0.1564744555</longitude>
     <zone>1</zone>
   </station>
-  <station name="Snaresbrook">
+  <station name="Snaresbrook Underground Station">
     <required>true</required>
     <line/>
     <osx>540161</osx>
@@ -1818,7 +1818,7 @@
     <longitude>0.0214783578</longitude>
     <zone>4</zone>
   </station>
-  <station name="South Ealing">
+  <station name="South Ealing Underground Station">
     <required>true</required>
     <line/>
     <osx>517605</osx>
@@ -1827,7 +1827,7 @@
     <longitude>-0.3070258402</longitude>
     <zone>3</zone>
   </station>
-  <station name="South Kensington">
+  <station name="South Kensington Underground Station">
     <required>true</required>
     <line/>
     <osx>526865</osx>
@@ -1836,7 +1836,7 @@
     <longitude>-0.1739086206</longitude>
     <zone>1</zone>
   </station>
-  <station name="South Kenton">
+  <station name="South Kenton Underground Station">
     <required>true</required>
     <line/>
     <osx>517350</osx>
@@ -1845,7 +1845,7 @@
     <longitude>-0.3081285506</longitude>
     <zone>4</zone>
   </station>
-  <station name="South Ruislip">
+  <station name="South Ruislip Underground Station">
     <required>true</required>
     <line/>
     <osx>511080</osx>
@@ -1854,7 +1854,7 @@
     <longitude>-0.3991014882</longitude>
     <zone>5</zone>
   </station>
-  <station name="South Wimbledon">
+  <station name="South Wimbledon Underground Station">
     <required>true</required>
     <line/>
     <osx>525828</osx>
@@ -1863,7 +1863,7 @@
     <longitude>-0.1919601685</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="South Woodford">
+  <station name="South Woodford Underground Station">
     <required>true</required>
     <line/>
     <osx>540577</osx>
@@ -1872,7 +1872,7 @@
     <longitude>0.0279575117</longitude>
     <zone>4</zone>
   </station>
-  <station name="Southfields">
+  <station name="Southfields Underground Station">
     <required>true</required>
     <line/>
     <osx>524730</osx>
@@ -1881,7 +1881,7 @@
     <longitude>-0.2065949986</longitude>
     <zone>3</zone>
   </station>
-  <station name="Southgate">
+  <station name="Southgate Underground Station">
     <required>true</required>
     <line/>
     <osx>529675</osx>
@@ -1890,7 +1890,7 @@
     <longitude>-0.127755601</longitude>
     <zone>4</zone>
   </station>
-  <station name="Southwark">
+  <station name="Southwark Underground Station">
     <required>true</required>
     <line/>
     <osx>531566</osx>
@@ -1899,7 +1899,7 @@
     <longitude>-0.1057805339</longitude>
     <zone>1</zone>
   </station>
-  <station name="St. James's Park">
+  <station name="St. James's Park Underground Station">
     <required>true</required>
     <line/>
     <osx>529629</osx>
@@ -1908,7 +1908,7 @@
     <longitude>-0.1338643511</longitude>
     <zone>1</zone>
   </station>
-  <station name="St. Johns Wood">
+  <station name="St. Johns Wood Underground Station">
     <required>true</required>
     <line/>
     <osx>526742</osx>
@@ -1917,7 +1917,7 @@
     <longitude>-0.1740504251</longitude>
     <zone>2</zone>
   </station>
-  <station name="St. Pauls">
+  <station name="St. Pauls Underground Station">
     <required>true</required>
     <line/>
     <osx>532105</osx>
@@ -1926,7 +1926,7 @@
     <longitude>-0.0975565916</longitude>
     <zone>1</zone>
   </station>
-  <station name="Stamford Brook">
+  <station name="Stamford Brook Underground Station">
     <required>true</required>
     <line/>
     <osx>521913</osx>
@@ -1935,7 +1935,7 @@
     <longitude>-0.245231907</longitude>
     <zone>2</zone>
   </station>
-  <station name="Stanmore">
+  <station name="Stanmore Underground Station">
     <required>true</required>
     <line/>
     <osx>517574</osx>
@@ -1944,7 +1944,7 @@
     <longitude>-0.3030848509</longitude>
     <zone>5</zone>
   </station>
-  <station name="Stepney Green">
+  <station name="Stepney Green Underground Station">
     <required>true</required>
     <line/>
     <osx>535566</osx>
@@ -1953,7 +1953,7 @@
     <longitude>-0.047368112</longitude>
     <zone>2</zone>
   </station>
-  <station name="Stockwell">
+  <station name="Stockwell Underground Station">
     <required>true</required>
     <line/>
     <osx>530473</osx>
@@ -1962,7 +1962,7 @@
     <longitude>-0.1228319086</longitude>
     <zone>2</zone>
   </station>
-  <station name="Stonebridge Park">
+  <station name="Stonebridge Park Underground Station">
     <required>true</required>
     <line/>
     <osx>519690</osx>
@@ -1971,7 +1971,7 @@
     <longitude>-0.2753860234</longitude>
     <zone>3</zone>
   </station>
-  <station name="Stratford">
+  <station name="Stratford Underground Station">
     <required>true</required>
     <line/>
     <osx>538533</osx>
@@ -1980,7 +1980,7 @@
     <longitude>-0.0037372234</longitude>
     <zone>3</zone>
   </station>
-  <station name="Sudbury Hill">
+  <station name="Sudbury Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>515427</osx>
@@ -1989,7 +1989,7 @@
     <longitude>-0.3363776928</longitude>
     <zone>4</zone>
   </station>
-  <station name="Sudbury Town">
+  <station name="Sudbury Town Underground Station">
     <required>true</required>
     <line/>
     <osx>516832</osx>
@@ -1998,7 +1998,7 @@
     <longitude>-0.3163290653</longitude>
     <zone>4</zone>
   </station>
-  <station name="Swiss Cottage">
+  <station name="Swiss Cottage Underground Station">
     <required>true</required>
     <line/>
     <osx>526611</osx>
@@ -2007,7 +2007,7 @@
     <longitude>-0.1756121865</longitude>
     <zone>2</zone>
   </station>
-  <station name="Temple">
+  <station name="Temple Underground Station">
     <required>true</required>
     <line/>
     <osx>530995</osx>
@@ -2016,7 +2016,7 @@
     <longitude>-0.1137113424</longitude>
     <zone>1</zone>
   </station>
-  <station name="Theydon Bois">
+  <station name="Theydon Bois Underground Station">
     <required>true</required>
     <line/>
     <osx>545509</osx>
@@ -2025,7 +2025,7 @@
     <longitude>0.1029051953</longitude>
     <zone>6</zone>
   </station>
-  <station name="Tooting Bec">
+  <station name="Tooting Bec Underground Station">
     <required>true</required>
     <line/>
     <osx>528015</osx>
@@ -2034,7 +2034,7 @@
     <longitude>-0.1596861081</longitude>
     <zone>3</zone>
   </station>
-  <station name="Tooting Broadway">
+  <station name="Tooting Broadway Underground Station">
     <required>true</required>
     <line/>
     <osx>527415</osx>
@@ -2043,7 +2043,7 @@
     <longitude>-0.168670146</longitude>
     <zone>3</zone>
   </station>
-  <station name="Tottenham Court Road">
+  <station name="Tottenham Court Road Underground Station">
     <required>true</required>
     <line/>
     <osx>529774</osx>
@@ -2052,7 +2052,7 @@
     <longitude>-0.1310960294</longitude>
     <zone>1</zone>
   </station>
-  <station name="Tottenham Hale">
+  <station name="Tottenham Hale Underground Station">
     <required>true</required>
     <line/>
     <osx>534483</osx>
@@ -2061,7 +2061,7 @@
     <longitude>-0.0601733905</longitude>
     <zone>3</zone>
   </station>
-  <station name="Totteridge and Whetstone">
+  <station name="Totteridge and Whetstone Underground Station">
     <required>true</required>
     <line/>
     <osx>526111</osx>
@@ -2070,7 +2070,7 @@
     <longitude>-0.1793398175</longitude>
     <zone>4</zone>
   </station>
-  <station name="Tower Hill">
+  <station name="Tower Hill Underground Station">
     <required>true</required>
     <line/>
     <osx>533566</osx>
@@ -2079,7 +2079,7 @@
     <longitude>-0.0766867908</longitude>
     <zone>1</zone>
   </station>
-  <station name="Tufnell Park">
+  <station name="Tufnell Park Underground Station">
     <required>true</required>
     <line/>
     <osx>529200</osx>
@@ -2088,7 +2088,7 @@
     <longitude>-0.1377277529</longitude>
     <zone>2</zone>
   </station>
-  <station name="Turnham Green">
+  <station name="Turnham Green Underground Station">
     <required>true</required>
     <line/>
     <osx>521267</osx>
@@ -2097,7 +2097,7 @@
     <longitude>-0.2545101653</longitude>
     <zone>2</zone>
   </station>
-  <station name="Turnpike Lane">
+  <station name="Turnpike Lane Underground Station">
     <required>true</required>
     <line/>
     <osx>531524</osx>
@@ -2106,7 +2106,7 @@
     <longitude>-0.1027906082</longitude>
     <zone>3</zone>
   </station>
-  <station name="Upminster">
+  <station name="Upminster Underground Station">
     <required>true</required>
     <line/>
     <osx>556167</osx>
@@ -2115,7 +2115,7 @@
     <longitude>0.2514152239</longitude>
     <zone>6</zone>
   </station>
-  <station name="Upminster Bridge">
+  <station name="Upminster Bridge Underground Station">
     <required>true</required>
     <line/>
     <osx>555002</osx>
@@ -2124,7 +2124,7 @@
     <longitude>0.2345563112</longitude>
     <zone>6</zone>
   </station>
-  <station name="Upney">
+  <station name="Upney Underground Station">
     <required>true</required>
     <line/>
     <osx>545844</osx>
@@ -2133,7 +2133,7 @@
     <longitude>0.1015461606</longitude>
     <zone>4</zone>
   </station>
-  <station name="Upton Park">
+  <station name="Upton Park Underground Station">
     <required>true</required>
     <line/>
     <osx>541204</osx>
@@ -2142,7 +2142,7 @@
     <longitude>0.0345562556</longitude>
     <zone>3</zone>
   </station>
-  <station name="Uxbridge">
+  <station name="Uxbridge Underground Station">
     <required>true</required>
     <line/>
     <osx>505698</osx>
@@ -2151,7 +2151,7 @@
     <longitude>-0.4770871411</longitude>
     <zone>6</zone>
   </station>
-  <station name="Vauxhall">
+  <station name="Vauxhall Underground Station">
     <required>true</required>
     <line/>
     <osx>530366</osx>
@@ -2160,7 +2160,7 @@
     <longitude>-0.1238155529</longitude>
     <zone>1/2</zone>
   </station>
-  <station name="Victoria">
+  <station name="Victoria Underground Station">
     <required>true</required>
     <line/>
     <osx>528941</osx>
@@ -2169,7 +2169,7 @@
     <longitude>-0.1439063031</longitude>
     <zone>1</zone>
   </station>
-  <station name="Walthamstow Central">
+  <station name="Walthamstow Central Underground Station">
     <required>true</required>
     <line/>
     <osx>537286</osx>
@@ -2178,7 +2178,7 @@
     <longitude>-0.0199261144</longitude>
     <zone>3</zone>
   </station>
-  <station name="Wanstead">
+  <station name="Wanstead Underground Station">
     <required>true</required>
     <line/>
     <osx>540685</osx>
@@ -2187,7 +2187,7 @@
     <longitude>0.0287749005</longitude>
     <zone>4</zone>
   </station>
-  <station name="Warren Street">
+  <station name="Warren Street Underground Station">
     <required>true</required>
     <line/>
     <osx>529253</osx>
@@ -2196,7 +2196,7 @@
     <longitude>-0.1382639195</longitude>
     <zone>1</zone>
   </station>
-  <station name="Warwick Avenue">
+  <station name="Warwick Avenue Underground Station">
     <required>true</required>
     <line/>
     <osx>526158</osx>
@@ -2205,7 +2205,7 @@
     <longitude>-0.1829388814</longitude>
     <zone>2</zone>
   </station>
-  <station name="Waterloo">
+  <station name="Waterloo Underground Station">
     <required>true</required>
     <line/>
     <osx>531050</osx>
@@ -2214,7 +2214,7 @@
     <longitude>-0.1132448466</longitude>
     <zone>1</zone>
   </station>
-  <station name="Watford">
+  <station name="Watford Underground Station">
     <required>true</required>
     <line/>
     <osx>509579</osx>
@@ -2223,7 +2223,7 @@
     <longitude>-0.4172555529</longitude>
     <zone>7</zone>
   </station>
-  <station name="Wembley Central">
+  <station name="Wembley Central Underground Station">
     <required>true</required>
     <line/>
     <osx>518214</osx>
@@ -2232,7 +2232,7 @@
     <longitude>-0.2963779064</longitude>
     <zone>4</zone>
   </station>
-  <station name="Wembley Park">
+  <station name="Wembley Park Underground Station">
     <required>true</required>
     <line/>
     <osx>519373</osx>
@@ -2241,7 +2241,7 @@
     <longitude>-0.2792281284</longitude>
     <zone>4</zone>
   </station>
-  <station name="West Acton">
+  <station name="West Acton Underground Station">
     <required>true</required>
     <line/>
     <osx>519394</osx>
@@ -2250,7 +2250,7 @@
     <longitude>-0.2806427656</longitude>
     <zone>3</zone>
   </station>
-  <station name="West Brompton">
+  <station name="West Brompton Underground Station">
     <required>true</required>
     <line/>
     <osx>525383</osx>
@@ -2259,7 +2259,7 @@
     <longitude>-0.1955244115</longitude>
     <zone>2</zone>
   </station>
-  <station name="West Finchley">
+  <station name="West Finchley Underground Station">
     <required>true</required>
     <line/>
     <osx>525507</osx>
@@ -2268,7 +2268,7 @@
     <longitude>-0.1889026707</longitude>
     <zone>4</zone>
   </station>
-  <station name="West Ham">
+  <station name="West Ham Underground Station">
     <required>true</required>
     <line/>
     <osx>539202</osx>
@@ -2277,7 +2277,7 @@
     <longitude>0.0053318073</longitude>
     <zone>3</zone>
   </station>
-  <station name="West Hampstead">
+  <station name="West Hampstead Underground Station">
     <required>true</required>
     <line/>
     <osx>525524</osx>
@@ -2286,7 +2286,7 @@
     <longitude>-0.1911121662</longitude>
     <zone>2</zone>
   </station>
-  <station name="West Harrow">
+  <station name="West Harrow Underground Station">
     <required>true</required>
     <line/>
     <osx>514163</osx>
@@ -2295,7 +2295,7 @@
     <longitude>-0.3538322681</longitude>
     <zone>5</zone>
   </station>
-  <station name="West Kensington">
+  <station name="West Kensington Underground Station">
     <required>true</required>
     <line/>
     <osx>524635</osx>
@@ -2304,7 +2304,7 @@
     <longitude>-0.2061892935</longitude>
     <zone>2</zone>
   </station>
-  <station name="West Ruislip">
+  <station name="West Ruislip Underground Station">
     <required>true</required>
     <line/>
     <osx>508364</osx>
@@ -2313,7 +2313,7 @@
     <longitude>-0.4378457196</longitude>
     <zone>6</zone>
   </station>
-  <station name="Westbourne Park">
+  <station name="Westbourne Park Underground Station">
     <required>true</required>
     <line/>
     <osx>524920</osx>
@@ -2322,7 +2322,7 @@
     <longitude>-0.2008681042</longitude>
     <zone>2</zone>
   </station>
-  <station name="Westminster">
+  <station name="Westminster Underground Station">
     <required>true</required>
     <line/>
     <osx>530240</osx>
@@ -2331,7 +2331,7 @@
     <longitude>-0.1249876744</longitude>
     <zone>1</zone>
   </station>
-  <station name="White City">
+  <station name="White City Underground Station">
     <required>true</required>
     <line/>
     <osx>523296</osx>
@@ -2340,7 +2340,7 @@
     <longitude>-0.2246175233</longitude>
     <zone>2</zone>
   </station>
-  <station name="Whitechapel">
+  <station name="Whitechapel Underground Station">
     <required>true</required>
     <line/>
     <osx>534738</osx>
@@ -2349,7 +2349,7 @@
     <longitude>-0.0594060746</longitude>
     <zone>2</zone>
   </station>
-  <station name="Whitechapel">
+  <station name="Whitechapel Underground Station">
     <required>true</required>
     <line/>
     <osx>534738</osx>
@@ -2358,7 +2358,7 @@
     <longitude>-0.0594060746</longitude>
     <zone>2</zone>
   </station>
-  <station name="Willesden Green">
+  <station name="Willesden Green Underground Station">
     <required>true</required>
     <line/>
     <osx>523350</osx>
@@ -2367,7 +2367,7 @@
     <longitude>-0.2223931842</longitude>
     <zone>2/3</zone>
   </station>
-  <station name="Willesden Junction">
+  <station name="Willesden Junction Underground Station">
     <required>true</required>
     <line/>
     <osx>521905</osx>
@@ -2376,7 +2376,7 @@
     <longitude>-0.2438947288</longitude>
     <zone>3</zone>
   </station>
-  <station name="Wimbledon">
+  <station name="Wimbledon Underground Station">
     <required>true</required>
     <line/>
     <osx>524791</osx>
@@ -2385,7 +2385,7 @@
     <longitude>-0.2066484564</longitude>
     <zone>3</zone>
   </station>
-  <station name="Wimbledon Park">
+  <station name="Wimbledon Park Underground Station">
     <required>true</required>
     <line/>
     <osx>525274</osx>
@@ -2394,7 +2394,7 @@
     <longitude>-0.1991718915</longitude>
     <zone>3</zone>
   </station>
-  <station name="Wood Green">
+  <station name="Wood Green Underground Station">
     <required>true</required>
     <line/>
     <osx>531038</osx>
@@ -2403,7 +2403,7 @@
     <longitude>-0.1095121543</longitude>
     <zone>3</zone>
   </station>
-  <station name="Wood Lane">
+  <station name="Wood Lane Underground Station">
     <required>true</required>
     <line/>
     <osx>523314</osx>
@@ -2412,7 +2412,7 @@
     <longitude>-0.2244582013</longitude>
     <zone>2</zone>
   </station>
-  <station name="Woodford">
+  <station name="Woodford Underground Station">
     <required>true</required>
     <line/>
     <osx>540952</osx>
@@ -2421,7 +2421,7 @@
     <longitude>0.0340706407</longitude>
     <zone>4</zone>
   </station>
-  <station name="Woodside Park">
+  <station name="Woodside Park Underground Station">
     <required>true</required>
     <line/>
     <osx>525725</osx>

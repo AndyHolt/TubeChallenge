@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Victoria>
-  <station name="Blackhorse Road"/>
-  <station name="Brixton"/>
-  <station name="Finsbury Park"/>
-  <station name="Green Park"/>
-  <station name="Highbury and Islington"/>
-  <station name="Kings Cross St. Pancras"/>
-  <station name="Oxford Circus"/>
-  <station name="Pimlico"/>
-  <station name="Seven Sisters"/>
-  <station name="Stockwell"/>
-  <station name="Tottenham Hale"/>
-  <station name="Vauxhall"/>
-  <station name="Victoria"/>
-  <station name="Walthamstow Central"/>
-  <station name="Warren Street"/>
+  <station name="Blackhorse Road Underground Station"/>
+  <station name="Brixton Underground Station"/>
+  <station name="Finsbury Park Underground Station"/>
+  <station name="Green Park Underground Station"/>
+  <station name="Highbury and Islington Underground Station"/>
+  <station name="Kings Cross St. Pancras Underground Station"/>
+  <station name="Oxford Circus Underground Station"/>
+  <station name="Pimlico Underground Station"/>
+  <station name="Seven Sisters Underground Station"/>
+  <station name="Stockwell Underground Station"/>
+  <station name="Tottenham Hale Underground Station"/>
+  <station name="Vauxhall Underground Station"/>
+  <station name="Victoria Underground Station"/>
+  <station name="Walthamstow Central Underground Station"/>
+  <station name="Warren Street Underground Station"/>
 </Victoria>
