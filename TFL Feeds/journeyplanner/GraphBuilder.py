@@ -99,17 +99,12 @@ class GraphBuilder(object):
         for edge in self.my_edges:
             self.id_list.append(int(edge.get('id')))
 
-        print self.id_list
-
         if len(self.id_list) != 0:
             self.max_id = self.id_list.pop()
         else:
             self.max_id = 0
             self.journey_time_matrix.append([])
             self.add_xml_node(0)
-
-        print "max_id is", self.max_id
-        print "length of station_list is:", len(self.my_station_list.get_list())
 
         self.i_start = self.max_id / len(self.my_station_list.get_list())
         self.j_start = self.max_id % len(self.my_station_list.get_list())
@@ -118,11 +113,6 @@ class GraphBuilder(object):
             self.journey_time_matrix.append([])
             for rows in range(self.j_start+1):
                 self.journey_time_matrix[cols].append([])
-
-        print "i_start value is:", self.i_start
-        print "j_start value is:", self.j_start
-        print "size of journey_time_matrix is:", len(self.journey_time_matrix),\
-            "by", len(self.journey_time_matrix[0])
 
         # finish current origin:
         for j in range(self.j_start+1, len(self.my_station_list.get_list())):
@@ -303,7 +293,6 @@ class GraphBuilder(object):
         import xml.etree.ElementTree as ET
 
         self.edge_id = str((i * len(self.my_station_list.get_list())) + j)
-        print "val for weight:", self.journey_time_matrix[i][j]
         self.new_edge = ET.Element('edge', {'id': self.edge_id,\
                                                 'source': str(i),\
                                                 'target': str(j),\
