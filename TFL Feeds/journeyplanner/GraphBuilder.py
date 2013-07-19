@@ -116,7 +116,14 @@ class GraphBuilder(object):
 
         # finish current origin:
         for j in range(self.j_start+1, len(self.my_station_list.get_list())):
-            if self.i_start != j:
+            if (self.i_start != j)\
+                    and not(self.i_start==95 and j==96) and not(self.i_start==96 and j==95)\
+                    and not(self.i_start==103 and j==104) and not(self.i_start==104 and j==103)\
+                    and not(self.i_start==103 and j==105) and not(self.i_start==105 and j==103)\
+                    and not(self.i_start==104 and j==105) and not(self.i_start==105 and j==104)\
+                    and not(self.i_start==171 and j==172) and not(self.i_start==172 and j==171)\
+                    and not(self.i_start==198 and j==199) and not(self.i_start==199 and j==198)\
+                    and not(self.i_start==260 and j==261) and not(self.i_start==261 and j==260):
                 print "Journey:",\
                     self.my_station_list.get_list()[self.i_start][1].get_name(), \
                     "to",\
@@ -144,7 +151,14 @@ class GraphBuilder(object):
             self.journey_time_matrix.append([])
             self.add_xml_node(i)
             for j in range(len(self.my_station_list.get_list())):
-                if i != j:
+                if (i != j)\
+                        and not(i==95 and j==96) and not(i==96 and j==95)\
+                        and not(i==103 and j==104) and not(i==104 and j==103)\
+                        and not(i==103 and j==105) and not(i==105 and j==103)\
+                        and not(i==104 and j==105) and not(i==105 and j==104)\
+                        and not(i==171 and j==172) and not(i==172 and j==171)\
+                        and not(i==198 and j==199) and not(i==199 and j==198)\
+                        and not(i==260 and j==261) and not(i==261 and j==260):
                     print "Journey:",\
                         self.my_station_list.get_list()[i][1].get_name(), \
                         "to",\
