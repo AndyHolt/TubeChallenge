@@ -27,12 +27,41 @@ class GraphAnalysis(object):
         self.edges_root = self.graph_root.find(self.ns0 + "graph")\
             .find(self.ns0 + "edges")
 
-    def journey_times_hist(self):
         self.journey_times = []
         for journey in self.edges_root:
             self.journey_times.append(float(journey.get('weight')))
 
-        pp.hist(self.journey_times, 10)
+    def journey_times_hist(self):
+        """
+        Draw histogram of journey times.
+        Linear x scale, 10 bins.
+        """
+        pp.hist(self.journey_times, bins=90)
+        pp.xlabel('Journey Time (minutes)')
+        pp.ylabel('Number of Journeys')
+        pp.show()
+
+    def journey_times_hist_log(self):
+        """
+        Draw histogram of journey times.
+        Log x scale - base of 1.57.
+        Gives 10 bins in range 1-90 mins.
+        """
+        self.log_bins = [1.00, 1.57, 2.46, 3.86, 6.05, 9.49,\
+                             14.88, 23.33, 36.59, 57.39, 90.00]
+        pp.hist(self.journey_times, bins=self.log_bins)
+        pp.xlabel('Journey Time (minutes)')
+        pp.ylabel('Number of Journeys')
+        pp.xscale('log', basex=1.57, nonposx = 'clip')
+        pp.show()
+
+    def journey_times_hist_smart(self):
+        """
+        Draw historgram of journey times.
+        Use sensible and useful bin ranges.
+        """
+        self.smart_bins = [0.0, 5.0, 10.0, 15.0, 20.0, 30.0, 60.0, 90.0]
+        pp.hist(self.journey_times, bins=self.smart_bins)
         pp.xlabel('Journey Time (minutes)')
         pp.ylabel('Number of Journeys')
         pp.show()
