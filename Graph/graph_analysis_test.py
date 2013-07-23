@@ -11,4 +11,4 @@ from graph_analysis import *
 
 ga = GraphAnalysis('TubeJourneyTimesGraph_270.gexf')
 
-ga.journey_times_hist()
+ga.station_connectivity_hist()

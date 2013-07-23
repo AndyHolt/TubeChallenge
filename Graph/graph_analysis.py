@@ -28,8 +28,14 @@ class GraphAnalysis(object):
             .find(self.ns0 + "edges")
 
         self.journey_times = []
+        self.connections_leaving = [0 for _ in range(270)]
+        self.connections_arriving = [0 for _ in range(270)]
         for journey in self.edges_root:
             self.journey_times.append(float(journey.get('weight')))
+            self.connections_leaving[int(journey.get('source'))] = \
+                self.connections_leaving[int(journey.get('source'))] + 1
+            self.connections_arriving[int(journey.get('target'))] = \
+                self.connections_arriving[int(journey.get('target'))] + 1
 
     def journey_times_hist(self):
         """
@@ -64,4 +70,15 @@ class GraphAnalysis(object):
         pp.hist(self.journey_times, bins=self.smart_bins)
         pp.xlabel('Journey Time (minutes)')
         pp.ylabel('Number of Journeys')
+        pp.show()
+
+    def station_connectivity_hist(self):
+        """
+        Draw histogram of how many connnections leave and enter each station.
+        """
+        f, (ax1, ax2) = pp.subplots(2, 1, sharex=True)
+        ax1.hist(self.connections_leaving, bins=10)
+        ax1.set_title('Journeys leaving station')
+        ax2.hist(self.connections_arriving, bins=10)
+        ax2.set_title('Journeys arriving at station')
         pp.show()
