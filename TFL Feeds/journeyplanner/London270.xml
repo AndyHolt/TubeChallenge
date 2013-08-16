@@ -243,15 +243,6 @@
     <longitude>-0.1241626274</longitude>
     <zone>3/4</zone>
   </station>
-  <station name="Bow Church Station">
-    <required>true</required>
-    <line/>
-    <osx>537414</osx>
-    <osy>182824</osy>
-    <latitude>51.5276152056</latitude>
-    <longitude>-0.0204854861</longitude>
-    <zone>2</zone>
-  </station>
   <station name="Bow Road Underground Station">
     <required>true</required>
     <line/>
@@ -1476,6 +1467,15 @@
     <longitude>-0.3181849629</longitude>
     <zone>4</zone>
   </station>
+  <station name="Northwood Underground Station">
+    <required>true</required>
+    <line/>
+    <osx>509236</osx>
+    <osy>191441</osy>
+    <latitude>51.6112136623</latitude>
+    <longitude>-0.4238233475</longitude>
+    <zone>6</zone>
+  </station>
   <station name="Northwood Hills Underground Station">
     <required>true</required>
     <line/>
@@ -1826,6 +1826,15 @@
     <latitude>51.5016440579</latitude>
     <longitude>-0.3070258402</longitude>
     <zone>3</zone>
+  </station>
+  <station name="South Harrow Underground Station">
+    <required>true</required>
+    <line/>
+    <osx>514334</osx>
+    <osy>186376</osy>
+    <latitude>51.5646802111</latitude>
+    <longitude>-0.3518795464</longitude>
+    <zone>5</zone>
   </station>
   <station name="South Kensington Underground Station">
     <required>true</required>
@@ -2338,15 +2347,6 @@
     <osy>180750</osy>
     <latitude>51.5122324647</latitude>
     <longitude>-0.2246175233</longitude>
-    <zone>2</zone>
-  </station>
-  <station name="Whitechapel Underground Station">
-    <required>true</required>
-    <line/>
-    <osx>534738</osx>
-    <osy>181859</osy>
-    <latitude>51.5195877923</latitude>
-    <longitude>-0.0594060746</longitude>
     <zone>2</zone>
   </station>
   <station name="Whitechapel Underground Station">
