@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ns0:gexf xmlns:ns0="https://www.gexf.net/1.2draft" xmlns:ns1="http://www.w3.org/2001/XMLSchema-instance" version="1.2" ns1:schemaLocation="http://www.gexf.net/1.2draft   \http://www.gexf.net/1.2draft/gexf.xsd">
+  <ns0:meta lastmodifieddate="2013-08-11">
+    <ns0:creator>Andy Holt</ns0:creator>
+    <ns0:description>Graph of tube network</ns0:description>
+  </ns0:meta>
+  <ns0:graph defaultedgetype="directed">
+    <ns0:attributes class="node">
+      <ns0:attribute id="latitutde" title="latitude" type="double"/>
+      <ns0:attribute id="longitude" title="longitude" type="double"/>
+    </ns0:attributes>
+    <ns0:nodes>
+    </ns0:nodes>
+    <ns0:edges>
+    </ns0:edges>
+  </ns0:graph>
+</ns0:gexf>
