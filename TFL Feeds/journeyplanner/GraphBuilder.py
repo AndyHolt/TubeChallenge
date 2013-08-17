@@ -122,7 +122,7 @@ class GraphBuilder(object):
                     and not(self.i_start==102 and j==104) and not(self.i_start==104 and j==102)\
                     and not(self.i_start==103 and j==104) and not(self.i_start==104 and j==103)\
                     and not(self.i_start==171 and j==172) and not(self.i_start==172 and j==171)\
-                    and not(self.i_start==198 and j==199) and not(self.i_start==199 and j==198)\
+                    and not(self.i_start==198 and j==199) and not(self.i_start==199 and j==198):
                 print "Journey:",\
                     self.my_station_list.get_list()[self.i_start][1].get_name(), \
                     "to",\
@@ -156,7 +156,7 @@ class GraphBuilder(object):
                         and not(i==102 and j==104) and not(i==104 and j==103)\
                         and not(i==103 and j==104) and not(i==104 and j==103)\
                         and not(i==171 and j==172) and not(i==172 and j==171)\
-                        and not(i==198 and j==199) and not(i==199 and j==198)\
+                        and not(i==198 and j==199) and not(i==199 and j==198):
                     print "Journey:",\
                         self.my_station_list.get_list()[i][1].get_name(), \
                         "to",\
